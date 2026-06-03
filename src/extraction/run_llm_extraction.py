@@ -11,6 +11,12 @@ DEFAULT_INPUT_PATH = EXTRACTED_DATA_DIR / "sample_report_text.json"
 DEFAULT_OUTPUT_PATH = EXTRACTED_DATA_DIR / "sample_report_observations.json"
 
 
+def get_observations_output_path(input_path: str | Path) -> Path:
+    path = Path(input_path)
+    report_id = path.name.removesuffix("_text.json")
+    return EXTRACTED_DATA_DIR / f"{report_id}_observations.json"
+
+
 def _save_observations(
     report: dict[str, Any],
     observations: list[Observation],
@@ -75,12 +81,15 @@ def run_selected_chunks_extraction(
 
 def run_all_chunks_extraction(
     input_path: str | Path = DEFAULT_INPUT_PATH,
-    output_path: str | Path = DEFAULT_OUTPUT_PATH,
+    output_path: str | Path | None = None,
+    max_chunks: int | None = None,
 ) -> list[Observation]:
     report = load_json(input_path)
+    output_path = output_path or get_observations_output_path(input_path)
     observations: list[Observation] = []
 
-    for chunk in report["chunks"]:
+    chunks = report["chunks"][:max_chunks]
+    for chunk in chunks:
         observations.extend(
             extract_observations_from_chunk(
                 chunk=chunk,
@@ -90,7 +99,7 @@ def run_all_chunks_extraction(
 
     _save_observations(report, observations, output_path)
 
-    print(f"Processed chunks: {len(report['chunks'])}")
+    print(f"Processed chunks: {len(chunks)}")
     print(f"Extracted observations: {len(observations)}")
     print(f"Saved observations to: {output_path}")
 
