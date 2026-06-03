@@ -46,6 +46,33 @@ def run_one_chunk_extraction(
     return observations
 
 
+def run_selected_chunks_extraction(
+    chunk_indexes: list[int],
+    input_path: str | Path = DEFAULT_INPUT_PATH,
+    output_path: str | Path = DEFAULT_OUTPUT_PATH,
+) -> list[Observation]:
+    report = load_json(input_path)
+    observations: list[Observation] = []
+
+    for chunk_index in chunk_indexes:
+        chunk = report["chunks"][chunk_index]
+        observations.extend(
+            extract_observations_from_chunk(
+                chunk=chunk,
+                report_id=report["report_id"],
+            )
+        )
+        print(f"Processed chunk: {chunk['chunk_id']}")
+
+    _save_observations(report, observations, output_path)
+
+    print(f"Selected chunk indexes: {chunk_indexes}")
+    print(f"Extracted observations: {len(observations)}")
+    print(f"Saved observations to: {output_path}")
+
+    return observations
+
+
 def run_all_chunks_extraction(
     input_path: str | Path = DEFAULT_INPUT_PATH,
     output_path: str | Path = DEFAULT_OUTPUT_PATH,
@@ -71,5 +98,5 @@ def run_all_chunks_extraction(
 
 
 if __name__ == "__main__":
-    run_one_chunk_extraction(chunk_index=6)
+    run_selected_chunks_extraction(chunk_indexes=[6, 7, 8])
     # run_all_chunks_extraction()
