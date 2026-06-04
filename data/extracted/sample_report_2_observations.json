@@ -1,0 +1,1806 @@
+{
+  "report_id": "sample_report_2",
+  "source_file": "sample_report_2.pdf",
+  "observations": [
+    {
+      "observation_id": "sample_report_2_page_002_chunk_001_001",
+      "observation_type": "finding",
+      "category": "Roof",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Some defects noted in the roof coverings.",
+      "recommendation": null,
+      "source_page": 2
+    },
+    {
+      "observation_id": "sample_report_2_page_002_chunk_001_002",
+      "observation_type": "finding",
+      "category": "Roof",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "This is deemed typical in a build of this age.",
+      "recommendation": null,
+      "source_page": 2
+    },
+    {
+      "observation_id": "sample_report_2_page_002_chunk_002_001",
+      "observation_type": "finding",
+      "category": "Roof Covering Condition",
+      "severity": "high",
+      "location": "Ridge and Hip Capping",
+      "description": "Mortar deterioration due to age and weathering",
+      "recommendation": "Repointing to prevent further deterioration and possible water penetration",
+      "source_page": 2
+    },
+    {
+      "observation_id": "sample_report_2_page_002_chunk_002_002",
+      "observation_type": "finding",
+      "category": "Roof Covering Condition",
+      "severity": "high",
+      "location": "Roof Tiles",
+      "description": "Cracked roof tiles",
+      "recommendation": "Replace to prevent water ingress",
+      "source_page": 2
+    },
+    {
+      "observation_id": "sample_report_2_page_002_chunk_002_003",
+      "observation_type": "risk",
+      "category": "Roof Covering Condition",
+      "severity": "high",
+      "location": "Roof Surface",
+      "description": "Mould build up and staining",
+      "recommendation": "Clean roof surface",
+      "source_page": 2
+    },
+    {
+      "observation_id": "sample_report_2_page_002_chunk_002_004",
+      "observation_type": "finding",
+      "category": "Gutters & Downpipes",
+      "severity": "high",
+      "location": "Downpipes",
+      "description": "Rusting",
+      "recommendation": "Repair or replace where necessary",
+      "source_page": 2
+    },
+    {
+      "observation_id": "sample_report_2_page_002_chunk_002_005",
+      "observation_type": "risk",
+      "category": "Gutters & Downpipes",
+      "severity": "high",
+      "location": "Gutters and Downpipes",
+      "description": "Leaks at corners and joins",
+      "recommendation": "Maintenance required to prevent water damage",
+      "source_page": 2
+    },
+    {
+      "observation_id": "sample_report_2_page_003_chunk_001_001",
+      "observation_type": "finding",
+      "category": "Wet Areas",
+      "severity": "medium",
+      "location": "Kitchen",
+      "description": "Some areas have swelled and deteriorated due to moisture affecting the materials used in this situation/area.",
+      "recommendation": null,
+      "source_page": 3
+    },
+    {
+      "observation_id": "sample_report_2_page_003_chunk_001_002",
+      "observation_type": "finding",
+      "category": "Wet Areas",
+      "severity": "medium",
+      "location": "Bathroom",
+      "description": "Some areas have swelled and deteriorated due to moisture affecting the materials used in this situation/area.",
+      "recommendation": null,
+      "source_page": 3
+    },
+    {
+      "observation_id": "sample_report_2_page_003_chunk_001_003",
+      "observation_type": "finding",
+      "category": "Wet Areas",
+      "severity": "medium",
+      "location": "Ensuite Bathroom",
+      "description": "Some areas have swelled and deteriorated due to moisture affecting the materials used in this situation/area.",
+      "recommendation": null,
+      "source_page": 3
+    },
+    {
+      "observation_id": "sample_report_2_page_003_chunk_001_004",
+      "observation_type": "risk",
+      "category": "Wet Areas",
+      "severity": "high",
+      "location": "Ensuite Bathroom",
+      "description": "Some cracked tiles were noted to shower recess, recommend to seal or replace to prevent moisture penetration in this area.",
+      "recommendation": "Seal or replace cracked tiles",
+      "source_page": 3
+    },
+    {
+      "observation_id": "sample_report_2_page_003_chunk_001_005",
+      "observation_type": "finding",
+      "category": "Exterior",
+      "severity": "medium",
+      "location": "External Walls",
+      "description": "Cracking of Building Elements Appearance cracking is noted to areas of external walls indicates that settlement/movement to structure has occurred.",
+      "recommendation": null,
+      "source_page": 3
+    },
+    {
+      "observation_id": "sample_report_2_page_003_chunk_001_006",
+      "observation_type": "risk",
+      "category": "Garaging",
+      "severity": "high",
+      "location": "Floors",
+      "description": "If excessive moisture enters wall frame this may cause wood decay to timbers.",
+      "recommendation": "Further investigation by a builder or competent person",
+      "source_page": 3
+    },
+    {
+      "observation_id": "sample_report_2_page_004_chunk_001_001",
+      "observation_type": "risk",
+      "category": "Drainage - Surface Water",
+      "severity": "high",
+      "location": "left hand side of building",
+      "description": "stormwater may pond or not drain away adequately",
+      "recommendation": "Further investigation by a licensed Plumber",
+      "source_page": 4
+    },
+    {
+      "observation_id": "sample_report_2_page_004_chunk_001_002",
+      "observation_type": "risk",
+      "category": "Yard & Gardens",
+      "severity": "high",
+      "location": "building",
+      "description": "leaves blocking gutters and downpipes, tree branches falling onto house, and undermining/movement of the building foundations",
+      "recommendation": "Engage a suitably qualified and experienced arborist or tree lopping contractor",
+      "source_page": 4
+    },
+    {
+      "observation_id": "sample_report_2_page_005_chunk_001_001",
+      "observation_type": "finding",
+      "category": "Roofing",
+      "severity": "unknown",
+      "location": "South East Queensland",
+      "description": "The inspection DID NOT include breaking apart, dismantling, removing or moving objects including, but not limited to, roof insulation/sarking membrane.",
+      "recommendation": null,
+      "source_page": 5
+    },
+    {
+      "observation_id": "sample_report_2_page_005_chunk_001_002",
+      "observation_type": "finding",
+      "category": "Roofing",
+      "severity": "unknown",
+      "location": "South East Queensland",
+      "description": "The inspection DID NOT include breaking apart, dismantling, removing or moving objects including, but not limited to, skillion roofing.",
+      "recommendation": null,
+      "source_page": 5
+    },
+    {
+      "observation_id": "sample_report_2_page_005_chunk_001_003",
+      "observation_type": "finding",
+      "category": "Roofing",
+      "severity": "unknown",
+      "location": "South East Queensland",
+      "description": "The inspection DID NOT include breaking apart, dismantling, removing or moving objects including, but not limited to, eaves.",
+      "recommendation": null,
+      "source_page": 5
+    },
+    {
+      "observation_id": "sample_report_2_page_005_chunk_001_004",
+      "observation_type": "finding",
+      "category": "Roofing",
+      "severity": "unknown",
+      "location": "South East Queensland",
+      "description": "The inspection DID NOT include breaking apart, dismantling, removing or moving objects including, but not limited to, ceilings.",
+      "recommendation": null,
+      "source_page": 5
+    },
+    {
+      "observation_id": "sample_report_2_page_005_chunk_001_005",
+      "observation_type": "finding",
+      "category": "Roofing",
+      "severity": "unknown",
+      "location": "South East Queensland",
+      "description": "The inspection DID NOT include breaking apart, dismantling, removing or moving objects including, but not limited to, floors.",
+      "recommendation": null,
+      "source_page": 5
+    },
+    {
+      "observation_id": "sample_report_2_page_005_chunk_001_006",
+      "observation_type": "finding",
+      "category": "Roofing",
+      "severity": "unknown",
+      "location": "South East Queensland",
+      "description": "The inspection DID NOT include breaking apart, dismantling, removing or moving objects including, but not limited to, wall coverings.",
+      "recommendation": null,
+      "source_page": 5
+    },
+    {
+      "observation_id": "sample_report_2_page_005_chunk_001_007",
+      "observation_type": "finding",
+      "category": "Roofing",
+      "severity": "unknown",
+      "location": "South East Queensland",
+      "description": "The inspection DID NOT include breaking apart, dismantling, removing or moving objects including, but not limited to, floor coverings.",
+      "recommendation": null,
+      "source_page": 5
+    },
+    {
+      "observation_id": "sample_report_2_page_005_chunk_001_008",
+      "observation_type": "finding",
+      "category": "Roofing",
+      "severity": "unknown",
+      "location": "South East Queensland",
+      "description": "The inspection DID NOT include breaking apart, dismantling, removing or moving objects including, but not limited to, mouldings.",
+      "recommendation": null,
+      "source_page": 5
+    },
+    {
+      "observation_id": "sample_report_2_page_005_chunk_001_009",
+      "observation_type": "finding",
+      "category": "Roofing",
+      "severity": "unknown",
+      "location": "South East Queensland",
+      "description": "The inspection DID NOT include breaking apart, dismantling, removing or moving objects including, but not limited to, foliage.",
+      "recommendation": null,
+      "source_page": 5
+    },
+    {
+      "observation_id": "sample_report_2_page_005_chunk_001_010",
+      "observation_type": "finding",
+      "category": "Roofing",
+      "severity": "unknown",
+      "location": "South East Queensland",
+      "description": "The inspection DID NOT include breaking apart, dismantling, removing or moving objects including, but not limited to, appliances.",
+      "recommendation": null,
+      "source_page": 5
+    },
+    {
+      "observation_id": "sample_report_2_page_005_chunk_001_011",
+      "observation_type": "finding",
+      "category": "Roofing",
+      "severity": "unknown",
+      "location": "South East Queensland",
+      "description": "The inspection DID NOT include breaking apart, dismantling, removing or moving objects including, but not limited to, furnishings.",
+      "recommendation": null,
+      "source_page": 5
+    },
+    {
+      "observation_id": "sample_report_2_page_005_chunk_001_012",
+      "observation_type": "finding",
+      "category": "Roofing",
+      "severity": "unknown",
+      "location": "South East Queensland",
+      "description": "The inspection DID NOT include breaking apart, dismantling, removing or moving objects including, but not limited to, personal possessions.",
+      "recommendation": null,
+      "source_page": 5
+    },
+    {
+      "observation_id": "sample_report_2_page_005_chunk_001_013",
+      "observation_type": "finding",
+      "category": "Roofing",
+      "severity": "unknown",
+      "location": "South East Queensland",
+      "description": "The inspection DID NOT include breaking apart, dismantling, removing or moving objects including, but not limited to, inside walls.",
+      "recommendation": null,
+      "source_page": 5
+    },
+    {
+      "observation_id": "sample_report_2_page_005_chunk_001_014",
+      "observation_type": "finding",
+      "category": "Roofing",
+      "severity": "unknown",
+      "location": "South East Queensland",
+      "description": "The inspection DID NOT include breaking apart, dismantling, removing or moving objects including, but not limited to, between floors.",
+      "recommendation": null,
+      "source_page": 5
+    },
+    {
+      "observation_id": "sample_report_2_page_005_chunk_001_015",
+      "observation_type": "finding",
+      "category": "Roofing",
+      "severity": "unknown",
+      "location": "South East Queensland",
+      "description": "The inspection DID NOT include breaking apart, dismantling, removing or moving objects including, but not limited to, inside skillion roofing.",
+      "recommendation": null,
+      "source_page": 5
+    },
+    {
+      "observation_id": "sample_report_2_page_005_chunk_001_016",
+      "observation_type": "finding",
+      "category": "Roofing",
+      "severity": "unknown",
+      "location": "South East Queensland",
+      "description": "The inspection DID NOT include breaking apart, dismantling, removing or moving objects including, but not limited to, inside the eaves.",
+      "recommendation": null,
+      "source_page": 5
+    },
+    {
+      "observation_id": "sample_report_2_page_005_chunk_001_017",
+      "observation_type": "finding",
+      "category": "Roofing",
+      "severity": "unknown",
+      "location": "South East Queensland",
+      "description": "The inspection DID NOT include breaking apart, dismantling, removing or moving objects including, but not limited to, behind walls.",
+      "recommendation": null,
+      "source_page": 5
+    },
+    {
+      "observation_id": "sample_report_2_page_005_chunk_003_001",
+      "observation_type": "compliance",
+      "category": "Building Structure",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "External walls constructed from timber frame work with brick veneer",
+      "recommendation": null,
+      "source_page": 5
+    },
+    {
+      "observation_id": "sample_report_2_page_005_chunk_003_002",
+      "observation_type": "compliance",
+      "category": "Roofing",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Roof is of pitched construction and covered with concrete tiles",
+      "recommendation": null,
+      "source_page": 5
+    },
+    {
+      "observation_id": "sample_report_2_page_006_chunk_001_001",
+      "observation_type": "compliance",
+      "category": "Roofing",
+      "severity": "unknown",
+      "location": "Roof",
+      "description": "The inspector cannot and does not offer an opinion or warranty as to whether the roof leaks or may be subject to future leakage.",
+      "recommendation": null,
+      "source_page": 6
+    },
+    {
+      "observation_id": "sample_report_2_page_006_chunk_001_002",
+      "observation_type": "risk",
+      "category": "Roofing",
+      "severity": "unknown",
+      "location": "Roof",
+      "description": "The only way to determine whether a roof is absolutely water tight is to make observations during prolonged rainfall.",
+      "recommendation": null,
+      "source_page": 6
+    },
+    {
+      "observation_id": "sample_report_2_page_006_chunk_001_003",
+      "observation_type": "risk",
+      "category": "Roofing",
+      "severity": "unknown",
+      "location": "Roof",
+      "description": "If any sections of the roof were inaccessible due to the method of construction or other factor, further inspection may be required.",
+      "recommendation": null,
+      "source_page": 6
+    },
+    {
+      "observation_id": "sample_report_2_page_006_chunk_001_004",
+      "observation_type": "recommendation",
+      "category": "General",
+      "severity": "low",
+      "location": "Unknown",
+      "description": "Further inspection of areas containing furniture, furnishings and stored goods is strongly recommended once access has been gained.",
+      "recommendation": "Gain access to areas containing furniture, furnishings and stored goods for further inspection.",
+      "source_page": 6
+    },
+    {
+      "observation_id": "sample_report_2_page_006_chunk_002_001",
+      "observation_type": "finding",
+      "category": "Roof",
+      "severity": "high",
+      "location": "Ridge and Hip Capping",
+      "description": "Mortar deterioration due to age and weathering",
+      "recommendation": "Repointing",
+      "source_page": 6
+    },
+    {
+      "observation_id": "sample_report_2_page_006_chunk_002_002",
+      "observation_type": "finding",
+      "category": "Roof",
+      "severity": "high",
+      "location": "Roof Tiles",
+      "description": "Cracked roof tiles",
+      "recommendation": "Replace",
+      "source_page": 6
+    },
+    {
+      "observation_id": "sample_report_2_page_006_chunk_002_003",
+      "observation_type": "risk",
+      "category": "Roof",
+      "severity": "high",
+      "location": "Ridge and Hip Capping",
+      "description": "Possible water penetration due to mortar deterioration",
+      "recommendation": null,
+      "source_page": 6
+    },
+    {
+      "observation_id": "sample_report_2_page_006_chunk_002_004",
+      "observation_type": "risk",
+      "category": "Roof",
+      "severity": "high",
+      "location": "Roof Tiles",
+      "description": "Water ingress due to cracked roof tiles",
+      "recommendation": null,
+      "source_page": 6
+    },
+    {
+      "observation_id": "sample_report_2_page_006_chunk_002_005",
+      "observation_type": "recommendation",
+      "category": "Roof",
+      "severity": "low",
+      "location": "Roof Surface",
+      "description": "Clean roof surface due to mould build up and staining",
+      "recommendation": "Clean roof surface",
+      "source_page": 6
+    },
+    {
+      "observation_id": "sample_report_2_page_007_chunk_001_001",
+      "observation_type": "recommendation",
+      "category": "Roof Gables",
+      "severity": "high",
+      "location": "Roof Gables",
+      "description": "Repairs and maintenance required due to age and weathering.",
+      "recommendation": "Sealants and painting.",
+      "source_page": 7
+    },
+    {
+      "observation_id": "sample_report_2_page_007_chunk_001_002",
+      "observation_type": "recommendation",
+      "category": "Flashings",
+      "severity": "high",
+      "location": "Flashings",
+      "description": "Silicone sealants to flashings will require ongoing maintenance.",
+      "recommendation": "Check and repair annually.",
+      "source_page": 7
+    },
+    {
+      "observation_id": "sample_report_2_page_007_chunk_001_003",
+      "observation_type": "finding",
+      "category": "Gutters & Downpipes",
+      "severity": "high",
+      "location": "Down Pipe(s)",
+      "description": "Rusting.",
+      "recommendation": "Repair or replace where necessary.",
+      "source_page": 7
+    },
+    {
+      "observation_id": "sample_report_2_page_007_chunk_001_004",
+      "observation_type": "finding",
+      "category": "Gutters & Downpipes",
+      "severity": "medium",
+      "location": "Left hand side elevation",
+      "description": "Leaks to downpipes and gutters at corners and joins.",
+      "recommendation": "Maintenance required to prevent water damage.",
+      "source_page": 7
+    },
+    {
+      "observation_id": "sample_report_2_page_007_chunk_001_005",
+      "observation_type": "recommendation",
+      "category": "Gutters & Downpipes",
+      "severity": "low",
+      "location": "Various sections of all elevations",
+      "description": "Leaves and debris are present in gutters.",
+      "recommendation": "Clear gutters to extend life and prevent water penetration.",
+      "source_page": 7
+    },
+    {
+      "observation_id": "sample_report_2_page_007_chunk_001_006",
+      "observation_type": "recommendation",
+      "category": "Valleys",
+      "severity": "low",
+      "location": "Valley area",
+      "description": "Leaves and debris to valley area.",
+      "recommendation": "Clear debris to prevent water penetration.",
+      "source_page": 7
+    },
+    {
+      "observation_id": "sample_report_2_page_007_chunk_001_007",
+      "observation_type": "compliance",
+      "category": "Eaves, Fascias & Barge Boards",
+      "severity": "unknown",
+      "location": "Eaves",
+      "description": "The overall condition of the eaves lining is good.",
+      "recommendation": null,
+      "source_page": 7
+    },
+    {
+      "observation_id": "sample_report_2_page_007_chunk_001_008",
+      "observation_type": "compliance",
+      "category": "Eaves, Fascias & Barge Boards",
+      "severity": "unknown",
+      "location": "Fascias & Bargeboards",
+      "description": "The overall condition of the fascias/bargeboards is good.",
+      "recommendation": null,
+      "source_page": 7
+    },
+    {
+      "observation_id": "sample_report_2_page_008_chunk_001_001",
+      "observation_type": "risk",
+      "category": "Roof System Internal",
+      "severity": "high",
+      "location": "Roof cavity",
+      "description": "Damage and or defects may be present and not detected in areas where inspection was limited, obstructed or access was not gained.",
+      "recommendation": "Access be gained to enable a full inspection inaccessible areas.",
+      "source_page": 8
+    },
+    {
+      "observation_id": "sample_report_2_page_008_chunk_001_002",
+      "observation_type": "risk",
+      "category": "Roof System Internal",
+      "severity": "high",
+      "location": "Roof void above garage",
+      "description": "No insulation is present to roof void above garage.",
+      "recommendation": null,
+      "source_page": 8
+    },
+    {
+      "observation_id": "sample_report_2_page_008_chunk_001_003",
+      "observation_type": "risk",
+      "category": "Roof System Internal",
+      "severity": "high",
+      "location": "Roof cavity",
+      "description": "Sarking is torn or has holes in some areas. This may affect the waterproofing ability of the sarking.",
+      "recommendation": null,
+      "source_page": 8
+    },
+    {
+      "observation_id": "sample_report_2_page_008_chunk_001_004",
+      "observation_type": "risk",
+      "category": "Roof System Internal",
+      "severity": "high",
+      "location": "Eaves",
+      "description": "Inspection over the eaves was restricted due to the low pitch and construction allowing only a limited visual inspection.",
+      "recommendation": null,
+      "source_page": 8
+    },
+    {
+      "observation_id": "sample_report_2_page_008_chunk_001_005",
+      "observation_type": "risk",
+      "category": "Roof System Internal",
+      "severity": "high",
+      "location": "Roof cavity",
+      "description": "Removal of insulation is not within the scope of a standard visual inspection report.",
+      "recommendation": null,
+      "source_page": 8
+    },
+    {
+      "observation_id": "sample_report_2_page_008_chunk_001_006",
+      "observation_type": "risk",
+      "category": "Roof System Internal",
+      "severity": "high",
+      "location": "Roof cavity",
+      "description": "Sarking membrane covered roof battens restricting inspection.",
+      "recommendation": null,
+      "source_page": 8
+    },
+    {
+      "observation_id": "sample_report_2_page_008_chunk_001_007",
+      "observation_type": "risk",
+      "category": "Interior Condition Report",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Damage and or defects may be present and not detected in areas where inspection was limited, obstructed or access was not gained.",
+      "recommendation": "Access be gained to enable a full inspection inaccessible areas.",
+      "source_page": 8
+    },
+    {
+      "observation_id": "sample_report_2_page_009_chunk_001_001",
+      "observation_type": "finding",
+      "category": "Ceilings",
+      "severity": "low",
+      "location": "Various areas",
+      "description": "Minor undulations were noted to the ceiling lining.",
+      "recommendation": null,
+      "source_page": 9
+    },
+    {
+      "observation_id": "sample_report_2_page_009_chunk_001_002",
+      "observation_type": "finding",
+      "category": "Ceilings",
+      "severity": "low",
+      "location": "Various areas",
+      "description": "This is deemed typical in a house of this age.",
+      "recommendation": null,
+      "source_page": 9
+    },
+    {
+      "observation_id": "sample_report_2_page_009_chunk_001_003",
+      "observation_type": "finding",
+      "category": "Windows",
+      "severity": "low",
+      "location": "Various areas",
+      "description": "Some minor defects noted.",
+      "recommendation": null,
+      "source_page": 9
+    },
+    {
+      "observation_id": "sample_report_2_page_009_chunk_001_004",
+      "observation_type": "finding",
+      "category": "Windows",
+      "severity": "low",
+      "location": "Various areas",
+      "description": "This is deemed typical in a building of this age.",
+      "recommendation": null,
+      "source_page": 9
+    },
+    {
+      "observation_id": "sample_report_2_page_009_chunk_001_005",
+      "observation_type": "finding",
+      "category": "Windows",
+      "severity": "low",
+      "location": "Various areas",
+      "description": "Rollers require maintenance.",
+      "recommendation": "Maintenance required",
+      "source_page": 9
+    },
+    {
+      "observation_id": "sample_report_2_page_009_chunk_001_006",
+      "observation_type": "finding",
+      "category": "Windows",
+      "severity": "low",
+      "location": "Various areas",
+      "description": "Some glass doors and windows heavy to slide.",
+      "recommendation": null,
+      "source_page": 9
+    },
+    {
+      "observation_id": "sample_report_2_page_009_chunk_001_007",
+      "observation_type": "finding",
+      "category": "Floors",
+      "severity": "low",
+      "location": "Family room",
+      "description": "Chipped floor tiles are present.",
+      "recommendation": null,
+      "source_page": 9
+    },
+    {
+      "observation_id": "sample_report_2_page_010_chunk_001_001",
+      "observation_type": "recommendation",
+      "category": "maintenance",
+      "severity": "unknown",
+      "location": "Wet areas",
+      "description": "Adequate and proper ongoing maintenance will be required in the future.",
+      "recommendation": "null",
+      "source_page": 10
+    },
+    {
+      "observation_id": "sample_report_2_page_010_chunk_001_002",
+      "observation_type": "risk",
+      "category": "water damage",
+      "severity": "high",
+      "location": "Wet areas",
+      "description": "Very minor imperfections can allow water to get into the wall or floor areas and cause damage.",
+      "recommendation": "null",
+      "source_page": 10
+    },
+    {
+      "observation_id": "sample_report_2_page_010_chunk_001_003",
+      "observation_type": "risk",
+      "category": "plumbing",
+      "severity": "unknown",
+      "location": "Kitchen",
+      "description": "Some areas have swelled and deteriorated due to moisture affecting the materials used in this situation/area.",
+      "recommendation": "null",
+      "source_page": 10
+    },
+    {
+      "observation_id": "sample_report_2_page_010_chunk_001_004",
+      "observation_type": "risk",
+      "category": "electrical",
+      "severity": "unknown",
+      "location": "Kitchen",
+      "description": "In regard to plumbing or electrical, it should be noted that we are not plumbers or electricians and any comment made is not that of a qualified plumber or electrician.",
+      "recommendation": "null",
+      "source_page": 10
+    },
+    {
+      "observation_id": "sample_report_2_page_010_chunk_001_005",
+      "observation_type": "recommendation",
+      "category": "plumbing",
+      "severity": "unknown",
+      "location": "Kitchen",
+      "description": "We recommend that a qualified contractor be engaged to make comment on any matter dealing with plumbing or electrical issues.",
+      "recommendation": "Engage a qualified contractor",
+      "source_page": 10
+    },
+    {
+      "observation_id": "sample_report_2_page_011_chunk_001_001",
+      "observation_type": "recommendation",
+      "category": "Sealants and Grouting",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Maintain all sealants and grouting to prevent moisture penetration and damage.",
+      "recommendation": "Maintain all sealants and grouting to prevent moisture penetration and damage.",
+      "source_page": 11
+    },
+    {
+      "observation_id": "sample_report_2_page_011_chunk_001_002",
+      "observation_type": "finding",
+      "category": "Tile Condition",
+      "severity": "low",
+      "location": "Ensuite Bathroom",
+      "description": "Some cracked tiles were noted to shower recess.",
+      "recommendation": "Seal or replace to prevent moisture penetration in this area.",
+      "source_page": 11
+    },
+    {
+      "observation_id": "sample_report_2_page_012_chunk_001_001",
+      "observation_type": "risk",
+      "category": "access",
+      "severity": "high",
+      "location": "inaccessible areas",
+      "description": "Damage and or defects may be present and not detected in areas where inspection was limited, obstructed or access was not gained.",
+      "recommendation": "access be gained to enable a full inspection inaccessible areas",
+      "source_page": 12
+    },
+    {
+      "observation_id": "sample_report_2_page_012_chunk_001_002",
+      "observation_type": "finding",
+      "category": "cracking",
+      "severity": "medium",
+      "location": "Rear elevation",
+      "description": "Appearance cracking is noted to areas of external walls indicates that settlement/movement to structure has occurred.",
+      "recommendation": null,
+      "source_page": 12
+    },
+    {
+      "observation_id": "sample_report_2_page_012_chunk_001_003",
+      "observation_type": "risk",
+      "category": "access",
+      "severity": "high",
+      "location": "inaccessible areas",
+      "description": "Damage and or defects may be present and not detected in areas where inspection was limited, obstructed or access was not gained.",
+      "recommendation": "access be gained to enable a full inspection inaccessible areas",
+      "source_page": 12
+    },
+    {
+      "observation_id": "sample_report_2_page_012_chunk_001_004",
+      "observation_type": "recommendation",
+      "category": "access",
+      "severity": "low",
+      "location": "inaccessible areas",
+      "description": "If restrictions are noted we recommend access be gained to enable a full inspection inaccessible areas.",
+      "recommendation": null,
+      "source_page": 12
+    },
+    {
+      "observation_id": "sample_report_2_page_012_chunk_001_005",
+      "observation_type": "finding",
+      "category": "condition",
+      "severity": "low",
+      "location": "Garage",
+      "description": "The structure is generally in fair condition.",
+      "recommendation": null,
+      "source_page": 12
+    },
+    {
+      "observation_id": "sample_report_2_page_012_chunk_001_006",
+      "observation_type": "finding",
+      "category": "condition",
+      "severity": "low",
+      "location": "Front Doors",
+      "description": "The main garage door is a panel lift style door and is in good condition.",
+      "recommendation": null,
+      "source_page": 12
+    },
+    {
+      "observation_id": "sample_report_2_page_013_chunk_001_001",
+      "observation_type": "finding",
+      "category": "moisture ingress",
+      "severity": "medium",
+      "location": "concrete sections where floor and wall join",
+      "description": "salt/damp staining to concrete suggests some moisture ingress to concrete maybe present",
+      "recommendation": "further investigation by a builder or competent person",
+      "source_page": 13
+    },
+    {
+      "observation_id": "sample_report_2_page_013_chunk_001_002",
+      "observation_type": "finding",
+      "category": "paint work",
+      "severity": "low",
+      "location": "internal walls",
+      "description": "paint work has deteriorated and/or is incomplete",
+      "recommendation": "repainting",
+      "source_page": 13
+    },
+    {
+      "observation_id": "sample_report_2_page_013_chunk_001_003",
+      "observation_type": "risk",
+      "category": "wood decay",
+      "severity": "high",
+      "location": "wall frame",
+      "description": "excessive moisture entering wall frame may cause wood decay to timbers",
+      "recommendation": null,
+      "source_page": 13
+    },
+    {
+      "observation_id": "sample_report_2_page_013_chunk_001_004",
+      "observation_type": "risk",
+      "category": "inadequate drainage",
+      "severity": "unknown",
+      "location": "decks and balconies",
+      "description": "waterproof decks and balconies are defective if they leak, pond water and/or do not drain to outer edge, or storm water outlet",
+      "recommendation": null,
+      "source_page": 13
+    },
+    {
+      "observation_id": "sample_report_2_page_013_chunk_001_005",
+      "observation_type": "risk",
+      "category": "non-compliance",
+      "severity": "unknown",
+      "location": "outbuildings",
+      "description": "outbuildings constructed on properties may require building approvals if over 10m2 in floor area or more than 2.4m high",
+      "recommendation": "contact local council to ensure outbuildings have been approved and inspected",
+      "source_page": 13
+    },
+    {
+      "observation_id": "sample_report_2_page_013_chunk_002_001",
+      "observation_type": "compliance",
+      "category": "outbuilding",
+      "severity": "unknown",
+      "location": "Outbuilding A",
+      "description": "Outbuildings have been approved and inspected as required",
+      "recommendation": "Contact local council",
+      "source_page": 13
+    },
+    {
+      "observation_id": "sample_report_2_page_013_chunk_002_002",
+      "observation_type": "finding",
+      "category": "outbuilding",
+      "severity": "unknown",
+      "location": "Outbuilding A",
+      "description": "The structure is generally in good condition",
+      "recommendation": null,
+      "source_page": 13
+    },
+    {
+      "observation_id": "sample_report_2_page_014_chunk_001_001",
+      "observation_type": "finding",
+      "category": "fences",
+      "severity": "high",
+      "location": "base of fences",
+      "description": "wood decay and/or conceal current timber pest attack and significantly increases the risk of future attack",
+      "recommendation": "modifications be made",
+      "source_page": 14
+    },
+    {
+      "observation_id": "sample_report_2_page_014_chunk_001_002",
+      "observation_type": "risk",
+      "category": "fences",
+      "severity": "high",
+      "location": "base of fences",
+      "description": "soil etc, should not be built up against fencing timbers",
+      "recommendation": "modifications be made",
+      "source_page": 14
+    },
+    {
+      "observation_id": "sample_report_2_page_014_chunk_001_003",
+      "observation_type": "finding",
+      "category": "paths/paved areas",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "The concrete paths/paved areas are in good condition",
+      "recommendation": null,
+      "source_page": 14
+    },
+    {
+      "observation_id": "sample_report_2_page_014_chunk_001_004",
+      "observation_type": "finding",
+      "category": "drainage - surface water",
+      "severity": "unknown",
+      "location": "left hand side of building",
+      "description": "Evidence that stormwater may pond or not drain away adequately",
+      "recommendation": "further investigate the most appropriate method of rectification and probable costs of rectification works",
+      "source_page": 14
+    },
+    {
+      "observation_id": "sample_report_2_page_014_chunk_001_005",
+      "observation_type": "risk",
+      "category": "pool fencing",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "pool fencing will need to be certified by a building certifier if the correct documentation cannot be obtained",
+      "recommendation": null,
+      "source_page": 14
+    },
+    {
+      "observation_id": "sample_report_2_page_015_chunk_001_001",
+      "observation_type": "recommendation",
+      "category": "site drainage",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Obtain a Smoke Test to determine any illegal connections, blocked or broken drains.",
+      "recommendation": "Obtain a Smoke Test",
+      "source_page": 15
+    },
+    {
+      "observation_id": "sample_report_2_page_015_chunk_001_002",
+      "observation_type": "risk",
+      "category": "yard and gardens",
+      "severity": "high",
+      "location": "building",
+      "description": "Mature trees located in close proximity to the building can lead to problems such as leaves blocking gutters and downpipes, tree branches falling onto house, and are conducive to undermining/movement of the building foundations.",
+      "recommendation": "Engage a suitably qualified and experienced arborist or tree lopping contractor to advise on the best course of action and associated costs.",
+      "source_page": 15
+    },
+    {
+      "observation_id": "sample_report_2_page_015_chunk_002_001",
+      "observation_type": "recommendation",
+      "category": "Plumbing",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Regularly check and maintain flexi hoses to ensure they are not kinked or corroding.",
+      "recommendation": "Have a qualified plumber inspect and regularly check and maintain your flexi hoses.",
+      "source_page": 15
+    },
+    {
+      "observation_id": "sample_report_2_page_015_chunk_002_002",
+      "observation_type": "recommendation",
+      "category": "Electrical",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Check the positioning and installation of smoke alarm(s) to meet the requirements of the legislation.",
+      "recommendation": "Consult an electrician to check the smoke alarm(s).",
+      "source_page": 15
+    },
+    {
+      "observation_id": "sample_report_2_page_015_chunk_002_003",
+      "observation_type": "risk",
+      "category": "Plumbing",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Braided hoses can burst and cause significant water damage.",
+      "recommendation": null,
+      "source_page": 15
+    },
+    {
+      "observation_id": "sample_report_2_page_015_chunk_002_004",
+      "observation_type": "risk",
+      "category": "Electrical",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Inadequate smoke alarm installation can lead to costly and time-consuming consequences.",
+      "recommendation": null,
+      "source_page": 15
+    },
+    {
+      "observation_id": "sample_report_2_page_015_chunk_002_005",
+      "observation_type": "recommendation",
+      "category": "Plumbing",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Check underground plumbing lines using CCTV camera inspections.",
+      "recommendation": "Have all services, including plumbing, checked by appropriately qualified contractors.",
+      "source_page": 15
+    },
+    {
+      "observation_id": "sample_report_2_page_015_chunk_003_001",
+      "observation_type": "compliance",
+      "category": "Fire Safety",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Smoke alarm(s) positioning and installation require verification against legislation.",
+      "recommendation": null,
+      "source_page": 15
+    },
+    {
+      "observation_id": "sample_report_2_page_016_chunk_001_001",
+      "observation_type": "finding",
+      "category": "Electrical",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Gas is connected to the premises but has not been inspected.",
+      "recommendation": null,
+      "source_page": 16
+    },
+    {
+      "observation_id": "sample_report_2_page_016_chunk_001_002",
+      "observation_type": "finding",
+      "category": "Electrical",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Smoke detectors are fitted but the type or quality of the alarm/s, the battery condition or if they are hardwired to the 240 volt power supply has not been checked.",
+      "recommendation": "It is essential to check the smoke alarms when you take possession of the property. It is advisable to contact an electrical contractor in regard to smoke alarm installation.",
+      "source_page": 16
+    },
+    {
+      "observation_id": "sample_report_2_page_016_chunk_001_003",
+      "observation_type": "finding",
+      "category": "Plumbing",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "A Water meter is present.",
+      "recommendation": null,
+      "source_page": 16
+    },
+    {
+      "observation_id": "sample_report_2_page_016_chunk_001_004",
+      "observation_type": "finding",
+      "category": "Plumbing",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Electric Pump is present, but has not been inspected.",
+      "recommendation": null,
+      "source_page": 16
+    },
+    {
+      "observation_id": "sample_report_2_page_016_chunk_001_005",
+      "observation_type": "finding",
+      "category": "Mechanical",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "A water tank is present.",
+      "recommendation": null,
+      "source_page": 16
+    },
+    {
+      "observation_id": "sample_report_2_page_016_chunk_001_006",
+      "observation_type": "finding",
+      "category": "Mechanical",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Air-conditioning is installed in the premises but has not been inspected.",
+      "recommendation": null,
+      "source_page": 16
+    },
+    {
+      "observation_id": "sample_report_2_page_016_chunk_001_007",
+      "observation_type": "risk",
+      "category": "Electrical",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Dwellings being sold, leased or and existing lease is renewed new smoke alarm requirements are affective from 1 January 2022.",
+      "recommendation": "It is recommended that an electrician be consulted to check on positioning and installation of the smoke alarm(s) to whether the smoke alarm(s) meet the requirements of the legislation,",
+      "source_page": 16
+    },
+    {
+      "observation_id": "sample_report_2_page_017_chunk_001_001",
+      "observation_type": "finding",
+      "category": "Electrical",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Safety switches were found to be installed.",
+      "recommendation": null,
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_2_page_017_chunk_001_002",
+      "observation_type": "risk",
+      "category": "Electrical",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Note: only a licensed electrician can verify if safety switch is connected to appropriate circuits.",
+      "recommendation": null,
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_2_page_017_chunk_001_003",
+      "observation_type": "finding",
+      "category": "Plumbing",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Water pressure appears to be normal, however, this is not an opinion of a licensed plumber.",
+      "recommendation": null,
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_2_page_017_chunk_001_004",
+      "observation_type": "recommendation",
+      "category": "General",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "It is strongly recommended that the following inspections and reports for, Electrical and Plumbing services to the property be obtained prior to any decision to purchase the property.",
+      "recommendation": "Obtain Electrical and Plumbing inspections and reports",
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_2_page_017_chunk_001_005",
+      "observation_type": "risk",
+      "category": "General",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "We strongly recommend that such access be gained to enable a more complete report to be submitted.",
+      "recommendation": "Gain access to restricted areas",
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_2_page_017_chunk_002_001",
+      "observation_type": "recommendation",
+      "category": "access",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Access must be gained to enable a more complete report to be submitted.",
+      "recommendation": "Access should be gained to enable a more complete report to be submitted.",
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_2_page_017_chunk_002_002",
+      "observation_type": "risk",
+      "category": "access",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "No responsibility can be accepted for defects which are latent or otherwise not reasonably detected on a visual inspection without interference with or removal of any of the structure including fixtures or fittings within the building.",
+      "recommendation": null,
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_2_page_018_chunk_001_001",
+      "observation_type": "compliance",
+      "category": "report",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "This report is limited to a visual inspection of areas where reasonable access is available at the time of inspection.",
+      "recommendation": null,
+      "source_page": 18
+    },
+    {
+      "observation_id": "sample_report_2_page_018_chunk_001_002",
+      "observation_type": "compliance",
+      "category": "report",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "It does not purport to be geological as to foundation integrity or soil conditions, engineering as to structural, nor does it cover the following:",
+      "recommendation": null,
+      "source_page": 18
+    },
+    {
+      "observation_id": "sample_report_2_page_018_chunk_001_003",
+      "observation_type": "compliance",
+      "category": "report",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "DISCLAIMER OF LIABILITY: No liability shall be accepted on account of failure of the Report to notify any problems in any area(s) or section(s) of the subject property physically inaccessible for inspection, or to which access for Inspection is denied by or to the Inspector (including but not limited to any area(s) or section(s) so specified by the Report.",
+      "recommendation": null,
+      "source_page": 18
+    },
+    {
+      "observation_id": "sample_report_2_page_018_chunk_001_004",
+      "observation_type": "compliance",
+      "category": "report",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "DISCLAIMER OF LIABILITY TO THIRD PARTIES: Compensation will only be payable for losses arising in the contract or tort sustained by the Client named on the front of this report.",
+      "recommendation": null,
+      "source_page": 18
+    },
+    {
+      "observation_id": "sample_report_2_page_018_chunk_002_001",
+      "observation_type": "recommendation",
+      "category": "safety",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "An electrical report should be carried out by a suitably qualified contractor.",
+      "recommendation": "Electrical report by a suitably qualified contractor",
+      "source_page": 18
+    },
+    {
+      "observation_id": "sample_report_2_page_018_chunk_002_002",
+      "observation_type": "recommendation",
+      "category": "safety",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "A Special Purpose Property Report is recommended if a detailed report is required.",
+      "recommendation": "Special Purpose Property Report",
+      "source_page": 18
+    },
+    {
+      "observation_id": "sample_report_2_page_018_chunk_003_001",
+      "observation_type": "risk",
+      "category": "waterproofing",
+      "severity": "high",
+      "location": "shower and bath recesses",
+      "description": "Temporary waterproofing measures may break down over time, potentially leading to leaks.",
+      "recommendation": "Regular maintenance and inspection of shower and bath recesses to detect potential leaks.",
+      "source_page": 18
+    },
+    {
+      "observation_id": "sample_report_2_page_018_chunk_003_002",
+      "observation_type": "risk",
+      "category": "glass safety",
+      "severity": "high",
+      "location": "glass panes in doors and windows",
+      "description": "Older glass panes may not comply with current safety standards.",
+      "recommendation": "Replace glass panes with safety glass or install shatterproof film.",
+      "source_page": 18
+    },
+    {
+      "observation_id": "sample_report_2_page_018_chunk_003_003",
+      "observation_type": "risk",
+      "category": "stairs and balustrades",
+      "severity": "high",
+      "location": "stairs and balustrades built before 1996",
+      "description": "Many balustrades and stairs built before 1996 may not comply with current safety standards.",
+      "recommendation": "Upgrade all non-compliant balustrades and stairs to meet current standards.",
+      "source_page": 18
+    },
+    {
+      "observation_id": "sample_report_2_page_018_chunk_004_001",
+      "observation_type": "recommendation",
+      "category": "safety",
+      "severity": "high",
+      "location": "balustrades and stairs built before 1996",
+      "description": "Many balustrades and stairs built before 1996 may not comply with the current standard.",
+      "recommendation": "Upgrade all such items to the current standard",
+      "source_page": 18
+    },
+    {
+      "observation_id": "sample_report_2_page_019_chunk_001_001",
+      "observation_type": "recommendation",
+      "category": "pool inspection",
+      "severity": "unknown",
+      "location": "building location or Unknown",
+      "description": "A detailed inspection on the status or serviceability of any swimming pool or associated pool equipment has not been carried out and is not within the scope of this report.",
+      "recommendation": "Recommend a pool expert to carry out this inspection.",
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_2_page_019_chunk_001_002",
+      "observation_type": "recommendation",
+      "category": "pool inspection",
+      "severity": "unknown",
+      "location": "building location or Unknown",
+      "description": "To adequately inspect a swimming pool, the water must be completely drained and all internal surfaces must be fully accessible.",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_2_page_019_chunk_001_003",
+      "observation_type": "recommendation",
+      "category": "pool safety",
+      "severity": "unknown",
+      "location": "building location or Unknown",
+      "description": "Pool safety laws, new pool laws state that a Pool Safety Certificate is required for houses, townhouse and units etc. (class 1-4 buildings).",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_2_page_019_chunk_001_004",
+      "observation_type": "recommendation",
+      "category": "special purpose report",
+      "severity": "unknown",
+      "location": "building location or Unknown",
+      "description": "The operation of fireplaces, chimneys, alarm systems, intercom systems, electrical and mechanical appliances, air conditioning systems, and residual current devices have not been tested and are the subject of a Special Purpose Property Report.",
+      "recommendation": "Should you require an inspection to be carried out on any item not specified in this report, please contact us to arrange a Special Purpose Property Report.",
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_2_page_019_chunk_001_005",
+      "observation_type": "recommendation",
+      "category": "special purpose report",
+      "severity": "unknown",
+      "location": "building location or Unknown",
+      "description": "This report does not identify timber-destroying pests. A timber pest inspection report should be obtained from a qualified timber pest inspector.",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_2_page_019_chunk_001_006",
+      "observation_type": "recommendation",
+      "category": "cost estimates",
+      "severity": "unknown",
+      "location": "building location or Unknown",
+      "description": "If any cost of work estimates are given, these are merely opinions and should be taken as a general guide only.",
+      "recommendation": "You must obtain independent quotations on any significant notable item from several contractors prior to purchase.",
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_2_page_019_chunk_002_001",
+      "observation_type": "recommendation",
+      "category": "electrical",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Conditioning systems, and residual current devices have not been tested and are the subject of a Special Purpose Property Report.",
+      "recommendation": "Request a Special Purpose Property Report on the specific item required.",
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_2_page_019_chunk_002_002",
+      "observation_type": "risk",
+      "category": "waterproofing",
+      "severity": "high",
+      "location": "Rooms below ground level or underneath part or all of a building",
+      "description": "Damp problems, water entry, waterproofing and ventilation inadequacies to these types of rooms, especially during periods of heavy rainfall.",
+      "recommendation": "Recommend a special purpose report be carried out to assess the adequacy or inadequacy of the drainage and/or waterproofing membranes to these areas.",
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_2_page_019_chunk_002_003",
+      "observation_type": "recommendation",
+      "category": "maintenance",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Where the property is covered by an Owners Corporation (Strata Title), we strongly recommend that an Owners Corporation search be conducted to ascertain the financial position, the level of maintenance and any other relevant information available through the conduct of such an inspection.",
+      "recommendation": "Conduct an Owners Corporation search",
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_2_page_019_chunk_003_001",
+      "observation_type": "compliance",
+      "category": "condition",
+      "severity": "unknown",
+      "location": "buildings of similar age and construction",
+      "description": "high standard of workmanship",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_2_page_019_chunk_003_002",
+      "observation_type": "finding",
+      "category": "condition",
+      "severity": "low",
+      "location": "Unknown",
+      "description": "minor defects",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_2_page_019_chunk_003_003",
+      "observation_type": "finding",
+      "category": "condition",
+      "severity": "low",
+      "location": "Unknown",
+      "description": "minor damage",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_2_page_019_chunk_003_004",
+      "observation_type": "finding",
+      "category": "condition",
+      "severity": "low",
+      "location": "Unknown",
+      "description": "deterioration in form of rusting",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_2_page_019_chunk_003_005",
+      "observation_type": "finding",
+      "category": "condition",
+      "severity": "low",
+      "location": "Unknown",
+      "description": "water damage",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_2_page_019_chunk_003_006",
+      "observation_type": "finding",
+      "category": "condition",
+      "severity": "low",
+      "location": "Unknown",
+      "description": "wear & tear",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_2_page_019_chunk_003_007",
+      "observation_type": "finding",
+      "category": "condition",
+      "severity": "low",
+      "location": "Unknown",
+      "description": "warping",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_2_page_019_chunk_003_008",
+      "observation_type": "finding",
+      "category": "condition",
+      "severity": "low",
+      "location": "Unknown",
+      "description": "twisting",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_2_page_019_chunk_003_009",
+      "observation_type": "finding",
+      "category": "condition",
+      "severity": "low",
+      "location": "Unknown",
+      "description": "operational defects",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_2_page_019_chunk_003_010",
+      "observation_type": "finding",
+      "category": "condition",
+      "severity": "medium",
+      "location": "Unknown",
+      "description": "moderate defects",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_2_page_019_chunk_003_011",
+      "observation_type": "finding",
+      "category": "condition",
+      "severity": "medium",
+      "location": "Unknown",
+      "description": "moderate damage",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_2_page_019_chunk_003_012",
+      "observation_type": "finding",
+      "category": "condition",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "significant defects",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_2_page_019_chunk_003_013",
+      "observation_type": "risk",
+      "category": "condition",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "safety concerns",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_2_page_019_chunk_003_014",
+      "observation_type": "recommendation",
+      "category": "condition",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "repairs or reconstruction of major building elements",
+      "recommendation": "repairs or reconstruction of major building elements",
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_2_page_019_chunk_003_015",
+      "observation_type": "recommendation",
+      "category": "condition",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "repairs or maintenance",
+      "recommendation": "repairs or maintenance",
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_2_page_019_chunk_003_016",
+      "observation_type": "recommendation",
+      "category": "condition",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "prevent further deterioration",
+      "recommendation": "prevent further deterioration",
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_2_page_019_chunk_004_001",
+      "observation_type": "finding",
+      "category": "Structural",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Structural Defect: Weakness or departure from the expected structural performance of a structural building element.",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_2_page_019_chunk_004_002",
+      "observation_type": "finding",
+      "category": "Structural",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Major Defect: A defect of sufficient magnitude where rectification has to be carried out in order to avoid unsafe conditions, loss of utility of the building and/or building element(s).",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_2_page_019_chunk_004_003",
+      "observation_type": "finding",
+      "category": "Structural",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Structural Defect: Weakness or departure from the expected structural performance of a structural building element.",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_2_page_019_chunk_004_004",
+      "observation_type": "finding",
+      "category": "General",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Poor - The item or area inspected may be in a badly neglected state of repair, finished in an un-tradesman like manner or deteriorated due to age or lack of maintenance.",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_2_page_019_chunk_004_005",
+      "observation_type": "finding",
+      "category": "General",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "ip, and/ or long term neglect, safety concerns, requiring repairs or reconstruction of major building elements.",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_2_page_019_chunk_004_006",
+      "observation_type": "finding",
+      "category": "General",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "4.3.2 Major Defect - A defect of sufficient magnitude where rectification has to be carried out in order to avoid unsafe conditions, loss of utility of the building and/or building element(s).",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_2_page_019_chunk_004_007",
+      "observation_type": "finding",
+      "category": "General",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "4.3.1 Poor - The item or area inspected may be in a badly neglected state of repair, finished in an un-tradesman like manner or deteriorated due to age or lack of maintenance.",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_2_page_019_chunk_004_008",
+      "observation_type": "finding",
+      "category": "General",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Damage: The building element/item fixture or fitting is damaged, cracked or broken and is not fit for its intended purpose.",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_2_page_019_chunk_004_009",
+      "observation_type": "finding",
+      "category": "General",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Distortion, warping, twisting: The building element/item fixture or fitting has shifted from its intended position.",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_2_page_019_chunk_004_010",
+      "observation_type": "finding",
+      "category": "General",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Water Penetration, Dampness: Water ingress and/or dampness is found in unexpected or undesirable area(s).",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_2_page_019_chunk_004_011",
+      "observation_type": "finding",
+      "category": "General",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Material Deterioration: The building element/item fixture or fitting is deteriorating due to rusting, corrosion, rot or decay.",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_2_page_019_chunk_004_012",
+      "observation_type": "finding",
+      "category": "General",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Operational: The building element/item fixture or fittings performance.",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_2_page_019_chunk_004_013",
+      "observation_type": "finding",
+      "category": "General",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Installation: A building element/item fixture/ fitting or component installed.",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_2_page_020_chunk_001_001",
+      "observation_type": "finding",
+      "category": "Damage",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Damage that is surface damage only and does not appear to require any replacement to be carried out.",
+      "recommendation": null,
+      "source_page": 20
+    },
+    {
+      "observation_id": "sample_report_2_page_020_chunk_001_002",
+      "observation_type": "finding",
+      "category": "Damage",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Damage that is more than surface damage and is likely to require some maintenance or repairs to be carried out.",
+      "recommendation": null,
+      "source_page": 20
+    },
+    {
+      "observation_id": "sample_report_2_page_020_chunk_001_003",
+      "observation_type": "finding",
+      "category": "Damage",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Damage that appears to be significant and the integrity or serviceability of the building element may be impaired.",
+      "recommendation": null,
+      "source_page": 20
+    },
+    {
+      "observation_id": "sample_report_2_page_020_chunk_001_004",
+      "observation_type": "risk",
+      "category": "Timber Damage",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "The extent and/or severity of timber damage may be found to increase significantly on an invasive inspection.",
+      "recommendation": "Refer to a suitably qualified building professional and obtain a special purpose building report.",
+      "source_page": 20
+    },
+    {
+      "observation_id": "sample_report_2_page_020_chunk_001_005",
+      "observation_type": "finding",
+      "category": "Cracking of Building Elements",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "The cracking of the Building Element is regarded as a Blemish, minor cracking or minor distortion.",
+      "recommendation": null,
+      "source_page": 20
+    },
+    {
+      "observation_id": "sample_report_2_page_020_chunk_002_001",
+      "observation_type": "finding",
+      "category": "cracking or distortion",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "minor cracking or minor distortion with potential for increase",
+      "recommendation": null,
+      "source_page": 20
+    },
+    {
+      "observation_id": "sample_report_2_page_020_chunk_002_002",
+      "observation_type": "finding",
+      "category": "cracking or distortion",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "moderate cracking or moderate distortion with potential for increase",
+      "recommendation": null,
+      "source_page": 20
+    },
+    {
+      "observation_id": "sample_report_2_page_020_chunk_002_003",
+      "observation_type": "finding",
+      "category": "structural defect",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "extensive cracks and movement with potential for increase",
+      "recommendation": "Structural Engineer required for further investigation",
+      "source_page": 20
+    },
+    {
+      "observation_id": "sample_report_2_page_020_chunk_003_001",
+      "observation_type": "risk",
+      "category": "Structural",
+      "severity": "high",
+      "location": "building",
+      "description": "Cracks may develop over time into Structural Problems for the Home Owner.",
+      "recommendation": null,
+      "source_page": 20
+    },
+    {
+      "observation_id": "sample_report_2_page_020_chunk_003_002",
+      "observation_type": "finding",
+      "category": "Accessibility",
+      "severity": "unknown",
+      "location": "building",
+      "description": "Only areas to which reasonable access is available were inspected.",
+      "recommendation": null,
+      "source_page": 20
+    },
+    {
+      "observation_id": "sample_report_2_page_020_chunk_003_003",
+      "observation_type": "risk",
+      "category": "Accessibility",
+      "severity": "high",
+      "location": "elevated areas",
+      "description": "Height restrictions to Elevated areas may limit access.",
+      "recommendation": null,
+      "source_page": 20
+    },
+    {
+      "observation_id": "sample_report_2_page_020_chunk_004_001",
+      "observation_type": "risk",
+      "category": "Roof Interior",
+      "severity": "high",
+      "location": "Roof Interior",
+      "description": "Access opening size is 400 x 500 mm, crawl space size is 600 x 600mm, and height is accessible from a 3.6m ladder.",
+      "recommendation": null,
+      "source_page": 20
+    },
+    {
+      "observation_id": "sample_report_2_page_020_chunk_004_002",
+      "observation_type": "risk",
+      "category": "Roof Exterior",
+      "severity": "high",
+      "location": "Roof Exterior",
+      "description": "Roof must be accessible from a 3.6m ladder placed on the ground.",
+      "recommendation": null,
+      "source_page": 20
+    },
+    {
+      "observation_id": "sample_report_2_page_021_chunk_001_001",
+      "observation_type": "risk",
+      "category": "asbestos",
+      "severity": "high",
+      "location": "buildings built prior to 1982 or after 1982 up until the early 1990s",
+      "description": "Drilling, cutting or removing sheeting or products containing asbestos is a high health risk.",
+      "recommendation": "seek advice from a qualified asbestos removal expert",
+      "source_page": 21
+    },
+    {
+      "observation_id": "sample_report_2_page_021_chunk_001_002",
+      "observation_type": "risk",
+      "category": "asbestos",
+      "severity": "high",
+      "location": "buildings built prior to 1990",
+      "description": "Drilling, cutting or removing sheeting or products containing asbestos is a high health risk.",
+      "recommendation": "seek advice from a qualified asbestos removal expert",
+      "source_page": 21
+    },
+    {
+      "observation_id": "sample_report_2_page_021_chunk_001_003",
+      "observation_type": "risk",
+      "category": "magnesite flooring",
+      "severity": "unknown",
+      "location": "buildings built between 1960 and 1990",
+      "description": "If concerned you can ask the owner whether magnesite flooring is present and/or seek advise from a structural engineer.",
+      "recommendation": "ask the owner or seek advise from a structural engineer",
+      "source_page": 21
+    },
+    {
+      "observation_id": "sample_report_2_page_021_chunk_001_004",
+      "observation_type": "risk",
+      "category": "mould",
+      "severity": "unknown",
+      "location": "the property",
+      "description": "Mould and their spores may cause health problems or allergic reactions such as asthma and dermatitis in some people.",
+      "recommendation": "null",
+      "source_page": 21
+    },
+    {
+      "observation_id": "sample_report_2_page_021_chunk_002_001",
+      "observation_type": "recommendation",
+      "category": "Health and Safety",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Seek advice from local Council, State or Commonwealth Health Department or a qualified expert if mould is present and you are concerned about health risks.",
+      "recommendation": "Seek advice from local Council, State or Commonwealth Health Department or a qualified expert",
+      "source_page": 21
+    },
+    {
+      "observation_id": "sample_report_2_page_021_chunk_002_002",
+      "observation_type": "recommendation",
+      "category": "Maintenance",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Get multiple independent quotes before any work is carried out.",
+      "recommendation": "Get multiple independent quotes",
+      "source_page": 21
+    },
+    {
+      "observation_id": "sample_report_2_page_021_chunk_002_003",
+      "observation_type": "risk",
+      "category": "Health and Safety",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Mould presence may pose health risks.",
+      "recommendation": null,
+      "source_page": 21
+    }
+  ]
+}

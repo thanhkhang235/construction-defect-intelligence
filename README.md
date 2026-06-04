@@ -43,7 +43,27 @@ SECO works with technical inspection, construction risk, compliance, and enginee
 
 Docker is the recommended way to run the project if you do not want to install Python dependencies manually.
 
-Create your environment file:
+The repository includes sample PDFs and extracted demo observations, so the app can be tested without an API key.
+
+Build the local vector index from the included demo observations:
+
+```bash
+docker compose --profile index run --rm index
+```
+
+Start the app:
+
+```bash
+docker compose up app
+```
+
+Open:
+
+```text
+http://localhost:8501
+```
+
+To rerun LLM extraction from the PDFs, create your environment file:
 
 ```bash
 cp .env.example .env
@@ -64,22 +84,10 @@ data/raw/
 
 The original report source URLs are documented in [Data sources](docs/DATA_SOURCES.md). To test with additional reports, add more PDF files to `data/raw/`. 
 
-Run the data pipeline:
+Then run the full LLM pipeline:
 
 ```bash
 docker compose --profile pipeline run --rm pipeline
-```
-
-Start the app:
-
-```bash
-docker compose up app
-```
-
-Open:
-
-```text
-http://localhost:8501
 ```
 
 ## Local Development

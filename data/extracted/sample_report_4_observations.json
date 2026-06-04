@@ -1,0 +1,2906 @@
+{
+  "report_id": "sample_report_4",
+  "source_file": "sample_report_4.pdf",
+  "observations": [
+    {
+      "observation_id": "sample_report_4_page_004_chunk_001_001",
+      "observation_type": "finding",
+      "category": "sidewalk",
+      "severity": "medium",
+      "location": "Public sidewalk",
+      "description": "needs repair",
+      "recommendation": null,
+      "source_page": 4
+    },
+    {
+      "observation_id": "sample_report_4_page_004_chunk_001_002",
+      "observation_type": "risk",
+      "category": "driveway/parking",
+      "severity": "high",
+      "location": "Driveway/Parking",
+      "description": "Trip hazard",
+      "recommendation": "Fill cracks and seal",
+      "source_page": 4
+    },
+    {
+      "observation_id": "sample_report_4_page_004_chunk_001_003",
+      "observation_type": "recommendation",
+      "category": "porch",
+      "severity": "low",
+      "location": "Porch",
+      "description": "Railing/Balusters recommended",
+      "recommendation": "Railing/Balusters recommended",
+      "source_page": 4
+    },
+    {
+      "observation_id": "sample_report_4_page_004_chunk_001_004",
+      "observation_type": "finding",
+      "category": "stoops/steps",
+      "severity": "medium",
+      "location": "Stoops/Steps",
+      "description": "Uneven risers",
+      "recommendation": null,
+      "source_page": 4
+    },
+    {
+      "observation_id": "sample_report_4_page_004_chunk_001_005",
+      "observation_type": "risk",
+      "category": "stoops/steps",
+      "severity": "high",
+      "location": "Stoops/Steps",
+      "description": "Safety Hazard",
+      "recommendation": null,
+      "source_page": 4
+    },
+    {
+      "observation_id": "sample_report_4_page_004_chunk_001_006",
+      "observation_type": "finding",
+      "category": "patio",
+      "severity": "medium",
+      "location": "Patio",
+      "description": "Settling Cracks",
+      "recommendation": null,
+      "source_page": 4
+    },
+    {
+      "observation_id": "sample_report_4_page_004_chunk_001_007",
+      "observation_type": "risk",
+      "category": "patio",
+      "severity": "high",
+      "location": "Patio",
+      "description": "Trip hazard",
+      "recommendation": null,
+      "source_page": 4
+    },
+    {
+      "observation_id": "sample_report_4_page_004_chunk_001_008",
+      "observation_type": "recommendation",
+      "category": "deck/balcony",
+      "severity": "low",
+      "location": "Deck/Balcony",
+      "description": "Railing/Balusters recommended",
+      "recommendation": "Railing/Balusters recommended",
+      "source_page": 4
+    },
+    {
+      "observation_id": "sample_report_4_page_004_chunk_001_009",
+      "observation_type": "finding",
+      "category": "deck/balcony",
+      "severity": "medium",
+      "location": "Deck/Balcony",
+      "description": "Improper attachment to house",
+      "recommendation": null,
+      "source_page": 4
+    },
+    {
+      "observation_id": "sample_report_4_page_004_chunk_001_010",
+      "observation_type": "risk",
+      "category": "deck/balcony",
+      "severity": "high",
+      "location": "Deck/Balcony",
+      "description": "Wood in contact with soil",
+      "recommendation": null,
+      "source_page": 4
+    },
+    {
+      "observation_id": "sample_report_4_page_004_chunk_001_011",
+      "observation_type": "finding",
+      "category": "deck/patio/porch covers",
+      "severity": "medium",
+      "location": "Deck/Patio/Porch Covers",
+      "description": "Earth to wood contact",
+      "recommendation": null,
+      "source_page": 4
+    },
+    {
+      "observation_id": "sample_report_4_page_004_chunk_001_012",
+      "observation_type": "risk",
+      "category": "deck/patio/porch covers",
+      "severity": "high",
+      "location": "Deck/Patio/Porch Covers",
+      "description": "Moisture/Insect damage",
+      "recommendation": null,
+      "source_page": 4
+    },
+    {
+      "observation_id": "sample_report_4_page_004_chunk_002_001",
+      "observation_type": "recommendation",
+      "category": "landscaping",
+      "severity": "unknown",
+      "location": "East, West, North, South",
+      "description": "Trim back trees/shrubberies",
+      "recommendation": "Trim back trees/shrubberies",
+      "source_page": 4
+    },
+    {
+      "observation_id": "sample_report_4_page_004_chunk_002_002",
+      "observation_type": "recommendation",
+      "category": "landscaping",
+      "severity": "unknown",
+      "location": "East, West, North, South",
+      "description": "Recommend additional backfill",
+      "recommendation": "Recommend additional backfill",
+      "source_page": 4
+    },
+    {
+      "observation_id": "sample_report_4_page_004_chunk_002_003",
+      "observation_type": "recommendation",
+      "category": "landscaping",
+      "severity": "unknown",
+      "location": "East, West, North, South",
+      "description": "Recommend window wells/covers",
+      "recommendation": "Recommend window wells/covers",
+      "source_page": 4
+    },
+    {
+      "observation_id": "sample_report_4_page_004_chunk_002_004",
+      "observation_type": "finding",
+      "category": "driveway",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Typical cracking and settling",
+      "recommendation": null,
+      "source_page": 4
+    },
+    {
+      "observation_id": "sample_report_4_page_004_chunk_002_005",
+      "observation_type": "recommendation",
+      "category": "driveway",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Filling and sealing as necessary",
+      "recommendation": "Filling and sealing as necessary",
+      "source_page": 4
+    },
+    {
+      "observation_id": "sample_report_4_page_005_chunk_001_001",
+      "observation_type": "finding",
+      "category": "water intrusion",
+      "severity": "high",
+      "location": "NE corner of the basement",
+      "description": "downspout is leaking, causing active water intrusion and heaving to the concrete",
+      "recommendation": "repairs",
+      "source_page": 5
+    },
+    {
+      "observation_id": "sample_report_4_page_005_chunk_001_002",
+      "observation_type": "finding",
+      "category": "water intrusion",
+      "severity": "high",
+      "location": "between the driveway and the homes foundation",
+      "description": "gap is allowing for water intrusion in the basement",
+      "recommendation": "repairs",
+      "source_page": 5
+    },
+    {
+      "observation_id": "sample_report_4_page_006_chunk_001_001",
+      "observation_type": "finding",
+      "category": "Roof Covering",
+      "severity": "unknown",
+      "location": "Roof #1",
+      "description": "Asphalt roof with 1+ layers, approximately 15-20+ years old",
+      "recommendation": null,
+      "source_page": 6
+    },
+    {
+      "observation_id": "sample_report_4_page_006_chunk_001_002",
+      "observation_type": "finding",
+      "category": "Roof Covering",
+      "severity": "unknown",
+      "location": "Roof #2",
+      "description": "Unknown roof type with unknown layers, approximately unknown years old",
+      "recommendation": null,
+      "source_page": 6
+    },
+    {
+      "observation_id": "sample_report_4_page_006_chunk_001_003",
+      "observation_type": "finding",
+      "category": "Roof Covering",
+      "severity": "unknown",
+      "location": "Roof #3",
+      "description": "Unknown roof type with unknown layers, approximately unknown years old",
+      "recommendation": null,
+      "source_page": 6
+    },
+    {
+      "observation_id": "sample_report_4_page_006_chunk_001_004",
+      "observation_type": "risk",
+      "category": "Roof Covering",
+      "severity": "high",
+      "location": "Roof #1",
+      "description": "Roof coverings are marginal",
+      "recommendation": "Recommend Sealing",
+      "source_page": 6
+    },
+    {
+      "observation_id": "sample_report_4_page_006_chunk_001_005",
+      "observation_type": "risk",
+      "category": "Roof Covering",
+      "severity": "high",
+      "location": "Roof #2",
+      "description": "Roof coverings are marginal",
+      "recommendation": "Recommend Sealing",
+      "source_page": 6
+    },
+    {
+      "observation_id": "sample_report_4_page_006_chunk_001_006",
+      "observation_type": "risk",
+      "category": "Roof Covering",
+      "severity": "high",
+      "location": "Roof #3",
+      "description": "Roof coverings are marginal",
+      "recommendation": "Recommend Sealing",
+      "source_page": 6
+    },
+    {
+      "observation_id": "sample_report_4_page_006_chunk_001_007",
+      "observation_type": "finding",
+      "category": "Roof Covering",
+      "severity": "unknown",
+      "location": "Roof #1",
+      "description": "Roof coverings are curling",
+      "recommendation": null,
+      "source_page": 6
+    },
+    {
+      "observation_id": "sample_report_4_page_006_chunk_001_008",
+      "observation_type": "finding",
+      "category": "Roof Covering",
+      "severity": "unknown",
+      "location": "Roof #2",
+      "description": "Roof coverings are curling",
+      "recommendation": null,
+      "source_page": 6
+    },
+    {
+      "observation_id": "sample_report_4_page_006_chunk_001_009",
+      "observation_type": "finding",
+      "category": "Roof Covering",
+      "severity": "unknown",
+      "location": "Roof #3",
+      "description": "Roof coverings are curling",
+      "recommendation": null,
+      "source_page": 6
+    },
+    {
+      "observation_id": "sample_report_4_page_006_chunk_001_010",
+      "observation_type": "finding",
+      "category": "Roof Covering",
+      "severity": "unknown",
+      "location": "Roof #1",
+      "description": "Roof coverings are granules missing",
+      "recommendation": null,
+      "source_page": 6
+    },
+    {
+      "observation_id": "sample_report_4_page_006_chunk_001_011",
+      "observation_type": "finding",
+      "category": "Roof Covering",
+      "severity": "unknown",
+      "location": "Roof #2",
+      "description": "Roof coverings are granules missing",
+      "recommendation": null,
+      "source_page": 6
+    },
+    {
+      "observation_id": "sample_report_4_page_006_chunk_001_012",
+      "observation_type": "finding",
+      "category": "Roof Covering",
+      "severity": "unknown",
+      "location": "Roof #3",
+      "description": "Roof coverings are granules missing",
+      "recommendation": null,
+      "source_page": 6
+    },
+    {
+      "observation_id": "sample_report_4_page_006_chunk_001_013",
+      "observation_type": "finding",
+      "category": "Roof Covering",
+      "severity": "unknown",
+      "location": "Roof #1",
+      "description": "Roof coverings are cupping",
+      "recommendation": null,
+      "source_page": 6
+    },
+    {
+      "observation_id": "sample_report_4_page_006_chunk_001_014",
+      "observation_type": "finding",
+      "category": "Roof Covering",
+      "severity": "unknown",
+      "location": "Roof #2",
+      "description": "Roof coverings are cupping",
+      "recommendation": null,
+      "source_page": 6
+    },
+    {
+      "observation_id": "sample_report_4_page_006_chunk_001_015",
+      "observation_type": "finding",
+      "category": "Roof Covering",
+      "severity": "unknown",
+      "location": "Roof #3",
+      "description": "Roof coverings are cupping",
+      "recommendation": null,
+      "source_page": 6
+    },
+    {
+      "observation_id": "sample_report_4_page_006_chunk_001_016",
+      "observation_type": "risk",
+      "category": "Flashing",
+      "severity": "high",
+      "location": "Roof",
+      "description": "Flashing is marginal",
+      "recommendation": "Recommend Sealing",
+      "source_page": 6
+    },
+    {
+      "observation_id": "sample_report_4_page_006_chunk_001_017",
+      "observation_type": "risk",
+      "category": "Valleys",
+      "severity": "high",
+      "location": "Roof",
+      "description": "Valleys are marginal",
+      "recommendation": "Recommend Sealing",
+      "source_page": 6
+    },
+    {
+      "observation_id": "sample_report_4_page_006_chunk_002_001",
+      "observation_type": "finding",
+      "category": "Roof",
+      "severity": "high",
+      "location": "Roof",
+      "description": "Roof is leaking from a few flashing areas",
+      "recommendation": "Qualified roofer to evaluate and repair as necessary",
+      "source_page": 6
+    },
+    {
+      "observation_id": "sample_report_4_page_006_chunk_002_002",
+      "observation_type": "risk",
+      "category": "Roof",
+      "severity": "high",
+      "location": "Roof",
+      "description": "Roof is leaking",
+      "recommendation": null,
+      "source_page": 6
+    },
+    {
+      "observation_id": "sample_report_4_page_006_chunk_002_003",
+      "observation_type": "recommendation",
+      "category": "Roof",
+      "severity": "unknown",
+      "location": "Roof",
+      "description": "Roof needs further evaluation and repair",
+      "recommendation": null,
+      "source_page": 6
+    },
+    {
+      "observation_id": "sample_report_4_page_007_chunk_001_001",
+      "observation_type": "finding",
+      "category": "Water Intrusion",
+      "severity": "high",
+      "location": "Private, Ohio",
+      "description": "Active water intrusion into the home",
+      "recommendation": null,
+      "source_page": 7
+    },
+    {
+      "observation_id": "sample_report_4_page_008_chunk_001_001",
+      "observation_type": "finding",
+      "category": "Chimney",
+      "severity": "high",
+      "location": "Middle of roof",
+      "description": "Loose mortar joints",
+      "recommendation": null,
+      "source_page": 8
+    },
+    {
+      "observation_id": "sample_report_4_page_008_chunk_001_002",
+      "observation_type": "finding",
+      "category": "Chimney",
+      "severity": "high",
+      "location": "Middle of roof",
+      "description": "Cracked chimney cap",
+      "recommendation": null,
+      "source_page": 8
+    },
+    {
+      "observation_id": "sample_report_4_page_008_chunk_001_003",
+      "observation_type": "finding",
+      "category": "Chimney",
+      "severity": "high",
+      "location": "Middle of roof",
+      "description": "Loose Brick",
+      "recommendation": null,
+      "source_page": 8
+    },
+    {
+      "observation_id": "sample_report_4_page_008_chunk_001_004",
+      "observation_type": "finding",
+      "category": "Chimney",
+      "severity": "high",
+      "location": "Middle of roof",
+      "description": "Rust",
+      "recommendation": null,
+      "source_page": 8
+    },
+    {
+      "observation_id": "sample_report_4_page_008_chunk_001_005",
+      "observation_type": "finding",
+      "category": "Chimney",
+      "severity": "high",
+      "location": "Middle of roof",
+      "description": "Holes in metal",
+      "recommendation": null,
+      "source_page": 8
+    },
+    {
+      "observation_id": "sample_report_4_page_008_chunk_001_006",
+      "observation_type": "finding",
+      "category": "Flue",
+      "severity": "high",
+      "location": "Middle of roof",
+      "description": "Scaling",
+      "recommendation": null,
+      "source_page": 8
+    },
+    {
+      "observation_id": "sample_report_4_page_008_chunk_001_007",
+      "observation_type": "finding",
+      "category": "Flue",
+      "severity": "high",
+      "location": "Middle of roof",
+      "description": "Cracks",
+      "recommendation": null,
+      "source_page": 8
+    },
+    {
+      "observation_id": "sample_report_4_page_008_chunk_001_008",
+      "observation_type": "finding",
+      "category": "Flue",
+      "severity": "high",
+      "location": "Middle of roof",
+      "description": "Creosote",
+      "recommendation": null,
+      "source_page": 8
+    },
+    {
+      "observation_id": "sample_report_4_page_008_chunk_001_009",
+      "observation_type": "risk",
+      "category": "Gutters/Scuppers/Eavestrough",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Leaking at corners, joints, or hole in main run",
+      "recommendation": null,
+      "source_page": 8
+    },
+    {
+      "observation_id": "sample_report_4_page_008_chunk_001_010",
+      "observation_type": "risk",
+      "category": "Gutters/Scuppers/Eavestrough",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Attachment is loose",
+      "recommendation": null,
+      "source_page": 8
+    },
+    {
+      "observation_id": "sample_report_4_page_008_chunk_001_011",
+      "observation_type": "risk",
+      "category": "Gutters/Scuppers/Eavestrough",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Extension needed",
+      "recommendation": null,
+      "source_page": 8
+    },
+    {
+      "observation_id": "sample_report_4_page_008_chunk_001_012",
+      "observation_type": "finding",
+      "category": "Siding",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Loose/Missing/Holes",
+      "recommendation": null,
+      "source_page": 8
+    },
+    {
+      "observation_id": "sample_report_4_page_008_chunk_001_013",
+      "observation_type": "finding",
+      "category": "Siding",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Peeling paint",
+      "recommendation": null,
+      "source_page": 8
+    },
+    {
+      "observation_id": "sample_report_4_page_008_chunk_001_014",
+      "observation_type": "finding",
+      "category": "Siding",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Wood rot",
+      "recommendation": null,
+      "source_page": 8
+    },
+    {
+      "observation_id": "sample_report_4_page_008_chunk_001_015",
+      "observation_type": "finding",
+      "category": "Trim, Soffit, Fascia, Flashing",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Damaged wood",
+      "recommendation": null,
+      "source_page": 8
+    },
+    {
+      "observation_id": "sample_report_4_page_008_chunk_001_016",
+      "observation_type": "recommendation",
+      "category": "Caulking",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Recommend around windows/doors/masonry ledges/corners/utility penetrations",
+      "recommendation": null,
+      "source_page": 8
+    },
+    {
+      "observation_id": "sample_report_4_page_008_chunk_002_001",
+      "observation_type": "recommendation",
+      "category": "Exterior",
+      "severity": "high",
+      "location": "around windows/doors/masonry ledges/corners/utility penetrations",
+      "description": "Recommend around windows/doors/masonry ledges/corners/utility penetrations",
+      "recommendation": "Recommend around windows/doors/masonry ledges/corners/utility penetrations",
+      "source_page": 8
+    },
+    {
+      "observation_id": "sample_report_4_page_008_chunk_002_002",
+      "observation_type": "recommendation",
+      "category": "Exterior",
+      "severity": "high",
+      "location": "windows",
+      "description": "Failed/fogged insulated glass",
+      "recommendation": "Recommend repair/painting",
+      "source_page": 8
+    },
+    {
+      "observation_id": "sample_report_4_page_008_chunk_002_003",
+      "observation_type": "recommendation",
+      "category": "Exterior",
+      "severity": "high",
+      "location": "storm windows",
+      "description": "Not installed",
+      "recommendation": "Recommend repair/painting",
+      "source_page": 8
+    },
+    {
+      "observation_id": "sample_report_4_page_008_chunk_002_004",
+      "observation_type": "recommendation",
+      "category": "Exterior",
+      "severity": "high",
+      "location": "storm windows",
+      "description": "Wood rot",
+      "recommendation": "Recommend repair/painting",
+      "source_page": 8
+    },
+    {
+      "observation_id": "sample_report_4_page_008_chunk_002_005",
+      "observation_type": "recommendation",
+      "category": "Exterior",
+      "severity": "high",
+      "location": "storm windows",
+      "description": "Broken/cracked",
+      "recommendation": "Recommend repair/painting",
+      "source_page": 8
+    },
+    {
+      "observation_id": "sample_report_4_page_008_chunk_002_006",
+      "observation_type": "recommendation",
+      "category": "Exterior",
+      "severity": "high",
+      "location": "gutters and downspouts",
+      "description": "Not fully draining away from the foundation",
+      "recommendation": "Recommend all gutters and downspouts are fully draining away from the foundation",
+      "source_page": 8
+    },
+    {
+      "observation_id": "sample_report_4_page_008_chunk_002_007",
+      "observation_type": "recommendation",
+      "category": "Exterior",
+      "severity": "high",
+      "location": "chimney",
+      "description": "In need of tuck point as well as a screened chimney cap to keep out moisture and pests",
+      "recommendation": "Recommend tuck point and a screened chimney cap",
+      "source_page": 8
+    },
+    {
+      "observation_id": "sample_report_4_page_010_chunk_001_001",
+      "observation_type": "recommendation",
+      "category": "Electrical",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Weather head/mast needs repair",
+      "recommendation": null,
+      "source_page": 10
+    },
+    {
+      "observation_id": "sample_report_4_page_010_chunk_001_002",
+      "observation_type": "recommendation",
+      "category": "Electrical",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "GFCI present: Less than 3’ from balcony/deck/windows",
+      "recommendation": null,
+      "source_page": 10
+    },
+    {
+      "observation_id": "sample_report_4_page_010_chunk_001_003",
+      "observation_type": "recommendation",
+      "category": "Electrical",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "GFCI present: Reverse polarity",
+      "recommendation": null,
+      "source_page": 10
+    },
+    {
+      "observation_id": "sample_report_4_page_010_chunk_001_004",
+      "observation_type": "recommendation",
+      "category": "Electrical",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "GFCI present: Open ground",
+      "recommendation": null,
+      "source_page": 10
+    },
+    {
+      "observation_id": "sample_report_4_page_010_chunk_001_005",
+      "observation_type": "recommendation",
+      "category": "Electrical",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Safety Hazard",
+      "recommendation": null,
+      "source_page": 10
+    },
+    {
+      "observation_id": "sample_report_4_page_010_chunk_001_006",
+      "observation_type": "recommendation",
+      "category": "Exterior Doors",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Rear entry door has been damaged and kicked in",
+      "recommendation": "repair/replace",
+      "source_page": 10
+    },
+    {
+      "observation_id": "sample_report_4_page_010_chunk_001_007",
+      "observation_type": "recommendation",
+      "category": "Exterior Doors",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Weatherstripping: Poor",
+      "recommendation": "Replace",
+      "source_page": 10
+    },
+    {
+      "observation_id": "sample_report_4_page_010_chunk_001_008",
+      "observation_type": "recommendation",
+      "category": "Exterior A/C - Heat Pump",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "A/c unit has been removed",
+      "recommendation": "add",
+      "source_page": 10
+    },
+    {
+      "observation_id": "sample_report_4_page_011_chunk_001_001",
+      "observation_type": "finding",
+      "category": "Floor",
+      "severity": "high",
+      "location": "building location or Unknown",
+      "description": "Large settling cracks in floor",
+      "recommendation": null,
+      "source_page": 11
+    },
+    {
+      "observation_id": "sample_report_4_page_011_chunk_001_002",
+      "observation_type": "risk",
+      "category": "Floor",
+      "severity": "high",
+      "location": "building location or Unknown",
+      "description": "Burners less than 18” above garage floor: Safety hazard",
+      "recommendation": null,
+      "source_page": 11
+    },
+    {
+      "observation_id": "sample_report_4_page_011_chunk_001_003",
+      "observation_type": "recommendation",
+      "category": "Floor",
+      "severity": "unknown",
+      "location": "building location or Unknown",
+      "description": "Recommend evaluation/repair of floor",
+      "recommendation": "evaluation/repair",
+      "source_page": 11
+    },
+    {
+      "observation_id": "sample_report_4_page_011_chunk_001_004",
+      "observation_type": "finding",
+      "category": "Overhead Door",
+      "severity": "high",
+      "location": "building location or Unknown",
+      "description": "Overhead door hardware loose",
+      "recommendation": null,
+      "source_page": 11
+    },
+    {
+      "observation_id": "sample_report_4_page_011_chunk_001_005",
+      "observation_type": "recommendation",
+      "category": "Overhead Door",
+      "severity": "unknown",
+      "location": "building location or Unknown",
+      "description": "Recommend repair of overhead door",
+      "recommendation": "repair",
+      "source_page": 11
+    },
+    {
+      "observation_id": "sample_report_4_page_011_chunk_001_006",
+      "observation_type": "risk",
+      "category": "Electricity",
+      "severity": "high",
+      "location": "building location or Unknown",
+      "description": "Open ground: Safety hazard",
+      "recommendation": null,
+      "source_page": 11
+    },
+    {
+      "observation_id": "sample_report_4_page_011_chunk_001_007",
+      "observation_type": "recommendation",
+      "category": "Electricity",
+      "severity": "unknown",
+      "location": "building location or Unknown",
+      "description": "Recommend lubrication of overhead door hardware",
+      "recommendation": "lubrication",
+      "source_page": 11
+    },
+    {
+      "observation_id": "sample_report_4_page_011_chunk_001_008",
+      "observation_type": "finding",
+      "category": "Exterior Service Door",
+      "severity": "high",
+      "location": "building location or Unknown",
+      "description": "Damaged/Rusted exterior service door",
+      "recommendation": null,
+      "source_page": 11
+    },
+    {
+      "observation_id": "sample_report_4_page_011_chunk_001_009",
+      "observation_type": "recommendation",
+      "category": "Exterior Service Door",
+      "severity": "unknown",
+      "location": "building location or Unknown",
+      "description": "Recommend repair of exterior service door",
+      "recommendation": "repair",
+      "source_page": 11
+    },
+    {
+      "observation_id": "sample_report_4_page_011_chunk_001_010",
+      "observation_type": "finding",
+      "category": "Fire Separation Walls & Ceiling",
+      "severity": "high",
+      "location": "building location or Unknown",
+      "description": "Missing fire separation walls & ceiling",
+      "recommendation": null,
+      "source_page": 11
+    },
+    {
+      "observation_id": "sample_report_4_page_011_chunk_002_001",
+      "observation_type": "recommendation",
+      "category": "electrical",
+      "severity": "high",
+      "location": "garage",
+      "description": "Upgrade electrical service due to safety hazard",
+      "recommendation": "Upgrade electrical service",
+      "source_page": 11
+    },
+    {
+      "observation_id": "sample_report_4_page_011_chunk_002_002",
+      "observation_type": "recommendation",
+      "category": "roof",
+      "severity": "high",
+      "location": "garage",
+      "description": "Repair garage roof due to hole and water damage",
+      "recommendation": "Repair garage roof",
+      "source_page": 11
+    },
+    {
+      "observation_id": "sample_report_4_page_011_chunk_002_003",
+      "observation_type": "recommendation",
+      "category": "floor",
+      "severity": "medium",
+      "location": "garage",
+      "description": "Garage floor is buckled and will need replacement in the future",
+      "recommendation": "Replace garage floor",
+      "source_page": 11
+    },
+    {
+      "observation_id": "sample_report_4_page_013_chunk_001_001",
+      "observation_type": "recommendation",
+      "category": "Electrical",
+      "severity": "high",
+      "location": "Kitchen",
+      "description": "Hot/neutral reverse outlets. Recommend repair due to safety hazard.",
+      "recommendation": "Repair due to safety hazard",
+      "source_page": 13
+    },
+    {
+      "observation_id": "sample_report_4_page_013_chunk_001_002",
+      "observation_type": "risk",
+      "category": "Plumbing",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Faucet Leaks: Yes",
+      "recommendation": null,
+      "source_page": 13
+    },
+    {
+      "observation_id": "sample_report_4_page_013_chunk_001_003",
+      "observation_type": "risk",
+      "category": "Plumbing",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Pipes leak/corroded: Yes",
+      "recommendation": null,
+      "source_page": 13
+    },
+    {
+      "observation_id": "sample_report_4_page_013_chunk_001_004",
+      "observation_type": "risk",
+      "category": "Plumbing",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Sink/Faucet: Corroded",
+      "recommendation": null,
+      "source_page": 13
+    },
+    {
+      "observation_id": "sample_report_4_page_013_chunk_001_005",
+      "observation_type": "risk",
+      "category": "Plumbing",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Sink/Faucet: Chipped",
+      "recommendation": null,
+      "source_page": 13
+    },
+    {
+      "observation_id": "sample_report_4_page_013_chunk_001_006",
+      "observation_type": "risk",
+      "category": "Plumbing",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Sink/Faucet: Cracked",
+      "recommendation": null,
+      "source_page": 13
+    },
+    {
+      "observation_id": "sample_report_4_page_013_chunk_001_007",
+      "observation_type": "risk",
+      "category": "Plumbing",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Functional Drainage: Poor",
+      "recommendation": null,
+      "source_page": 13
+    },
+    {
+      "observation_id": "sample_report_4_page_013_chunk_001_008",
+      "observation_type": "risk",
+      "category": "Plumbing",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Functional Flow: Poor",
+      "recommendation": null,
+      "source_page": 13
+    },
+    {
+      "observation_id": "sample_report_4_page_013_chunk_001_009",
+      "observation_type": "risk",
+      "category": "Structural",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "WALLS & CEILING: Moisture stains",
+      "recommendation": null,
+      "source_page": 13
+    },
+    {
+      "observation_id": "sample_report_4_page_013_chunk_001_010",
+      "observation_type": "risk",
+      "category": "Structural",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "WALLS & CEILING: Typical cracks",
+      "recommendation": null,
+      "source_page": 13
+    },
+    {
+      "observation_id": "sample_report_4_page_013_chunk_001_011",
+      "observation_type": "risk",
+      "category": "Structural",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "FLOOR: Sloping",
+      "recommendation": null,
+      "source_page": 13
+    },
+    {
+      "observation_id": "sample_report_4_page_013_chunk_001_012",
+      "observation_type": "risk",
+      "category": "Structural",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "FLOOR: Squeaks",
+      "recommendation": null,
+      "source_page": 13
+    },
+    {
+      "observation_id": "sample_report_4_page_013_chunk_001_013",
+      "observation_type": "risk",
+      "category": "Plumbing",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Dishwasher Airgap: No",
+      "recommendation": null,
+      "source_page": 13
+    },
+    {
+      "observation_id": "sample_report_4_page_013_chunk_001_014",
+      "observation_type": "risk",
+      "category": "Plumbing",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Dishwasher Drain Line Looped: Yes",
+      "recommendation": null,
+      "source_page": 13
+    },
+    {
+      "observation_id": "sample_report_4_page_013_chunk_001_015",
+      "observation_type": "risk",
+      "category": "Electrical",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Open ground/Reverse polarity within 6’ of water: Yes",
+      "recommendation": null,
+      "source_page": 13
+    },
+    {
+      "observation_id": "sample_report_4_page_013_chunk_001_016",
+      "observation_type": "risk",
+      "category": "Electrical",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Open ground/Reverse polarity within 6’ of water: Potential safety hazard(s)",
+      "recommendation": null,
+      "source_page": 13
+    },
+    {
+      "observation_id": "sample_report_4_page_014_chunk_001_001",
+      "observation_type": "finding",
+      "category": "plumbing",
+      "severity": "high",
+      "location": "Laundry Room",
+      "description": "Faucet leaks",
+      "recommendation": null,
+      "source_page": 14
+    },
+    {
+      "observation_id": "sample_report_4_page_014_chunk_001_002",
+      "observation_type": "finding",
+      "category": "plumbing",
+      "severity": "high",
+      "location": "Laundry Room",
+      "description": "Pipes leak",
+      "recommendation": null,
+      "source_page": 14
+    },
+    {
+      "observation_id": "sample_report_4_page_014_chunk_001_003",
+      "observation_type": "finding",
+      "category": "plumbing",
+      "severity": "high",
+      "location": "Laundry Room",
+      "description": "Cross connections",
+      "recommendation": null,
+      "source_page": 14
+    },
+    {
+      "observation_id": "sample_report_4_page_014_chunk_001_004",
+      "observation_type": "risk",
+      "category": "plumbing",
+      "severity": "high",
+      "location": "Laundry Room",
+      "description": "Open ground/reverse polarity within 6’ of water",
+      "recommendation": "Safety hazard",
+      "source_page": 14
+    },
+    {
+      "observation_id": "sample_report_4_page_014_chunk_001_005",
+      "observation_type": "finding",
+      "category": "plumbing",
+      "severity": "high",
+      "location": "Laundry Room",
+      "description": "Washer hook-up lines/valves: Leaking",
+      "recommendation": null,
+      "source_page": 14
+    },
+    {
+      "observation_id": "sample_report_4_page_014_chunk_001_006",
+      "observation_type": "risk",
+      "category": "plumbing",
+      "severity": "high",
+      "location": "Laundry Room",
+      "description": "Gas Shut-off Valve: Safety hazard",
+      "recommendation": null,
+      "source_page": 14
+    },
+    {
+      "observation_id": "sample_report_4_page_014_chunk_001_007",
+      "observation_type": "recommendation",
+      "category": "plumbing",
+      "severity": "high",
+      "location": "Laundry Room",
+      "description": "Recommend removal of vinyl dryer vent and replacing with flex metal due to fire hazard",
+      "recommendation": "Recommend repair",
+      "source_page": 14
+    },
+    {
+      "observation_id": "sample_report_4_page_015_chunk_001_001",
+      "observation_type": "finding",
+      "category": "water intrusion",
+      "severity": "high",
+      "location": "Second floor bath",
+      "description": "Active water intrusion in the ceiling",
+      "recommendation": "Repair",
+      "source_page": 15
+    },
+    {
+      "observation_id": "sample_report_4_page_015_chunk_001_002",
+      "observation_type": "risk",
+      "category": "water supply",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "No evaluation could be made to water supply",
+      "recommendation": null,
+      "source_page": 15
+    },
+    {
+      "observation_id": "sample_report_4_page_016_chunk_001_001",
+      "observation_type": "finding",
+      "category": "plumbing",
+      "severity": "high",
+      "location": "basement bath",
+      "description": "Faucet leaks",
+      "recommendation": null,
+      "source_page": 16
+    },
+    {
+      "observation_id": "sample_report_4_page_016_chunk_001_002",
+      "observation_type": "finding",
+      "category": "plumbing",
+      "severity": "high",
+      "location": "basement bath",
+      "description": "Pipes leak",
+      "recommendation": null,
+      "source_page": 16
+    },
+    {
+      "observation_id": "sample_report_4_page_016_chunk_001_003",
+      "observation_type": "finding",
+      "category": "plumbing",
+      "severity": "high",
+      "location": "basement bath",
+      "description": "Loose faucet",
+      "recommendation": null,
+      "source_page": 16
+    },
+    {
+      "observation_id": "sample_report_4_page_016_chunk_001_004",
+      "observation_type": "finding",
+      "category": "plumbing",
+      "severity": "high",
+      "location": "basement bath",
+      "description": "Bowl Loose",
+      "recommendation": null,
+      "source_page": 16
+    },
+    {
+      "observation_id": "sample_report_4_page_016_chunk_001_005",
+      "observation_type": "finding",
+      "category": "plumbing",
+      "severity": "high",
+      "location": "basement bath",
+      "description": "Toilet leaks",
+      "recommendation": null,
+      "source_page": 16
+    },
+    {
+      "observation_id": "sample_report_4_page_016_chunk_001_006",
+      "observation_type": "finding",
+      "category": "plumbing",
+      "severity": "high",
+      "location": "basement bath",
+      "description": "Cracked bowl/tank",
+      "recommendation": null,
+      "source_page": 16
+    },
+    {
+      "observation_id": "sample_report_4_page_016_chunk_001_007",
+      "observation_type": "finding",
+      "category": "plumbing",
+      "severity": "high",
+      "location": "basement bath",
+      "description": "Cross connection",
+      "recommendation": null,
+      "source_page": 16
+    },
+    {
+      "observation_id": "sample_report_4_page_016_chunk_001_008",
+      "observation_type": "finding",
+      "category": "plumbing",
+      "severity": "high",
+      "location": "basement bath",
+      "description": "Basement bath has some rot to the drain line",
+      "recommendation": "repairs",
+      "source_page": 16
+    },
+    {
+      "observation_id": "sample_report_4_page_016_chunk_001_009",
+      "observation_type": "risk",
+      "category": "electrical",
+      "severity": "high",
+      "location": "basement bath",
+      "description": "Potential safety hazards present",
+      "recommendation": null,
+      "source_page": 16
+    },
+    {
+      "observation_id": "sample_report_4_page_016_chunk_001_010",
+      "observation_type": "risk",
+      "category": "electrical",
+      "severity": "high",
+      "location": "basement bath",
+      "description": "Open ground/Reverse polarity within 6’ of water",
+      "recommendation": null,
+      "source_page": 16
+    },
+    {
+      "observation_id": "sample_report_4_page_016_chunk_001_011",
+      "observation_type": "risk",
+      "category": "electrical",
+      "severity": "high",
+      "location": "basement bath",
+      "description": "No G.F.C.I. present",
+      "recommendation": null,
+      "source_page": 16
+    },
+    {
+      "observation_id": "sample_report_4_page_016_chunk_001_012",
+      "observation_type": "risk",
+      "category": "electrical",
+      "severity": "high",
+      "location": "basement bath",
+      "description": "Outlets not present",
+      "recommendation": null,
+      "source_page": 16
+    },
+    {
+      "observation_id": "sample_report_4_page_016_chunk_001_013",
+      "observation_type": "risk",
+      "category": "electrical",
+      "severity": "high",
+      "location": "basement bath",
+      "description": "Exhaust Fan not present",
+      "recommendation": null,
+      "source_page": 16
+    },
+    {
+      "observation_id": "sample_report_4_page_016_chunk_001_014",
+      "observation_type": "risk",
+      "category": "electrical",
+      "severity": "high",
+      "location": "basement bath",
+      "description": "Exhaust Fan not operating",
+      "recommendation": null,
+      "source_page": 16
+    },
+    {
+      "observation_id": "sample_report_4_page_016_chunk_001_015",
+      "observation_type": "risk",
+      "category": "electrical",
+      "severity": "high",
+      "location": "basement bath",
+      "description": "Exhaust Fan noisy",
+      "recommendation": null,
+      "source_page": 16
+    },
+    {
+      "observation_id": "sample_report_4_page_016_chunk_001_016",
+      "observation_type": "risk",
+      "category": "electrical",
+      "severity": "high",
+      "location": "basement bath",
+      "description": "Window/Door not present",
+      "recommendation": null,
+      "source_page": 16
+    },
+    {
+      "observation_id": "sample_report_4_page_016_chunk_001_017",
+      "observation_type": "risk",
+      "category": "electrical",
+      "severity": "high",
+      "location": "basement bath",
+      "description": "Window/Door not satisfactory",
+      "recommendation": null,
+      "source_page": 16
+    },
+    {
+      "observation_id": "sample_report_4_page_016_chunk_001_018",
+      "observation_type": "risk",
+      "category": "electrical",
+      "severity": "high",
+      "location": "basement bath",
+      "description": "Moisture stains present",
+      "recommendation": null,
+      "source_page": 16
+    },
+    {
+      "observation_id": "sample_report_4_page_017_chunk_001_001",
+      "observation_type": "finding",
+      "category": "Electrical",
+      "severity": "high",
+      "location": "SECOND FLOOR NW BED",
+      "description": "Hot exposed wires hanging from the middle of the wall.",
+      "recommendation": "Repair due to hazard.",
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_4_page_017_chunk_001_002",
+      "observation_type": "finding",
+      "category": "Electrical",
+      "severity": "high",
+      "location": "SECOND FLOOR NW BED",
+      "description": "Open ground/Reverse polarity: Safety Hazard",
+      "recommendation": null,
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_4_page_017_chunk_001_003",
+      "observation_type": "finding",
+      "category": "Doors & Windows",
+      "severity": "low",
+      "location": "SECOND FLOOR NW BED",
+      "description": "Cracked window glass.",
+      "recommendation": null,
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_4_page_017_chunk_001_004",
+      "observation_type": "finding",
+      "category": "Walls & Ceiling",
+      "severity": "low",
+      "location": "SECOND FLOOR NW BED",
+      "description": "Moisture stains: Yes",
+      "recommendation": null,
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_4_page_017_chunk_001_005",
+      "observation_type": "finding",
+      "category": "Walls & Ceiling",
+      "severity": "low",
+      "location": "SECOND FLOOR NW BED",
+      "description": "Typical cracks: Yes",
+      "recommendation": null,
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_4_page_017_chunk_001_006",
+      "observation_type": "finding",
+      "category": "Walls & Ceiling",
+      "severity": "low",
+      "location": "SECOND FLOOR NW BED",
+      "description": "Floor: Squeaks",
+      "recommendation": null,
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_4_page_017_chunk_001_007",
+      "observation_type": "finding",
+      "category": "Walls & Ceiling",
+      "severity": "low",
+      "location": "SECOND FLOOR NW BED",
+      "description": "Floor: Slopes",
+      "recommendation": null,
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_4_page_017_chunk_001_008",
+      "observation_type": "finding",
+      "category": "Walls & Ceiling",
+      "severity": "low",
+      "location": "SECOND FLOOR NW BED",
+      "description": "Walls & Ceiling: Marginal",
+      "recommendation": null,
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_4_page_017_chunk_001_009",
+      "observation_type": "finding",
+      "category": "Floor",
+      "severity": "low",
+      "location": "SECOND FLOOR NW BED",
+      "description": "Floor: Satisfactory",
+      "recommendation": null,
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_4_page_017_chunk_001_010",
+      "observation_type": "finding",
+      "category": "Electrical",
+      "severity": "low",
+      "location": "SECOND FLOOR NW BED",
+      "description": "Switches: Yes",
+      "recommendation": null,
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_4_page_017_chunk_001_011",
+      "observation_type": "finding",
+      "category": "Electrical",
+      "severity": "low",
+      "location": "SECOND FLOOR NW BED",
+      "description": "Outlets: Yes",
+      "recommendation": null,
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_4_page_017_chunk_001_012",
+      "observation_type": "finding",
+      "category": "Electrical",
+      "severity": "low",
+      "location": "SECOND FLOOR NW BED",
+      "description": "Operates: Yes",
+      "recommendation": null,
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_4_page_017_chunk_001_013",
+      "observation_type": "finding",
+      "category": "Walls & Ceiling",
+      "severity": "low",
+      "location": "SECOND FLOOR NW BED",
+      "description": "Walls & Ceiling: Satisfactory",
+      "recommendation": null,
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_4_page_017_chunk_001_014",
+      "observation_type": "finding",
+      "category": "Walls & Ceiling",
+      "severity": "low",
+      "location": "SECOND FLOOR NW BED",
+      "description": "Moisture stains: No",
+      "recommendation": null,
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_4_page_017_chunk_001_015",
+      "observation_type": "finding",
+      "category": "Walls & Ceiling",
+      "severity": "low",
+      "location": "SECOND FLOOR NW BED",
+      "description": "Typical cracks: No",
+      "recommendation": null,
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_4_page_017_chunk_001_016",
+      "observation_type": "finding",
+      "category": "Walls & Ceiling",
+      "severity": "low",
+      "location": "SECOND FLOOR NW BED",
+      "description": "Ceiling Fan: N/A",
+      "recommendation": null,
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_4_page_017_chunk_001_017",
+      "observation_type": "finding",
+      "category": "Walls & Ceiling",
+      "severity": "low",
+      "location": "SECOND FLOOR NW BED",
+      "description": "Floor: Satisfactory",
+      "recommendation": null,
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_4_page_017_chunk_001_018",
+      "observation_type": "finding",
+      "category": "Walls & Ceiling",
+      "severity": "low",
+      "location": "SECOND FLOOR NW BED",
+      "description": "Floor: Marginal",
+      "recommendation": null,
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_4_page_017_chunk_001_019",
+      "observation_type": "finding",
+      "category": "Walls & Ceiling",
+      "severity": "low",
+      "location": "SECOND FLOOR NW BED",
+      "description": "Floor: Poor",
+      "recommendation": null,
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_4_page_017_chunk_001_020",
+      "observation_type": "finding",
+      "category": "Walls & Ceiling",
+      "severity": "low",
+      "location": "SECOND FLOOR NW BED",
+      "description": "Floor: Squeaks",
+      "recommendation": null,
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_4_page_017_chunk_001_021",
+      "observation_type": "finding",
+      "category": "Walls & Ceiling",
+      "severity": "low",
+      "location": "SECOND FLOOR NW BED",
+      "description": "Floor: Slopes",
+      "recommendation": null,
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_4_page_017_chunk_001_022",
+      "observation_type": "finding",
+      "category": "Walls & Ceiling",
+      "severity": "low",
+      "location": "SECOND FLOOR NW BED",
+      "description": "Walls & Ceiling: Poor",
+      "recommendation": null,
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_4_page_017_chunk_001_023",
+      "observation_type": "finding",
+      "category": "Electrical",
+      "severity": "low",
+      "location": "SECOND FLOOR NW BED",
+      "description": "Switches: No",
+      "recommendation": null,
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_4_page_017_chunk_001_024",
+      "observation_type": "finding",
+      "category": "Electrical",
+      "severity": "low",
+      "location": "SECOND FLOOR NW BED",
+      "description": "Outlets: No",
+      "recommendation": null,
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_4_page_017_chunk_001_025",
+      "observation_type": "finding",
+      "category": "Electrical",
+      "severity": "low",
+      "location": "SECOND FLOOR NW BED",
+      "description": "Operates: No",
+      "recommendation": null,
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_4_page_017_chunk_001_026",
+      "observation_type": "finding",
+      "category": "Electrical",
+      "severity": "high",
+      "location": "SECOND FLOOR NW BED",
+      "description": "Open ground/Reverse polarity: Safety Hazard",
+      "recommendation": null,
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_4_page_017_chunk_001_027",
+      "observation_type": "finding",
+      "category": "Heating/Cooling Source",
+      "severity": "low",
+      "location": "SECOND FLOOR NW BED",
+      "description": "Heating/Cooling Source: Yes",
+      "recommendation": null,
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_4_page_017_chunk_001_028",
+      "observation_type": "finding",
+      "category": "Holes",
+      "severity": "low",
+      "location": "SECOND FLOOR NW BED",
+      "description": "Holes: Doors",
+      "recommendation": null,
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_4_page_017_chunk_001_029",
+      "observation_type": "finding",
+      "category": "Holes",
+      "severity": "low",
+      "location": "SECOND FLOOR NW BED",
+      "description": "Holes: Walls",
+      "recommendation": null,
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_4_page_017_chunk_001_030",
+      "observation_type": "finding",
+      "category": "Holes",
+      "severity": "low",
+      "location": "SECOND FLOOR NW BED",
+      "description": "Holes: Ceilings",
+      "recommendation": null,
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_4_page_017_chunk_001_031",
+      "observation_type": "finding",
+      "category": "Doors & Windows",
+      "severity": "low",
+      "location": "SECOND FLOOR NW BED",
+      "description": "Operational: Yes",
+      "recommendation": null,
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_4_page_017_chunk_001_032",
+      "observation_type": "finding",
+      "category": "Doors & Windows",
+      "severity": "low",
+      "location": "SECOND FLOOR NW BED",
+      "description": "Locks/Latches Operable: Yes",
+      "recommendation": null,
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_4_page_017_chunk_001_033",
+      "observation_type": "finding",
+      "category": "Doors & Windows",
+      "severity": "low",
+      "location": "SECOND FLOOR NW BED",
+      "description": "Locks/Latches Operable: No",
+      "recommendation": null,
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_4_page_017_chunk_001_034",
+      "observation_type": "finding",
+      "category": "Doors & Windows",
+      "severity": "low",
+      "location": "SECOND FLOOR NW BED",
+      "description": "Locks/Latches Operable: Missing",
+      "recommendation": null,
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_4_page_017_chunk_001_035",
+      "observation_type": "finding",
+      "category": "Doors & Windows",
+      "severity": "low",
+      "location": "SECOND FLOOR NW BED",
+      "description": "Locks/Latches Operable: Cracked Glass",
+      "recommendation": null,
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_4_page_018_chunk_001_001",
+      "observation_type": "finding",
+      "category": "Moisture",
+      "severity": "unknown",
+      "location": "SECOND FLOOR SW BED",
+      "description": "Moisture stains present",
+      "recommendation": null,
+      "source_page": 18
+    },
+    {
+      "observation_id": "sample_report_4_page_018_chunk_001_002",
+      "observation_type": "finding",
+      "category": "Moisture",
+      "severity": "unknown",
+      "location": "FIRST FLOOR DINING ROOM",
+      "description": "Moisture stains present",
+      "recommendation": null,
+      "source_page": 18
+    },
+    {
+      "observation_id": "sample_report_4_page_018_chunk_001_003",
+      "observation_type": "finding",
+      "category": "Moisture",
+      "severity": "unknown",
+      "location": "FIRST FLOOR FAMILY ROOM",
+      "description": "Moisture stains present",
+      "recommendation": null,
+      "source_page": 18
+    },
+    {
+      "observation_id": "sample_report_4_page_018_chunk_001_004",
+      "observation_type": "risk",
+      "category": "Electrical",
+      "severity": "high",
+      "location": "SECOND FLOOR SW BED",
+      "description": "Open ground/Reverse polarity present",
+      "recommendation": "Safety Hazard",
+      "source_page": 18
+    },
+    {
+      "observation_id": "sample_report_4_page_018_chunk_001_005",
+      "observation_type": "risk",
+      "category": "Electrical",
+      "severity": "high",
+      "location": "FIRST FLOOR DINING ROOM",
+      "description": "Open ground/Reverse polarity present",
+      "recommendation": "Safety Hazard",
+      "source_page": 18
+    },
+    {
+      "observation_id": "sample_report_4_page_018_chunk_001_006",
+      "observation_type": "risk",
+      "category": "Electrical",
+      "severity": "high",
+      "location": "FIRST FLOOR FAMILY ROOM",
+      "description": "Open ground/Reverse polarity present",
+      "recommendation": null,
+      "source_page": 18
+    },
+    {
+      "observation_id": "sample_report_4_page_018_chunk_001_007",
+      "observation_type": "recommendation",
+      "category": "Structural",
+      "severity": "unknown",
+      "location": "FIRST FLOOR FAMILY ROOM",
+      "description": "Wood floor is damaged",
+      "recommendation": "Repairs recommended",
+      "source_page": 18
+    },
+    {
+      "observation_id": "sample_report_4_page_018_chunk_002_001",
+      "observation_type": "finding",
+      "category": "walls & ceiling",
+      "severity": "high",
+      "location": "first floor family room",
+      "description": "poor walls and ceiling",
+      "recommendation": null,
+      "source_page": 18
+    },
+    {
+      "observation_id": "sample_report_4_page_018_chunk_002_002",
+      "observation_type": "finding",
+      "category": "moisture stains",
+      "severity": "high",
+      "location": "first floor family room",
+      "description": "yes",
+      "recommendation": null,
+      "source_page": 18
+    },
+    {
+      "observation_id": "sample_report_4_page_018_chunk_002_003",
+      "observation_type": "finding",
+      "category": "floor",
+      "severity": "high",
+      "location": "first floor family room",
+      "description": "squeaks and slopes",
+      "recommendation": null,
+      "source_page": 18
+    },
+    {
+      "observation_id": "sample_report_4_page_018_chunk_002_004",
+      "observation_type": "finding",
+      "category": "typical cracks",
+      "severity": "high",
+      "location": "first floor family room",
+      "description": "yes",
+      "recommendation": null,
+      "source_page": 18
+    },
+    {
+      "observation_id": "sample_report_4_page_018_chunk_002_005",
+      "observation_type": "risk",
+      "category": "electrical",
+      "severity": "high",
+      "location": "first floor family room",
+      "description": "open ground/reverse polarity with safety hazard",
+      "recommendation": null,
+      "source_page": 18
+    },
+    {
+      "observation_id": "sample_report_4_page_018_chunk_002_006",
+      "observation_type": "finding",
+      "category": "heating/cooling source",
+      "severity": "high",
+      "location": "first floor family room",
+      "description": "holes in walls, ceilings, and doors",
+      "recommendation": null,
+      "source_page": 18
+    },
+    {
+      "observation_id": "sample_report_4_page_018_chunk_002_007",
+      "observation_type": "finding",
+      "category": "doors & windows",
+      "severity": "high",
+      "location": "first floor family room",
+      "description": "cracked glass",
+      "recommendation": null,
+      "source_page": 18
+    },
+    {
+      "observation_id": "sample_report_4_page_019_chunk_001_001",
+      "observation_type": "finding",
+      "category": "windows",
+      "severity": "high",
+      "location": "building",
+      "description": "Evidence of Leaking Insulated Glass",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_4_page_019_chunk_001_002",
+      "observation_type": "finding",
+      "category": "windows",
+      "severity": "high",
+      "location": "building",
+      "description": "Glazing compound needed",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_4_page_019_chunk_001_003",
+      "observation_type": "finding",
+      "category": "windows",
+      "severity": "high",
+      "location": "building",
+      "description": "Cracked glass",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_4_page_019_chunk_001_004",
+      "observation_type": "finding",
+      "category": "windows",
+      "severity": "high",
+      "location": "building",
+      "description": "Hardware missing",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_4_page_019_chunk_001_005",
+      "observation_type": "finding",
+      "category": "windows",
+      "severity": "high",
+      "location": "building",
+      "description": "Broken counter-balance mechanism",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_4_page_019_chunk_001_006",
+      "observation_type": "risk",
+      "category": "fireplace",
+      "severity": "high",
+      "location": "family room",
+      "description": "Safety hazard",
+      "recommendation": "Test release mechanism before moving in",
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_4_page_019_chunk_001_007",
+      "observation_type": "recommendation",
+      "category": "fireplace",
+      "severity": "medium",
+      "location": "family room",
+      "description": "Open joints or cracks in firebrick/panels should be sealed",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_4_page_019_chunk_001_008",
+      "observation_type": "recommendation",
+      "category": "fireplace",
+      "severity": "medium",
+      "location": "family room",
+      "description": "Fireplace doors need repair",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_4_page_019_chunk_001_009",
+      "observation_type": "recommendation",
+      "category": "fireplace",
+      "severity": "high",
+      "location": "family room",
+      "description": "Recommend having flue cleaned and re-examined",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_4_page_019_chunk_001_010",
+      "observation_type": "finding",
+      "category": "stairs",
+      "severity": "high",
+      "location": "building",
+      "description": "Safety hazard",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_4_page_019_chunk_001_011",
+      "observation_type": "finding",
+      "category": "stairs",
+      "severity": "high",
+      "location": "building",
+      "description": "Risers/Treads uneven",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_4_page_019_chunk_001_012",
+      "observation_type": "finding",
+      "category": "smoke detectors",
+      "severity": "high",
+      "location": "building",
+      "description": "Not tested",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_4_page_019_chunk_001_013",
+      "observation_type": "finding",
+      "category": "CO detectors",
+      "severity": "high",
+      "location": "building",
+      "description": "Not tested",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_4_page_019_chunk_002_001",
+      "observation_type": "finding",
+      "category": "HVAC Duct",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Leaking",
+      "recommendation": "Repair/Replace",
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_4_page_019_chunk_002_002",
+      "observation_type": "finding",
+      "category": "Roof Sheathing",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Rotted",
+      "recommendation": "null",
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_4_page_019_chunk_002_003",
+      "observation_type": "finding",
+      "category": "Evidence of Condensation/Moisture Leaking",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Yes",
+      "recommendation": "null",
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_4_page_019_chunk_002_004",
+      "observation_type": "finding",
+      "category": "Firewall Between Units",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Needs repair/sealing",
+      "recommendation": "null",
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_4_page_019_chunk_002_005",
+      "observation_type": "recommendation",
+      "category": "Insulation",
+      "severity": "medium",
+      "location": "Unknown",
+      "description": "Recommend additional insulation",
+      "recommendation": "null",
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_4_page_019_chunk_002_006",
+      "observation_type": "recommendation",
+      "category": "Ventilation",
+      "severity": "medium",
+      "location": "Unknown",
+      "description": "Recommend additional ventilation",
+      "recommendation": "null",
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_4_page_019_chunk_002_007",
+      "observation_type": "finding",
+      "category": "Roof Structure",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Stained",
+      "recommendation": "null",
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_4_page_019_chunk_002_008",
+      "observation_type": "finding",
+      "category": "Ceiling Joists",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Not visible",
+      "recommendation": "null",
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_4_page_019_chunk_002_009",
+      "observation_type": "finding",
+      "category": "Vapor Barriers",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Not visible",
+      "recommendation": "null",
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_4_page_019_chunk_002_010",
+      "observation_type": "finding",
+      "category": "Structural Problems Observed",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Yes",
+      "recommendation": "Recommend repair",
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_4_page_019_chunk_002_011",
+      "observation_type": "finding",
+      "category": "Structural Problems Observed",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Recommend Structural Engineer",
+      "recommendation": "null",
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_4_page_019_chunk_002_012",
+      "observation_type": "finding",
+      "category": "Roof Structure",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Wood",
+      "recommendation": "null",
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_4_page_019_chunk_002_013",
+      "observation_type": "finding",
+      "category": "Roof Structure",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "lx Wood",
+      "recommendation": "null",
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_4_page_019_chunk_002_014",
+      "observation_type": "finding",
+      "category": "Roof Structure",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Metal",
+      "recommendation": "null",
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_4_page_019_chunk_002_015",
+      "observation_type": "finding",
+      "category": "Roof Structure",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Other",
+      "recommendation": "null",
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_4_page_019_chunk_002_016",
+      "observation_type": "finding",
+      "category": "Roof Sheathing",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Plywood",
+      "recommendation": "null",
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_4_page_019_chunk_002_017",
+      "observation_type": "finding",
+      "category": "Roof Sheathing",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "OSB",
+      "recommendation": "null",
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_4_page_019_chunk_002_018",
+      "observation_type": "finding",
+      "category": "Roof Sheathing",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "lx Wood",
+      "recommendation": "null",
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_4_page_019_chunk_002_019",
+      "observation_type": "finding",
+      "category": "Roof Sheathing",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Delaminated",
+      "recommendation": "null",
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_4_page_019_chunk_002_020",
+      "observation_type": "finding",
+      "category": "Ceiling Joists",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Wood",
+      "recommendation": "null",
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_4_page_019_chunk_002_021",
+      "observation_type": "finding",
+      "category": "Ceiling Joists",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Metal",
+      "recommendation": "null",
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_4_page_019_chunk_002_022",
+      "observation_type": "finding",
+      "category": "Ceiling Joists",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Other",
+      "recommendation": "null",
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_4_page_019_chunk_002_023",
+      "observation_type": "finding",
+      "category": "Ceiling Joists",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Not visible",
+      "recommendation": "null",
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_4_page_019_chunk_002_024",
+      "observation_type": "finding",
+      "category": "Vapor Barriers",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Kraft/foil faced",
+      "recommendation": "null",
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_4_page_019_chunk_002_025",
+      "observation_type": "finding",
+      "category": "Vapor Barriers",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Plastic",
+      "recommendation": "null",
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_4_page_019_chunk_002_026",
+      "observation_type": "finding",
+      "category": "Vapor Barriers",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Not visible",
+      "recommendation": "null",
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_4_page_019_chunk_002_027",
+      "observation_type": "finding",
+      "category": "Vapor Barriers",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Improperly installed",
+      "recommendation": "null",
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_4_page_019_chunk_003_001",
+      "observation_type": "finding",
+      "category": "attic framing",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "rafters appeared to be in overall adequate condition",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_4_page_019_chunk_003_002",
+      "observation_type": "finding",
+      "category": "sheathing",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "roof sheathing showed no major defects or moisture damage",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_4_page_019_chunk_003_003",
+      "observation_type": "finding",
+      "category": "attic insulation",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "insulation was poor and should be improved",
+      "recommendation": "improve insulation",
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_4_page_019_chunk_003_004",
+      "observation_type": "finding",
+      "category": "attic ventilation",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "ventilation was normal",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_4_page_020_chunk_001_001",
+      "observation_type": "recommendation",
+      "category": "safety",
+      "severity": "high",
+      "location": "Fireplace",
+      "description": "Damper door has difficult operation",
+      "recommendation": "Service the fireplace prior to use",
+      "source_page": 20
+    },
+    {
+      "observation_id": "sample_report_4_page_020_chunk_001_002",
+      "observation_type": "recommendation",
+      "category": "safety",
+      "severity": "high",
+      "location": "Fireplace",
+      "description": "Masonry fire block is cracked and open",
+      "recommendation": "Seal the masonry fire block",
+      "source_page": 20
+    },
+    {
+      "observation_id": "sample_report_4_page_021_chunk_001_001",
+      "observation_type": "finding",
+      "category": "Stairs",
+      "severity": "high",
+      "location": "Stairs",
+      "description": "Need repair",
+      "recommendation": null,
+      "source_page": 21
+    },
+    {
+      "observation_id": "sample_report_4_page_021_chunk_001_002",
+      "observation_type": "risk",
+      "category": "Stairs",
+      "severity": "high",
+      "location": "Stairs",
+      "description": "Low clearance",
+      "recommendation": null,
+      "source_page": 21
+    },
+    {
+      "observation_id": "sample_report_4_page_021_chunk_001_003",
+      "observation_type": "risk",
+      "category": "Stairs",
+      "severity": "high",
+      "location": "Stairs",
+      "description": "Safety hazard",
+      "recommendation": null,
+      "source_page": 21
+    },
+    {
+      "observation_id": "sample_report_4_page_021_chunk_001_004",
+      "observation_type": "finding",
+      "category": "FOUNDATION",
+      "severity": "high",
+      "location": "FOUNDATION",
+      "description": "Have evaluated",
+      "recommendation": null,
+      "source_page": 21
+    },
+    {
+      "observation_id": "sample_report_4_page_021_chunk_001_005",
+      "observation_type": "finding",
+      "category": "FOUNDATION",
+      "severity": "high",
+      "location": "FOUNDATION",
+      "description": "Monitor",
+      "recommendation": null,
+      "source_page": 21
+    },
+    {
+      "observation_id": "sample_report_4_page_021_chunk_001_006",
+      "observation_type": "finding",
+      "category": "FOUNDATION",
+      "severity": "high",
+      "location": "FOUNDATION",
+      "description": "Indication Of Moisture: Yes",
+      "recommendation": null,
+      "source_page": 21
+    },
+    {
+      "observation_id": "sample_report_4_page_021_chunk_001_007",
+      "observation_type": "finding",
+      "category": "FOUNDATION",
+      "severity": "high",
+      "location": "FOUNDATION",
+      "description": "Indication Of Moisture: Fresh",
+      "recommendation": null,
+      "source_page": 21
+    },
+    {
+      "observation_id": "sample_report_4_page_021_chunk_001_008",
+      "observation_type": "finding",
+      "category": "BASEMENT/CRAWL SPACE WALLS",
+      "severity": "high",
+      "location": "BASEMENT/CRAWL SPACE WALLS",
+      "description": "Crack(s)",
+      "recommendation": null,
+      "source_page": 21
+    },
+    {
+      "observation_id": "sample_report_4_page_021_chunk_001_009",
+      "observation_type": "finding",
+      "category": "BASEMENT/CRAWL SPACE WALLS",
+      "severity": "high",
+      "location": "BASEMENT/CRAWL SPACE WALLS",
+      "description": "Movement Apparent: Yes",
+      "recommendation": null,
+      "source_page": 21
+    },
+    {
+      "observation_id": "sample_report_4_page_021_chunk_001_010",
+      "observation_type": "finding",
+      "category": "BASEMENT/CRAWL SPACE WALLS",
+      "severity": "high",
+      "location": "BASEMENT/CRAWL SPACE WALLS",
+      "description": "Indication Of Moisture: Yes",
+      "recommendation": null,
+      "source_page": 21
+    },
+    {
+      "observation_id": "sample_report_4_page_021_chunk_001_011",
+      "observation_type": "finding",
+      "category": "BASEMENT/CRAWL SPACE WALLS",
+      "severity": "high",
+      "location": "BASEMENT/CRAWL SPACE WALLS",
+      "description": "Indication Of Moisture: Fresh",
+      "recommendation": null,
+      "source_page": 21
+    },
+    {
+      "observation_id": "sample_report_4_page_021_chunk_001_012",
+      "observation_type": "finding",
+      "category": "BASEMENT DRAINAGE",
+      "severity": "high",
+      "location": "BASEMENT DRAINAGE",
+      "description": "Efflorescence present",
+      "recommendation": null,
+      "source_page": 21
+    },
+    {
+      "observation_id": "sample_report_4_page_021_chunk_001_013",
+      "observation_type": "finding",
+      "category": "GIRDERS / BEAMS / COLUMNS",
+      "severity": "high",
+      "location": "GIRDERS / BEAMS / COLUMNS",
+      "description": "Stained/rusted",
+      "recommendation": null,
+      "source_page": 21
+    },
+    {
+      "observation_id": "sample_report_4_page_021_chunk_001_014",
+      "observation_type": "finding",
+      "category": "JOISTS",
+      "severity": "high",
+      "location": "JOISTS",
+      "description": "Not visible",
+      "recommendation": null,
+      "source_page": 21
+    },
+    {
+      "observation_id": "sample_report_4_page_021_chunk_002_001",
+      "observation_type": "finding",
+      "category": "Structural",
+      "severity": "high",
+      "location": "Rear foundation wall",
+      "description": "Rear foundation wall found under the rear kitchen bump out has pushed inwards over 3\"",
+      "recommendation": "Further evaluation needed by a structural engineer",
+      "source_page": 21
+    },
+    {
+      "observation_id": "sample_report_4_page_021_chunk_002_002",
+      "observation_type": "finding",
+      "category": "Structural",
+      "severity": "high",
+      "location": "Altered basement joists",
+      "description": "Altered basement joists were found throughout",
+      "recommendation": "Recommend repair due to hazard",
+      "source_page": 21
+    },
+    {
+      "observation_id": "sample_report_4_page_021_chunk_002_003",
+      "observation_type": "risk",
+      "category": "Water Damage",
+      "severity": "high",
+      "location": "Basement",
+      "description": "Basement is taking on water due to exterior issues and rear foundation issues",
+      "recommendation": "Recommend repair to exterior and consideration of some sort of water proofing system",
+      "source_page": 21
+    },
+    {
+      "observation_id": "sample_report_4_page_024_chunk_001_001",
+      "observation_type": "finding",
+      "category": "Structural",
+      "severity": "high",
+      "location": "Basement stairs",
+      "description": "Basement stairs are rotted out",
+      "recommendation": "replacement",
+      "source_page": 24
+    },
+    {
+      "observation_id": "sample_report_4_page_025_chunk_001_001",
+      "observation_type": "finding",
+      "category": "Water Distribution Piping",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Pipes, Supply/Drain: Corroded, Leaking, Valves broken/missing, Dissimilar metal",
+      "recommendation": null,
+      "source_page": 25
+    },
+    {
+      "observation_id": "sample_report_4_page_025_chunk_001_002",
+      "observation_type": "risk",
+      "category": "Cross Connection",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Cross connection: Yes",
+      "recommendation": "Recommend plumber evaluate",
+      "source_page": 25
+    },
+    {
+      "observation_id": "sample_report_4_page_025_chunk_001_003",
+      "observation_type": "recommendation",
+      "category": "Vent Pipe",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Vent Pipe: Improper, Rusted",
+      "recommendation": "Recommend repair",
+      "source_page": 25
+    },
+    {
+      "observation_id": "sample_report_4_page_025_chunk_001_004",
+      "observation_type": "recommendation",
+      "category": "Water Heater #1",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Unit Elevated: Tank/Piping corroded/leaking",
+      "recommendation": "Recommend repair",
+      "source_page": 25
+    },
+    {
+      "observation_id": "sample_report_4_page_025_chunk_001_005",
+      "observation_type": "finding",
+      "category": "Drain/Waste/Vent Pipe",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Drain/Waste/Vent Pipe: Copper, Cast iron, Galvanized, PVC, ABS",
+      "recommendation": null,
+      "source_page": 25
+    },
+    {
+      "observation_id": "sample_report_4_page_025_chunk_002_001",
+      "observation_type": "finding",
+      "category": "plumbing",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "No leaks found in gas lines",
+      "recommendation": null,
+      "source_page": 25
+    },
+    {
+      "observation_id": "sample_report_4_page_025_chunk_002_002",
+      "observation_type": "finding",
+      "category": "plumbing",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Water service not connected",
+      "recommendation": null,
+      "source_page": 25
+    },
+    {
+      "observation_id": "sample_report_4_page_025_chunk_002_003",
+      "observation_type": "risk",
+      "category": "plumbing",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Rusted vent pipe",
+      "recommendation": "Recommend repair",
+      "source_page": 25
+    },
+    {
+      "observation_id": "sample_report_4_page_025_chunk_002_004",
+      "observation_type": "risk",
+      "category": "plumbing",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Improper vent pipe pitch",
+      "recommendation": "Recommend repair",
+      "source_page": 25
+    },
+    {
+      "observation_id": "sample_report_4_page_026_chunk_001_001",
+      "observation_type": "recommendation",
+      "category": "heating system",
+      "severity": "high",
+      "location": "basement",
+      "description": "Furnace was extremely dirty",
+      "recommendation": "service call and clean out",
+      "source_page": 26
+    },
+    {
+      "observation_id": "sample_report_4_page_026_chunk_001_002",
+      "observation_type": "recommendation",
+      "category": "heating system",
+      "severity": "high",
+      "location": "basement",
+      "description": "Sections of duct work has fallen free and is not connected",
+      "recommendation": "repair",
+      "source_page": 26
+    },
+    {
+      "observation_id": "sample_report_4_page_026_chunk_001_003",
+      "observation_type": "recommendation",
+      "category": "heating system",
+      "severity": "high",
+      "location": "basement",
+      "description": "Asbestos like wrap found",
+      "recommendation": "sealing or removal",
+      "source_page": 26
+    },
+    {
+      "observation_id": "sample_report_4_page_027_chunk_001_001",
+      "observation_type": "finding",
+      "category": "Electrical Panel",
+      "severity": "high",
+      "location": "Basement",
+      "description": "Federal Pacific Panel Stab Lok (See remarks page)",
+      "recommendation": null,
+      "source_page": 27
+    },
+    {
+      "observation_id": "sample_report_4_page_027_chunk_001_002",
+      "observation_type": "finding",
+      "category": "Electrical Panel",
+      "severity": "high",
+      "location": "Basement",
+      "description": "Double tapping of the main wire",
+      "recommendation": null,
+      "source_page": 27
+    },
+    {
+      "observation_id": "sample_report_4_page_027_chunk_001_003",
+      "observation_type": "finding",
+      "category": "Electrical Panel",
+      "severity": "high",
+      "location": "Basement",
+      "description": "Panel not accessible",
+      "recommendation": null,
+      "source_page": 27
+    },
+    {
+      "observation_id": "sample_report_4_page_027_chunk_001_004",
+      "observation_type": "finding",
+      "category": "Electrical Panel",
+      "severity": "high",
+      "location": "Basement",
+      "description": "Not evaluated Reason: INFO",
+      "recommendation": null,
+      "source_page": 27
+    },
+    {
+      "observation_id": "sample_report_4_page_027_chunk_001_005",
+      "observation_type": "finding",
+      "category": "Electrical Panel",
+      "severity": "high",
+      "location": "Basement",
+      "description": "Aluminum main wire",
+      "recommendation": null,
+      "source_page": 27
+    },
+    {
+      "observation_id": "sample_report_4_page_027_chunk_001_006",
+      "observation_type": "finding",
+      "category": "Electrical Panel",
+      "severity": "high",
+      "location": "Basement",
+      "description": "Aluminum branch wire",
+      "recommendation": null,
+      "source_page": 27
+    },
+    {
+      "observation_id": "sample_report_4_page_027_chunk_001_007",
+      "observation_type": "finding",
+      "category": "Electrical Panel",
+      "severity": "high",
+      "location": "Basement",
+      "description": "Wires undersized/oversized breaker/fuse",
+      "recommendation": null,
+      "source_page": 27
+    },
+    {
+      "observation_id": "sample_report_4_page_027_chunk_001_008",
+      "observation_type": "finding",
+      "category": "Electrical Fixtures",
+      "severity": "high",
+      "location": "Inside the house, garage, and exterior walls",
+      "description": "Open grounds",
+      "recommendation": null,
+      "source_page": 27
+    },
+    {
+      "observation_id": "sample_report_4_page_027_chunk_001_009",
+      "observation_type": "finding",
+      "category": "Electrical Fixtures",
+      "severity": "high",
+      "location": "Inside the house, garage, and exterior walls",
+      "description": "Reverse polarity",
+      "recommendation": null,
+      "source_page": 27
+    },
+    {
+      "observation_id": "sample_report_4_page_027_chunk_001_010",
+      "observation_type": "finding",
+      "category": "Electrical Fixtures",
+      "severity": "high",
+      "location": "Inside the house, garage, and exterior walls",
+      "description": "GFCIs not operating",
+      "recommendation": null,
+      "source_page": 27
+    },
+    {
+      "observation_id": "sample_report_4_page_027_chunk_001_011",
+      "observation_type": "finding",
+      "category": "Electrical Fixtures",
+      "severity": "high",
+      "location": "Inside the house, garage, and exterior walls",
+      "description": "Solid conductor aluminum branch wiring circuits",
+      "recommendation": null,
+      "source_page": 27
+    },
+    {
+      "observation_id": "sample_report_4_page_027_chunk_001_012",
+      "observation_type": "finding",
+      "category": "Electrical Fixtures",
+      "severity": "high",
+      "location": "Inside the house, garage, and exterior walls",
+      "description": "Ungrounded 3-prong outlets",
+      "recommendation": null,
+      "source_page": 27
+    },
+    {
+      "observation_id": "sample_report_4_page_027_chunk_002_001",
+      "observation_type": "finding",
+      "category": "Electrical",
+      "severity": "high",
+      "location": "Main electrical panel",
+      "description": "Service line not sized correctly to support 100 amp service",
+      "recommendation": null,
+      "source_page": 27
+    },
+    {
+      "observation_id": "sample_report_4_page_027_chunk_002_002",
+      "observation_type": "finding",
+      "category": "Electrical",
+      "severity": "high",
+      "location": "Breaker box",
+      "description": "3 double taps found",
+      "recommendation": "Further evaluation and repair by a qualified, licensed electrician",
+      "source_page": 27
+    },
+    {
+      "observation_id": "sample_report_4_page_027_chunk_002_003",
+      "observation_type": "risk",
+      "category": "Electrical",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "GFCIs not operating",
+      "recommendation": null,
+      "source_page": 27
+    },
+    {
+      "observation_id": "sample_report_4_page_027_chunk_002_004",
+      "observation_type": "finding",
+      "category": "Electrical",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Solid conductor aluminum branch wiring circuits",
+      "recommendation": null,
+      "source_page": 27
+    },
+    {
+      "observation_id": "sample_report_4_page_027_chunk_002_005",
+      "observation_type": "finding",
+      "category": "Electrical",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Ungrounded 3-prong outlets",
+      "recommendation": null,
+      "source_page": 27
+    },
+    {
+      "observation_id": "sample_report_4_page_027_chunk_002_006",
+      "observation_type": "recommendation",
+      "category": "Electrical",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Recommend electrician evaluate/repair",
+      "recommendation": "Evaluate and repair by a qualified, licensed electrician",
+      "source_page": 27
+    },
+    {
+      "observation_id": "sample_report_4_page_029_chunk_001_001",
+      "observation_type": "finding",
+      "category": "HVAC",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "A/c unit has been removed.",
+      "recommendation": "Add A/C unit.",
+      "source_page": 29
+    },
+    {
+      "observation_id": "sample_report_4_page_029_chunk_001_002",
+      "observation_type": "risk",
+      "category": "Water supply",
+      "severity": "high",
+      "location": "NE corner",
+      "description": "Downspout is leaking, causing water intrusion in the basement and heaving to the concrete.",
+      "recommendation": "Repair downspout.",
+      "source_page": 29
+    },
+    {
+      "observation_id": "sample_report_4_page_029_chunk_001_003",
+      "observation_type": "risk",
+      "category": "Water supply",
+      "severity": "high",
+      "location": "Driveway and foundation",
+      "description": "Gap between driveway and foundation is allowing for water intrusion in the basement.",
+      "recommendation": "Repair gap.",
+      "source_page": 29
+    },
+    {
+      "observation_id": "sample_report_4_page_029_chunk_001_004",
+      "observation_type": "risk",
+      "category": "Roof",
+      "severity": "medium",
+      "location": "Flashing areas",
+      "description": "Roof is leaking from a few flashing areas.",
+      "recommendation": "Repair flashing areas.",
+      "source_page": 29
+    },
+    {
+      "observation_id": "sample_report_4_page_029_chunk_001_005",
+      "observation_type": "risk",
+      "category": "Roof",
+      "severity": "high",
+      "location": "Garage roof",
+      "description": "Garage roof has a hole in it and is letting in water.",
+      "recommendation": "Repair garage roof.",
+      "source_page": 29
+    },
+    {
+      "observation_id": "sample_report_4_page_029_chunk_001_006",
+      "observation_type": "risk",
+      "category": "Structural",
+      "severity": "high",
+      "location": "Rear foundation wall",
+      "description": "Rear foundation wall has pushed inwards over 3 inches and is considered a structural issue.",
+      "recommendation": "Further evaluation by a structural engineer.",
+      "source_page": 29
+    },
+    {
+      "observation_id": "sample_report_4_page_029_chunk_001_007",
+      "observation_type": "risk",
+      "category": "Water supply",
+      "severity": "high",
+      "location": "Basement",
+      "description": "Basement is taking on water due to exterior issues and rear foundation issues.",
+      "recommendation": "Repair exterior and consider water proofing system.",
+      "source_page": 29
+    },
+    {
+      "observation_id": "sample_report_4_page_029_chunk_001_008",
+      "observation_type": "risk",
+      "category": "Electrical",
+      "severity": "high",
+      "location": "Garage",
+      "description": "Garage has 2 prong ungrounded electrical service.",
+      "recommendation": "Upgrade electrical service.",
+      "source_page": 29
+    },
+    {
+      "observation_id": "sample_report_4_page_029_chunk_001_009",
+      "observation_type": "risk",
+      "category": "Electrical",
+      "severity": "high",
+      "location": "Kitchen",
+      "description": "Kitchen has hot/neutral reverse outlets.",
+      "recommendation": "Repair outlets.",
+      "source_page": 29
+    },
+    {
+      "observation_id": "sample_report_4_page_029_chunk_001_010",
+      "observation_type": "risk",
+      "category": "Fire safety",
+      "severity": "high",
+      "location": "Vinyl dryer vent",
+      "description": "Vinyl dryer vent should be removed and replaced with flex metal due to fire hazard.",
+      "recommendation": "Remove and replace dryer vent.",
+      "source_page": 29
+    },
+    {
+      "observation_id": "sample_report_4_page_029_chunk_001_011",
+      "observation_type": "risk",
+      "category": "Electrical",
+      "severity": "high",
+      "location": "NW bed",
+      "description": "Hot exposed wires are hanging from the middle of the wall.",
+      "recommendation": "Repair electrical issue.",
+      "source_page": 29
+    },
+    {
+      "observation_id": "sample_report_4_page_029_chunk_001_012",
+      "observation_type": "risk",
+      "category": "Fire safety",
+      "severity": "high",
+      "location": "Fireplace",
+      "description": "Damper door has difficult operation and masonry fire block is cracked and open.",
+      "recommendation": "Seal fireplace.",
+      "source_page": 29
+    },
+    {
+      "observation_id": "sample_report_4_page_029_chunk_001_013",
+      "observation_type": "risk",
+      "category": "Structural",
+      "severity": "unknown",
+      "location": "Altered basement joists",
+      "description": "Altered basement joists were found.",
+      "recommendation": null,
+      "source_page": 29
+    },
+    {
+      "observation_id": "sample_report_4_page_029_chunk_002_001",
+      "observation_type": "recommendation",
+      "category": "safety",
+      "severity": "high",
+      "location": "fireplace",
+      "description": "Damper door has difficult operation",
+      "recommendation": "servicing",
+      "source_page": 29
+    },
+    {
+      "observation_id": "sample_report_4_page_029_chunk_002_002",
+      "observation_type": "recommendation",
+      "category": "safety",
+      "severity": "high",
+      "location": "fireplace",
+      "description": "Masonry fire block is cracked and open",
+      "recommendation": "sealing",
+      "source_page": 29
+    },
+    {
+      "observation_id": "sample_report_4_page_029_chunk_002_003",
+      "observation_type": "recommendation",
+      "category": "safety",
+      "severity": "high",
+      "location": "basement",
+      "description": "Altered basement joists were found throughout",
+      "recommendation": "repair",
+      "source_page": 29
+    },
+    {
+      "observation_id": "sample_report_4_page_029_chunk_002_004",
+      "observation_type": "recommendation",
+      "category": "safety",
+      "severity": "high",
+      "location": "basement stairs",
+      "description": "Basement stairs are rotted out",
+      "recommendation": "replacement",
+      "source_page": 29
+    },
+    {
+      "observation_id": "sample_report_4_page_029_chunk_002_005",
+      "observation_type": "risk",
+      "category": "electrical",
+      "severity": "high",
+      "location": "main electrical panel",
+      "description": "Main electrical panel service line entering the home does not appear to be sized correctly",
+      "recommendation": "further evaluation and repair by a qualified, licensed electrician",
+      "source_page": 29
+    },
+    {
+      "observation_id": "sample_report_4_page_030_chunk_001_001",
+      "observation_type": "finding",
+      "category": "Roof",
+      "severity": "unknown",
+      "location": "Private, Ohio",
+      "description": "Roof has reached or is reaching its normal life expectancy and may require repair or replacement anytime during the next five years.",
+      "recommendation": null,
+      "source_page": 30
+    },
+    {
+      "observation_id": "sample_report_4_page_030_chunk_001_002",
+      "observation_type": "finding",
+      "category": "A/c",
+      "severity": "unknown",
+      "location": "Private, Ohio",
+      "description": "A/c has reached or is reaching its normal life expectancy and may require repair or replacement anytime during the next five years.",
+      "recommendation": null,
+      "source_page": 30
+    }
+  ]
+}

@@ -1,0 +1,2846 @@
+{
+  "report_id": "sample_report_3",
+  "source_file": "sample_report_3.pdf",
+  "observations": [
+    {
+      "observation_id": "sample_report_3_page_004_chunk_001_001",
+      "observation_type": "finding",
+      "category": "General Condition of Property",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "General Condition of Property is described as satisfactory.",
+      "recommendation": null,
+      "source_page": 4
+    },
+    {
+      "observation_id": "sample_report_3_page_004_chunk_001_002",
+      "observation_type": "finding",
+      "category": "External Condition",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "External Condition is described as satisfactory.",
+      "recommendation": null,
+      "source_page": 4
+    },
+    {
+      "observation_id": "sample_report_3_page_004_chunk_001_003",
+      "observation_type": "finding",
+      "category": "Internal Condition",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Internal Condition is described as satisfactory.",
+      "recommendation": null,
+      "source_page": 4
+    },
+    {
+      "observation_id": "sample_report_3_page_004_chunk_001_004",
+      "observation_type": "finding",
+      "category": "Deleterious and Problematic Materials",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Deleterious and Problematic Materials are listed in Appendix 2.",
+      "recommendation": null,
+      "source_page": 4
+    },
+    {
+      "observation_id": "sample_report_3_page_004_chunk_001_005",
+      "observation_type": "finding",
+      "category": "Compliance with Legislation",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Compliance with Legislation is described as satisfactory.",
+      "recommendation": null,
+      "source_page": 4
+    },
+    {
+      "observation_id": "sample_report_3_page_004_chunk_001_006",
+      "observation_type": "finding",
+      "category": "Environmental Hazards",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Environmental Hazards are described as satisfactory.",
+      "recommendation": null,
+      "source_page": 4
+    },
+    {
+      "observation_id": "sample_report_3_page_004_chunk_001_007",
+      "observation_type": "finding",
+      "category": "Minimum Energy Efficient Standards (MEES)",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Minimum Energy Efficient Standards (MEES) are described as satisfactory.",
+      "recommendation": null,
+      "source_page": 4
+    },
+    {
+      "observation_id": "sample_report_3_page_006_chunk_001_001",
+      "observation_type": "compliance",
+      "category": "Structural Damage",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Classification of damage to buildings based on crack widths.",
+      "recommendation": null,
+      "source_page": 6
+    },
+    {
+      "observation_id": "sample_report_3_page_007_chunk_001_001",
+      "observation_type": "finding",
+      "category": "Roofing",
+      "severity": "unknown",
+      "location": "Unit 3",
+      "description": "Factory finished profile metal sheet covered pitched roof",
+      "recommendation": null,
+      "source_page": 7
+    },
+    {
+      "observation_id": "sample_report_3_page_007_chunk_001_002",
+      "observation_type": "finding",
+      "category": "Roofing",
+      "severity": "unknown",
+      "location": "Unit 3",
+      "description": "GRP rooflights",
+      "recommendation": null,
+      "source_page": 7
+    },
+    {
+      "observation_id": "sample_report_3_page_007_chunk_001_003",
+      "observation_type": "finding",
+      "category": "Roofing",
+      "severity": "unknown",
+      "location": "Unit 3",
+      "description": "Preformed metal eaves and valley gutters",
+      "recommendation": null,
+      "source_page": 7
+    },
+    {
+      "observation_id": "sample_report_3_page_007_chunk_001_004",
+      "observation_type": "finding",
+      "category": "Roofing",
+      "severity": "unknown",
+      "location": "Unit 3",
+      "description": "Plastic downpipes",
+      "recommendation": null,
+      "source_page": 7
+    },
+    {
+      "observation_id": "sample_report_3_page_007_chunk_001_005",
+      "observation_type": "finding",
+      "category": "Exterior",
+      "severity": "unknown",
+      "location": "Unit 3",
+      "description": "Facing brickwork and profile metal cladding",
+      "recommendation": null,
+      "source_page": 7
+    },
+    {
+      "observation_id": "sample_report_3_page_007_chunk_001_006",
+      "observation_type": "finding",
+      "category": "Exterior",
+      "severity": "unknown",
+      "location": "Unit 3",
+      "description": "Solid timber external fire exit doors and metal roller shutter doors",
+      "recommendation": null,
+      "source_page": 7
+    },
+    {
+      "observation_id": "sample_report_3_page_007_chunk_001_007",
+      "observation_type": "finding",
+      "category": "Interior",
+      "severity": "unknown",
+      "location": "Unit 3",
+      "description": "Main warehouse space with lay-in grid suspended ceilings",
+      "recommendation": null,
+      "source_page": 7
+    },
+    {
+      "observation_id": "sample_report_3_page_007_chunk_001_008",
+      "observation_type": "finding",
+      "category": "Interior",
+      "severity": "unknown",
+      "location": "Unit 3",
+      "description": "Stud partition walls with painted plastered finishes",
+      "recommendation": null,
+      "source_page": 7
+    },
+    {
+      "observation_id": "sample_report_3_page_007_chunk_001_009",
+      "observation_type": "finding",
+      "category": "Interior",
+      "severity": "unknown",
+      "location": "Unit 3",
+      "description": "Carpet tile floor covering",
+      "recommendation": null,
+      "source_page": 7
+    },
+    {
+      "observation_id": "sample_report_3_page_007_chunk_001_010",
+      "observation_type": "finding",
+      "category": "Interior",
+      "severity": "unknown",
+      "location": "Unit 3",
+      "description": "Office areas with lay-in grid suspended ceilings",
+      "recommendation": null,
+      "source_page": 7
+    },
+    {
+      "observation_id": "sample_report_3_page_007_chunk_001_011",
+      "observation_type": "finding",
+      "category": "Interior",
+      "severity": "unknown",
+      "location": "Unit 3",
+      "description": "Stud partition walls with painted plastered finishes",
+      "recommendation": null,
+      "source_page": 7
+    },
+    {
+      "observation_id": "sample_report_3_page_007_chunk_001_012",
+      "observation_type": "finding",
+      "category": "Interior",
+      "severity": "unknown",
+      "location": "Unit 3",
+      "description": "WC facilities and kitchen with painted plastered ceilings",
+      "recommendation": null,
+      "source_page": 7
+    },
+    {
+      "observation_id": "sample_report_3_page_007_chunk_001_013",
+      "observation_type": "finding",
+      "category": "Interior",
+      "severity": "unknown",
+      "location": "Unit 3",
+      "description": "Solid partition walls with painted and plastered finishes",
+      "recommendation": null,
+      "source_page": 7
+    },
+    {
+      "observation_id": "sample_report_3_page_007_chunk_001_014",
+      "observation_type": "finding",
+      "category": "Interior",
+      "severity": "unknown",
+      "location": "Unit 3",
+      "description": "Vinyl tile floor coverings",
+      "recommendation": null,
+      "source_page": 7
+    },
+    {
+      "observation_id": "sample_report_3_page_007_chunk_001_015",
+      "observation_type": "finding",
+      "category": "Services",
+      "severity": "unknown",
+      "location": "Unit 3",
+      "description": "Mains water and electricity services",
+      "recommendation": null,
+      "source_page": 7
+    },
+    {
+      "observation_id": "sample_report_3_page_007_chunk_001_016",
+      "observation_type": "finding",
+      "category": "Drainage",
+      "severity": "unknown",
+      "location": "Unit 3",
+      "description": "Connected to the main public sewer",
+      "recommendation": null,
+      "source_page": 7
+    },
+    {
+      "observation_id": "sample_report_3_page_007_chunk_001_017",
+      "observation_type": "finding",
+      "category": "Construction",
+      "severity": "unknown",
+      "location": "Unit 4",
+      "description": "Steel portal frame construction with three storey office of traditional masonry construction",
+      "recommendation": null,
+      "source_page": 7
+    },
+    {
+      "observation_id": "sample_report_3_page_007_chunk_002_001",
+      "observation_type": "compliance",
+      "category": "asbestos",
+      "severity": "unknown",
+      "location": "Unit 4",
+      "description": "Asbestos sheet used for roof covering",
+      "recommendation": null,
+      "source_page": 7
+    },
+    {
+      "observation_id": "sample_report_3_page_007_chunk_002_002",
+      "observation_type": "compliance",
+      "category": "asbestos",
+      "severity": "unknown",
+      "location": "Unit 4",
+      "description": "Asbestos cement eaves gutters used",
+      "recommendation": null,
+      "source_page": 7
+    },
+    {
+      "observation_id": "sample_report_3_page_007_chunk_002_003",
+      "observation_type": "compliance",
+      "category": "asbestos",
+      "severity": "unknown",
+      "location": "Unit 4",
+      "description": "Asbestos sheet used for cladding",
+      "recommendation": null,
+      "source_page": 7
+    },
+    {
+      "observation_id": "sample_report_3_page_007_chunk_002_004",
+      "observation_type": "compliance",
+      "category": "roofing",
+      "severity": "unknown",
+      "location": "Unit 4",
+      "description": "GRP rooflights used",
+      "recommendation": null,
+      "source_page": 7
+    },
+    {
+      "observation_id": "sample_report_3_page_007_chunk_002_005",
+      "observation_type": "compliance",
+      "category": "plumbing",
+      "severity": "unknown",
+      "location": "Unit 4",
+      "description": "Drainage connected to the main public sewer",
+      "recommendation": null,
+      "source_page": 7
+    },
+    {
+      "observation_id": "sample_report_3_page_007_chunk_002_006",
+      "observation_type": "compliance",
+      "category": "fenestration",
+      "severity": "unknown",
+      "location": "Unit 4",
+      "description": "Timber framed single glazed windows used",
+      "recommendation": null,
+      "source_page": 7
+    },
+    {
+      "observation_id": "sample_report_3_page_007_chunk_002_007",
+      "observation_type": "compliance",
+      "category": "fenestration",
+      "severity": "unknown",
+      "location": "Unit 4",
+      "description": "Double glazed PVCu windows used",
+      "recommendation": null,
+      "source_page": 7
+    },
+    {
+      "observation_id": "sample_report_3_page_007_chunk_002_008",
+      "observation_type": "compliance",
+      "category": "doors",
+      "severity": "unknown",
+      "location": "Unit 4",
+      "description": "Metal roller shutter doors used",
+      "recommendation": null,
+      "source_page": 7
+    },
+    {
+      "observation_id": "sample_report_3_page_007_chunk_002_009",
+      "observation_type": "compliance",
+      "category": "doors",
+      "severity": "unknown",
+      "location": "Unit 4",
+      "description": "Timber external exit doors used",
+      "recommendation": null,
+      "source_page": 7
+    },
+    {
+      "observation_id": "sample_report_3_page_008_chunk_001_001",
+      "observation_type": "compliance",
+      "category": "plumbing",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Mains water services are present.",
+      "recommendation": null,
+      "source_page": 8
+    },
+    {
+      "observation_id": "sample_report_3_page_008_chunk_001_002",
+      "observation_type": "compliance",
+      "category": "plumbing",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Mains electricity services are present.",
+      "recommendation": null,
+      "source_page": 8
+    },
+    {
+      "observation_id": "sample_report_3_page_008_chunk_001_003",
+      "observation_type": "compliance",
+      "category": "plumbing",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Drainage is connected to the main public sewer.",
+      "recommendation": null,
+      "source_page": 8
+    },
+    {
+      "observation_id": "sample_report_3_page_009_chunk_001_001",
+      "observation_type": "finding",
+      "category": "Roof",
+      "severity": "medium",
+      "location": "Unit 3, rear of the roof",
+      "description": "Areas of cut edge corrosion are evident to the roof sheets",
+      "recommendation": null,
+      "source_page": 9
+    },
+    {
+      "observation_id": "sample_report_3_page_010_chunk_001_001",
+      "observation_type": "recommendation",
+      "category": "Roofing",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Cut edges of roof sheets need to be treated with a suitable repair system.",
+      "recommendation": "Treat cut edges with a suitable proprietary repair system.",
+      "source_page": 10
+    },
+    {
+      "observation_id": "sample_report_3_page_010_chunk_001_002",
+      "observation_type": "recommendation",
+      "category": "Roofing",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Ridge flashing is heavily corroded and needs to be replaced.",
+      "recommendation": "Replace ridge flashing in the immediate term.",
+      "source_page": 10
+    },
+    {
+      "observation_id": "sample_report_3_page_011_chunk_001_001",
+      "observation_type": "finding",
+      "category": "Roofing",
+      "severity": "high",
+      "location": "GRP plastic rooflights on the roof",
+      "description": "Heavily soiled and showing signs of solar degradation",
+      "recommendation": "Replacement in the short to medium term",
+      "source_page": 11
+    },
+    {
+      "observation_id": "sample_report_3_page_011_chunk_001_002",
+      "observation_type": "finding",
+      "category": "Gutters",
+      "severity": "high",
+      "location": "Preformed metal valley gutter and eaves gutter",
+      "description": "Heavily soiled and blocked",
+      "recommendation": "Clearing in the immediate term and relining in the short term",
+      "source_page": 11
+    },
+    {
+      "observation_id": "sample_report_3_page_012_chunk_001_001",
+      "observation_type": "finding",
+      "category": "plastic downpipes",
+      "severity": "high",
+      "location": "rear of the unit",
+      "description": "The bottom section of the downpipe is missing.",
+      "recommendation": "Replace the missing section of downpipe and connect it directly into the below ground drainage.",
+      "source_page": 12
+    },
+    {
+      "observation_id": "sample_report_3_page_012_chunk_001_002",
+      "observation_type": "finding",
+      "category": "plastic downpipes",
+      "severity": "high",
+      "location": "rear of the unit",
+      "description": "Leaking joints are evident in the downpipe.",
+      "recommendation": "Re-seal joints where necessary to the downpipe.",
+      "source_page": 12
+    },
+    {
+      "observation_id": "sample_report_3_page_012_chunk_001_003",
+      "observation_type": "risk",
+      "category": "brickwork",
+      "severity": "high",
+      "location": "left hand side of the front elevation",
+      "description": "Areas of deteriorated mortar pointing are evident.",
+      "recommendation": "Repoint these areas in the immediate term.",
+      "source_page": 12
+    },
+    {
+      "observation_id": "sample_report_3_page_012_chunk_001_004",
+      "observation_type": "risk",
+      "category": "brickwork",
+      "severity": "high",
+      "location": "right hand side of the front elevation",
+      "description": "Areas of deteriorated mortar pointing are evident.",
+      "recommendation": "Repoint these areas in the immediate term.",
+      "source_page": 12
+    },
+    {
+      "observation_id": "sample_report_3_page_012_chunk_001_005",
+      "observation_type": "risk",
+      "category": "brickwork",
+      "severity": "high",
+      "location": "left hand side of the front elevation",
+      "description": "Deteriorated mortar pointing provides a potential for moisture ingress into the property.",
+      "recommendation": "Repoint these areas in the immediate term.",
+      "source_page": 12
+    },
+    {
+      "observation_id": "sample_report_3_page_012_chunk_001_006",
+      "observation_type": "risk",
+      "category": "brickwork",
+      "severity": "high",
+      "location": "right hand side of the front elevation",
+      "description": "Deteriorated mortar pointing provides a potential for moisture ingress into the property.",
+      "recommendation": "Repoint these areas in the immediate term.",
+      "source_page": 12
+    },
+    {
+      "observation_id": "sample_report_3_page_012_chunk_001_007",
+      "observation_type": "recommendation",
+      "category": "plastic downpipes",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "We recommend works are undertaken in the immediate term to reseal joints where necessary to the downpipe.",
+      "recommendation": null,
+      "source_page": 12
+    },
+    {
+      "observation_id": "sample_report_3_page_012_chunk_001_008",
+      "observation_type": "recommendation",
+      "category": "plastic downpipes",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "We recommend works are undertaken in the immediate term to replace the missing section of downpipe and connect this directly into the below ground drainage.",
+      "recommendation": null,
+      "source_page": 12
+    },
+    {
+      "observation_id": "sample_report_3_page_012_chunk_001_009",
+      "observation_type": "recommendation",
+      "category": "brickwork",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "We recommend these areas are repointed in the immediate term.",
+      "recommendation": null,
+      "source_page": 12
+    },
+    {
+      "observation_id": "sample_report_3_page_013_chunk_001_001",
+      "observation_type": "finding",
+      "category": "Structural",
+      "severity": "medium",
+      "location": "high level to the right hand side of the elevation",
+      "description": "Area of very slight stepped cracking in mortar joint of brickwork",
+      "recommendation": "Repair and repoint in the immediate term and then visually monitor",
+      "source_page": 13
+    },
+    {
+      "observation_id": "sample_report_3_page_013_chunk_001_002",
+      "observation_type": "risk",
+      "category": "Structural",
+      "severity": "medium",
+      "location": "high level to the right hand side of the elevation",
+      "description": "Degree of slight structural movement has occurred at this location",
+      "recommendation": null,
+      "source_page": 13
+    },
+    {
+      "observation_id": "sample_report_3_page_013_chunk_001_003",
+      "observation_type": "recommendation",
+      "category": "Boundary",
+      "severity": "unknown",
+      "location": "front elevation",
+      "description": "Enquiries should be made with solicitors to confirm location, maintenance responsibility and liability regarding all boundaries",
+      "recommendation": "Make enquiries with solicitors",
+      "source_page": 13
+    },
+    {
+      "observation_id": "sample_report_3_page_014_chunk_001_001",
+      "observation_type": "recommendation",
+      "category": "masonry",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "mortar pointing has deteriorated",
+      "recommendation": "repoint these areas in the immediate term",
+      "source_page": 14
+    },
+    {
+      "observation_id": "sample_report_3_page_014_chunk_001_002",
+      "observation_type": "finding",
+      "category": "cladding",
+      "severity": "medium",
+      "location": "right hand elevation",
+      "description": "painted coatings are deteriorating throughout",
+      "recommendation": null,
+      "source_page": 14
+    },
+    {
+      "observation_id": "sample_report_3_page_014_chunk_001_003",
+      "observation_type": "finding",
+      "category": "cladding",
+      "severity": "medium",
+      "location": "right hand elevation",
+      "description": "areas of minor impact damage also noted",
+      "recommendation": null,
+      "source_page": 14
+    },
+    {
+      "observation_id": "sample_report_3_page_015_chunk_001_001",
+      "observation_type": "recommendation",
+      "category": "cladding",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "cladding redecoration is recommended in the short term",
+      "recommendation": "redecorate the cladding",
+      "source_page": 15
+    },
+    {
+      "observation_id": "sample_report_3_page_015_chunk_001_002",
+      "observation_type": "recommendation",
+      "category": "cladding",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "damaged cladding sheets should be replaced in the short term",
+      "recommendation": "replace damaged cladding sheets",
+      "source_page": 15
+    },
+    {
+      "observation_id": "sample_report_3_page_015_chunk_001_003",
+      "observation_type": "recommendation",
+      "category": "cladding",
+      "severity": "unknown",
+      "location": "rear elevation",
+      "description": "timber boarding should be removed and underlying cladding replaced",
+      "recommendation": "remove timber boarding and replace underlying cladding",
+      "source_page": 15
+    },
+    {
+      "observation_id": "sample_report_3_page_016_chunk_001_001",
+      "observation_type": "finding",
+      "category": "cladding",
+      "severity": "high",
+      "location": "base of the cladding",
+      "description": "Corrosion is evident to the metal drip flashing",
+      "recommendation": "repair the trim including replacement of severely corroded sections",
+      "source_page": 16
+    },
+    {
+      "observation_id": "sample_report_3_page_016_chunk_001_002",
+      "observation_type": "finding",
+      "category": "fire exit doors",
+      "severity": "high",
+      "location": "fire exit doors",
+      "description": "The preformed metal surrounds are damaged",
+      "recommendation": "replacement in the immediate term",
+      "source_page": 16
+    },
+    {
+      "observation_id": "sample_report_3_page_017_chunk_001_001",
+      "observation_type": "recommendation",
+      "category": "cladding",
+      "severity": "low",
+      "location": "rear of the roller shutter door",
+      "description": "The preformed metal closure flashing is poorly fitted and sealed with expanding foam.",
+      "recommendation": "Replace the flashing.",
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_3_page_017_chunk_001_002",
+      "observation_type": "recommendation",
+      "category": "doors",
+      "severity": "low",
+      "location": "elevation",
+      "description": "The metal roller shutter door is in satisfactory condition.",
+      "recommendation": null,
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_3_page_017_chunk_001_003",
+      "observation_type": "recommendation",
+      "category": "doors",
+      "severity": "low",
+      "location": "elevation",
+      "description": "The solid timber and metal fire exit doors are in satisfactory condition but would benefit from redecoration.",
+      "recommendation": "Redecorate the doors.",
+      "source_page": 17
+    },
+    {
+      "observation_id": "sample_report_3_page_018_chunk_001_001",
+      "observation_type": "compliance",
+      "category": "Structural",
+      "severity": "unknown",
+      "location": "Rear Elevation",
+      "description": "In situ concrete appears to be in satisfactory condition",
+      "recommendation": null,
+      "source_page": 18
+    },
+    {
+      "observation_id": "sample_report_3_page_018_chunk_001_002",
+      "observation_type": "risk",
+      "category": "Structural",
+      "severity": "unknown",
+      "location": "Rear Elevation",
+      "description": "Limited view of the rear elevation due to vegetation growth and waste",
+      "recommendation": null,
+      "source_page": 18
+    },
+    {
+      "observation_id": "sample_report_3_page_019_chunk_001_001",
+      "observation_type": "finding",
+      "category": "cladding",
+      "severity": "medium",
+      "location": "rear elevation",
+      "description": "painted coatings are deteriorating",
+      "recommendation": "redecorate the cladding",
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_3_page_019_chunk_001_002",
+      "observation_type": "finding",
+      "category": "cladding",
+      "severity": "low",
+      "location": "rear elevation",
+      "description": "minor impact damage is present",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_3_page_019_chunk_001_003",
+      "observation_type": "recommendation",
+      "category": "cladding",
+      "severity": "unknown",
+      "location": "rear elevation",
+      "description": "cladding is redecorated in the short term",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_3_page_019_chunk_001_004",
+      "observation_type": "finding",
+      "category": "cladding",
+      "severity": "low",
+      "location": "rear elevation",
+      "description": "GRP clad sections are in satisfactory condition",
+      "recommendation": null,
+      "source_page": 19
+    },
+    {
+      "observation_id": "sample_report_3_page_020_chunk_001_001",
+      "observation_type": "recommendation",
+      "category": "cladding",
+      "severity": "low",
+      "location": "bottom edge of the cladding and the below timber batten",
+      "description": "expandable foam has been utilised at the junction",
+      "recommendation": "remake with a suitable termination flashing",
+      "source_page": 20
+    },
+    {
+      "observation_id": "sample_report_3_page_020_chunk_001_002",
+      "observation_type": "compliance",
+      "category": "doors",
+      "severity": "unknown",
+      "location": "rear elevation",
+      "description": "solid timber external door generally appears to be in satisfactory condition",
+      "recommendation": null,
+      "source_page": 20
+    },
+    {
+      "observation_id": "sample_report_3_page_021_chunk_001_001",
+      "observation_type": "recommendation",
+      "category": "Building Regulations and Planning Consents",
+      "severity": "unknown",
+      "location": "rear of the property",
+      "description": "Enquiries should be made with solicitors to confirm relevant Building Regulations and Planning Consents are in place",
+      "recommendation": "Enquire with solicitors",
+      "source_page": 21
+    },
+    {
+      "observation_id": "sample_report_3_page_021_chunk_001_002",
+      "observation_type": "finding",
+      "category": "roller shutter door condition",
+      "severity": "low",
+      "location": "elevation",
+      "description": "Minor impact damage present to preformed metal flashings to the perimeter of the roller shutter doors",
+      "recommendation": null,
+      "source_page": 21
+    },
+    {
+      "observation_id": "sample_report_3_page_022_chunk_001_001",
+      "observation_type": "compliance",
+      "category": "Roofing",
+      "severity": "unknown",
+      "location": "extension",
+      "description": "The underside of the composite roof panels generally appeared to be in satisfactory condition.",
+      "recommendation": null,
+      "source_page": 22
+    },
+    {
+      "observation_id": "sample_report_3_page_022_chunk_001_002",
+      "observation_type": "compliance",
+      "category": "Cladding",
+      "severity": "unknown",
+      "location": "walls",
+      "description": "The internal face of the profile metal cladding generally appears to be in satisfactory condition.",
+      "recommendation": null,
+      "source_page": 22
+    },
+    {
+      "observation_id": "sample_report_3_page_022_chunk_001_003",
+      "observation_type": "recommendation",
+      "category": "Cladding",
+      "severity": "low",
+      "location": "rear of the extension",
+      "description": "Areas of impact damage to the cladding would benefit from replacement.",
+      "recommendation": "replacement",
+      "source_page": 22
+    },
+    {
+      "observation_id": "sample_report_3_page_022_chunk_001_004",
+      "observation_type": "compliance",
+      "category": "Blockwork",
+      "severity": "unknown",
+      "location": "walls",
+      "description": "The painted blockwork generally appears to be in satisfactory condition.",
+      "recommendation": null,
+      "source_page": 22
+    },
+    {
+      "observation_id": "sample_report_3_page_022_chunk_001_005",
+      "observation_type": "compliance",
+      "category": "Structural",
+      "severity": "unknown",
+      "location": "extension",
+      "description": "The steel portal framed structure generally appears to be in satisfactory condition.",
+      "recommendation": null,
+      "source_page": 22
+    },
+    {
+      "observation_id": "sample_report_3_page_023_chunk_001_001",
+      "observation_type": "finding",
+      "category": "flat roof condition",
+      "severity": "high",
+      "location": "front of Unit 4",
+      "description": "Poor condition with areas of blistering, poorly formed patch repairs, and deteriorated junctions.",
+      "recommendation": null,
+      "source_page": 23
+    },
+    {
+      "observation_id": "sample_report_3_page_023_chunk_001_002",
+      "observation_type": "risk",
+      "category": "water ingress",
+      "severity": "high",
+      "location": "second floor office areas (right hand office, store room, and bathroom)",
+      "description": "Evidence of water ingress.",
+      "recommendation": "Re-cover the flat roof in the immediate term.",
+      "source_page": 23
+    },
+    {
+      "observation_id": "sample_report_3_page_024_chunk_001_001",
+      "observation_type": "risk",
+      "category": "Asbestos",
+      "severity": "high",
+      "location": "main pitched roof",
+      "description": "Asbestos is hazardous to health and specialist advice should be obtained before any works are undertaken to this material.",
+      "recommendation": "Obtain specialist advice before undertaking any works",
+      "source_page": 24
+    },
+    {
+      "observation_id": "sample_report_3_page_024_chunk_001_002",
+      "observation_type": "recommendation",
+      "category": "Asbestos",
+      "severity": "high",
+      "location": "main pitched roof",
+      "description": "This type of material will only release asbestos fibres, if present, if it is drilled, sanded or damaged.",
+      "recommendation": "Avoid drilling, sanding or damaging the material",
+      "source_page": 24
+    },
+    {
+      "observation_id": "sample_report_3_page_024_chunk_001_003",
+      "observation_type": "recommendation",
+      "category": "Asbestos",
+      "severity": "high",
+      "location": "main pitched roof",
+      "description": "The presence of asbestos can only be confirmed by specific testing which is outside the scope of this report.",
+      "recommendation": "Specific testing is required to confirm the presence of asbestos",
+      "source_page": 24
+    },
+    {
+      "observation_id": "sample_report_3_page_025_chunk_001_001",
+      "observation_type": "finding",
+      "category": "Roof Condition",
+      "severity": "high",
+      "location": "GRP rooflights",
+      "description": "Heavily soiled and showing signs of solar degradation",
+      "recommendation": "Replacement in the short term",
+      "source_page": 25
+    },
+    {
+      "observation_id": "sample_report_3_page_025_chunk_001_002",
+      "observation_type": "risk",
+      "category": "Gutter Condition",
+      "severity": "high",
+      "location": "Eaves gutters",
+      "description": "Poorly maintained, heavily soiled and blocked throughout their length",
+      "recommendation": "General repairs and maintenance, clearing of gutters, removal of vegetation growth and resealing of defective joints",
+      "source_page": 25
+    },
+    {
+      "observation_id": "sample_report_3_page_025_chunk_001_003",
+      "observation_type": "recommendation",
+      "category": "Gutter Maintenance",
+      "severity": "unknown",
+      "location": "Eaves gutters",
+      "description": "Lining with a suitable proprietary lining system",
+      "recommendation": "Lining with a suitable proprietary lining system",
+      "source_page": 25
+    },
+    {
+      "observation_id": "sample_report_3_page_026_chunk_001_001",
+      "observation_type": "finding",
+      "category": "plastic downpipes",
+      "severity": "high",
+      "location": "eaves gutters",
+      "description": "leaking joints present",
+      "recommendation": "reseal defective joints to the downpipe",
+      "source_page": 26
+    },
+    {
+      "observation_id": "sample_report_3_page_026_chunk_001_002",
+      "observation_type": "risk",
+      "category": "downpipe connections",
+      "severity": "high",
+      "location": "ground level",
+      "description": "junctions are deteriorated and damaged",
+      "recommendation": "repair",
+      "source_page": 26
+    },
+    {
+      "observation_id": "sample_report_3_page_027_chunk_001_001",
+      "observation_type": "finding",
+      "category": "brickwork",
+      "severity": "high",
+      "location": "front elevation of Unit 4",
+      "description": "areas of deteriorated mortar pointing and spalled and defective bricks",
+      "recommendation": null,
+      "source_page": 27
+    },
+    {
+      "observation_id": "sample_report_3_page_027_chunk_001_002",
+      "observation_type": "risk",
+      "category": "brickwork",
+      "severity": "high",
+      "location": "front elevation of Unit 4",
+      "description": "potential for moisture ingress into the property",
+      "recommendation": "repoint areas of deteriorated mortar pointing and cut out and replace spalled and defective brickwork",
+      "source_page": 27
+    },
+    {
+      "observation_id": "sample_report_3_page_027_chunk_001_003",
+      "observation_type": "recommendation",
+      "category": "brickwork",
+      "severity": "unknown",
+      "location": "front elevation of Unit 4",
+      "description": "repoint areas of deteriorated mortar pointing and cut out and replace spalled and defective brickwork",
+      "recommendation": null,
+      "source_page": 27
+    },
+    {
+      "observation_id": "sample_report_3_page_028_chunk_001_001",
+      "observation_type": "finding",
+      "category": "Structural",
+      "severity": "high",
+      "location": "Above second first floor window from left hand side of elevation",
+      "description": "Very slight to slight cracking evident to the brickwork",
+      "recommendation": "Repair and repoint in the immediate term",
+      "source_page": 28
+    },
+    {
+      "observation_id": "sample_report_3_page_028_chunk_001_002",
+      "observation_type": "finding",
+      "category": "Structural",
+      "severity": "high",
+      "location": "Above ground floor right hand window",
+      "description": "Very slight cracking evident to the brickwork",
+      "recommendation": "Repair and repoint in the immediate term",
+      "source_page": 28
+    },
+    {
+      "observation_id": "sample_report_3_page_028_chunk_001_003",
+      "observation_type": "finding",
+      "category": "Structural",
+      "severity": "high",
+      "location": "Above first floor right hand window",
+      "description": "Very slight cracking evident to the brickwork",
+      "recommendation": "Repair and repoint in the immediate term",
+      "source_page": 28
+    },
+    {
+      "observation_id": "sample_report_3_page_028_chunk_001_004",
+      "observation_type": "finding",
+      "category": "Structural",
+      "severity": "high",
+      "location": "Above main entrance door",
+      "description": "Very slight cracking evident to the brickwork",
+      "recommendation": "Repair and repoint in the immediate term",
+      "source_page": 28
+    },
+    {
+      "observation_id": "sample_report_3_page_028_chunk_001_005",
+      "observation_type": "risk",
+      "category": "Structural",
+      "severity": "high",
+      "location": "Above openings",
+      "description": "Insufficient or deterioration of lintel support",
+      "recommendation": "Further investigation works to confirm suitable lintels are present",
+      "source_page": 28
+    },
+    {
+      "observation_id": "sample_report_3_page_028_chunk_001_006",
+      "observation_type": "recommendation",
+      "category": "Structural",
+      "severity": "low",
+      "location": "Unknown",
+      "description": "Visually monitor areas repaired and repointed",
+      "recommendation": null,
+      "source_page": 28
+    },
+    {
+      "observation_id": "sample_report_3_page_029_chunk_001_001",
+      "observation_type": "finding",
+      "category": "windows",
+      "severity": "high",
+      "location": "building",
+      "description": "failed double glazed units with condensation present",
+      "recommendation": "replace failed double glazed units",
+      "source_page": 29
+    },
+    {
+      "observation_id": "sample_report_3_page_029_chunk_001_002",
+      "observation_type": "finding",
+      "category": "windows",
+      "severity": "high",
+      "location": "building",
+      "description": "timber decay evident to the frame",
+      "recommendation": "replace timber framed windows",
+      "source_page": 29
+    },
+    {
+      "observation_id": "sample_report_3_page_029_chunk_001_003",
+      "observation_type": "risk",
+      "category": "windows",
+      "severity": "high",
+      "location": "building",
+      "description": "decorative paint finishes deteriorated",
+      "recommendation": null,
+      "source_page": 29
+    },
+    {
+      "observation_id": "sample_report_3_page_030_chunk_001_001",
+      "observation_type": "recommendation",
+      "category": "doors and screen",
+      "severity": "unknown",
+      "location": "property",
+      "description": "general repairs and redecoration are required to the doors and screen",
+      "recommendation": "general repairs and redecoration",
+      "source_page": 30
+    },
+    {
+      "observation_id": "sample_report_3_page_030_chunk_001_002",
+      "observation_type": "recommendation",
+      "category": "doors and screen",
+      "severity": "unknown",
+      "location": "property",
+      "description": "glazing to the doors and screen should be tested to confirm it is safety glass",
+      "recommendation": "test glazing",
+      "source_page": 30
+    },
+    {
+      "observation_id": "sample_report_3_page_030_chunk_001_003",
+      "observation_type": "recommendation",
+      "category": "security shutter",
+      "severity": "unknown",
+      "location": "property",
+      "description": "the metal security shutter should be checked to confirm it operates correctly",
+      "recommendation": "check security shutter operation",
+      "source_page": 30
+    },
+    {
+      "observation_id": "sample_report_3_page_031_chunk_001_001",
+      "observation_type": "finding",
+      "category": "brickwork",
+      "severity": "low",
+      "location": "Right Hand Elevation",
+      "description": "Areas of very slight to slight cracking are evident throughout its length.",
+      "recommendation": null,
+      "source_page": 31
+    },
+    {
+      "observation_id": "sample_report_3_page_032_chunk_001_001",
+      "observation_type": "finding",
+      "category": "Structural",
+      "severity": "high",
+      "location": "elevation",
+      "description": "cracking present, suggesting structural movement",
+      "recommendation": "repair and repoint areas",
+      "source_page": 32
+    },
+    {
+      "observation_id": "sample_report_3_page_032_chunk_001_002",
+      "observation_type": "risk",
+      "category": "Structural",
+      "severity": "high",
+      "location": "below ground drainage",
+      "description": "defects to below ground drainage may cause structural movement",
+      "recommendation": "CCTV survey and repairs",
+      "source_page": 32
+    },
+    {
+      "observation_id": "sample_report_3_page_032_chunk_001_003",
+      "observation_type": "recommendation",
+      "category": "Structural",
+      "severity": "medium",
+      "location": "brickwork elevation",
+      "description": "install expansion joints to address thermal expansion",
+      "recommendation": "install expansion joints at 10-12m intervals",
+      "source_page": 32
+    },
+    {
+      "observation_id": "sample_report_3_page_033_chunk_001_001",
+      "observation_type": "finding",
+      "category": "brickwork",
+      "severity": "high",
+      "location": "front of the roller shutter door to the rear of the elevation",
+      "description": "damaged brickwork",
+      "recommendation": "repair with defective bricks cut out and replaced",
+      "source_page": 33
+    },
+    {
+      "observation_id": "sample_report_3_page_033_chunk_001_002",
+      "observation_type": "finding",
+      "category": "corrugated sheet cladding",
+      "severity": "low",
+      "location": "right hand elevation",
+      "description": "minor damage",
+      "recommendation": null,
+      "source_page": 33
+    },
+    {
+      "observation_id": "sample_report_3_page_034_chunk_001_001",
+      "observation_type": "risk",
+      "category": "Asbestos",
+      "severity": "high",
+      "location": "cladding",
+      "description": "The cladding is likely to be an asbestos containing material.",
+      "recommendation": null,
+      "source_page": 34
+    },
+    {
+      "observation_id": "sample_report_3_page_034_chunk_001_002",
+      "observation_type": "finding",
+      "category": "Corrosion",
+      "severity": "medium",
+      "location": "metal external doors",
+      "description": "Decorative paint finishes are deteriorated with corrosion also present to the surface.",
+      "recommendation": "General repairs and redecoration are recommended.",
+      "source_page": 34
+    },
+    {
+      "observation_id": "sample_report_3_page_034_chunk_001_003",
+      "observation_type": "finding",
+      "category": "Condition",
+      "severity": "low",
+      "location": "metal roller shutter door",
+      "description": "The metal roller shutter door generally appears to be in satisfactory condition.",
+      "recommendation": null,
+      "source_page": 34
+    },
+    {
+      "observation_id": "sample_report_3_page_035_chunk_001_001",
+      "observation_type": "finding",
+      "category": "Structural",
+      "severity": "high",
+      "location": "Left Hand Elevation",
+      "description": "Poorly maintained metal fire escape staircase with deteriorated paint finish and corrosion evident throughout.",
+      "recommendation": "General repairs and redecoration, with replacement of severely corroded sections.",
+      "source_page": 35
+    },
+    {
+      "observation_id": "sample_report_3_page_036_chunk_001_001",
+      "observation_type": "finding",
+      "category": "brickwork",
+      "severity": "medium",
+      "location": "left hand elevation",
+      "description": "areas of deteriorated mortar pointing",
+      "recommendation": "repoint in the immediate term",
+      "source_page": 36
+    },
+    {
+      "observation_id": "sample_report_3_page_036_chunk_001_002",
+      "observation_type": "finding",
+      "category": "brickwork",
+      "severity": "medium",
+      "location": "left hand elevation",
+      "description": "areas of very slight cracking",
+      "recommendation": null,
+      "source_page": 36
+    },
+    {
+      "observation_id": "sample_report_3_page_036_chunk_001_003",
+      "observation_type": "recommendation",
+      "category": "brickwork",
+      "severity": "unknown",
+      "location": "left hand elevation",
+      "description": "repoint areas of deteriorated mortar pointing in the immediate term",
+      "recommendation": null,
+      "source_page": 36
+    },
+    {
+      "observation_id": "sample_report_3_page_037_chunk_001_001",
+      "observation_type": "finding",
+      "category": "Structural",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Structural movement has been experienced, possibly due to defects in below ground drainage.",
+      "recommendation": "CCTV survey",
+      "source_page": 37
+    },
+    {
+      "observation_id": "sample_report_3_page_037_chunk_001_002",
+      "observation_type": "risk",
+      "category": "Structural",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Structural movement may continue due to defects in below ground drainage.",
+      "recommendation": null,
+      "source_page": 37
+    },
+    {
+      "observation_id": "sample_report_3_page_037_chunk_001_003",
+      "observation_type": "recommendation",
+      "category": "Structural",
+      "severity": "low",
+      "location": "Unknown",
+      "description": "Repair and repoint areas of cracking to the brickwork.",
+      "recommendation": null,
+      "source_page": 37
+    },
+    {
+      "observation_id": "sample_report_3_page_037_chunk_001_004",
+      "observation_type": "recommendation",
+      "category": "Structural",
+      "severity": "low",
+      "location": "Unknown",
+      "description": "Visually monitor areas of cracking to the brickwork.",
+      "recommendation": null,
+      "source_page": 37
+    },
+    {
+      "observation_id": "sample_report_3_page_037_chunk_001_005",
+      "observation_type": "recommendation",
+      "category": "Structural",
+      "severity": "low",
+      "location": "Right hand elevation",
+      "description": "Install expansion joints to the brickwork at 10 to 12 m intervals.",
+      "recommendation": null,
+      "source_page": 37
+    },
+    {
+      "observation_id": "sample_report_3_page_037_chunk_001_006",
+      "observation_type": "finding",
+      "category": "Structural",
+      "severity": "low",
+      "location": "Single storey extension between Unit 3 and 4",
+      "description": "The brickwork appears to be in satisfactory condition.",
+      "recommendation": null,
+      "source_page": 37
+    },
+    {
+      "observation_id": "sample_report_3_page_038_chunk_001_001",
+      "observation_type": "finding",
+      "category": "cladding",
+      "severity": "medium",
+      "location": "left hand elevation",
+      "description": "minor damage to corrugated sheet cladding",
+      "recommendation": "repair in the short term",
+      "source_page": 38
+    },
+    {
+      "observation_id": "sample_report_3_page_038_chunk_001_002",
+      "observation_type": "risk",
+      "category": "asbestos",
+      "severity": "unknown",
+      "location": "left hand elevation",
+      "description": "asbestos containing material used in cladding",
+      "recommendation": null,
+      "source_page": 38
+    },
+    {
+      "observation_id": "sample_report_3_page_038_chunk_001_003",
+      "observation_type": "finding",
+      "category": "cladding",
+      "severity": "high",
+      "location": "left hand elevation",
+      "description": "damaged sheet cladding present after redundant flue penetration removal",
+      "recommendation": "replacement",
+      "source_page": 38
+    },
+    {
+      "observation_id": "sample_report_3_page_039_chunk_001_001",
+      "observation_type": "finding",
+      "category": "Roofing",
+      "severity": "high",
+      "location": "Rear of the elevation",
+      "description": "Translucent roof sheets are damaged",
+      "recommendation": "Replace the damaged section in the immediate term",
+      "source_page": 39
+    },
+    {
+      "observation_id": "sample_report_3_page_039_chunk_001_002",
+      "observation_type": "risk",
+      "category": "Roofing",
+      "severity": "high",
+      "location": "Single storey extension between Unit 3 and 4",
+      "description": "Flat roof is deteriorating",
+      "recommendation": "Re-cover the roof in the short term",
+      "source_page": 39
+    },
+    {
+      "observation_id": "sample_report_3_page_039_chunk_001_003",
+      "observation_type": "recommendation",
+      "category": "Timber",
+      "severity": "medium",
+      "location": "Timber fascias",
+      "description": "Timber fascias are deteriorated",
+      "recommendation": "Replace the timber fascias",
+      "source_page": 39
+    },
+    {
+      "observation_id": "sample_report_3_page_040_chunk_001_001",
+      "observation_type": "finding",
+      "category": "brickwork",
+      "severity": "high",
+      "location": "rear elevation",
+      "description": "spalled and defective bricks are evident",
+      "recommendation": "cutting out and replacement",
+      "source_page": 40
+    },
+    {
+      "observation_id": "sample_report_3_page_040_chunk_001_002",
+      "observation_type": "finding",
+      "category": "corrugated sheet cladding",
+      "severity": "high",
+      "location": "rear elevation",
+      "description": "areas of damage are present",
+      "recommendation": null,
+      "source_page": 40
+    },
+    {
+      "observation_id": "sample_report_3_page_041_chunk_001_001",
+      "observation_type": "recommendation",
+      "category": "boundary maintenance",
+      "severity": "unknown",
+      "location": "property boundaries",
+      "description": "Enquiries should be made with solicitor to confirm location, maintenance responsibility and liability for all boundaries.",
+      "recommendation": "Enquiries with solicitor",
+      "source_page": 41
+    },
+    {
+      "observation_id": "sample_report_3_page_041_chunk_001_002",
+      "observation_type": "risk",
+      "category": "asbestos",
+      "severity": "high",
+      "location": "damaged cladding",
+      "description": "Damaged cladding is of an asbestos containing material.",
+      "recommendation": null,
+      "source_page": 41
+    },
+    {
+      "observation_id": "sample_report_3_page_041_chunk_001_003",
+      "observation_type": "recommendation",
+      "category": "cladding replacement",
+      "severity": "medium",
+      "location": "damaged cladding",
+      "description": "Damaged cladding areas would benefit from replacement.",
+      "recommendation": "Replacement of damaged cladding",
+      "source_page": 41
+    },
+    {
+      "observation_id": "sample_report_3_page_042_chunk_001_001",
+      "observation_type": "compliance",
+      "category": "Structural",
+      "severity": "unknown",
+      "location": "Warehouse Area",
+      "description": "Steel portal framed structure generally appears to be in satisfactory condition",
+      "recommendation": "null",
+      "source_page": 42
+    },
+    {
+      "observation_id": "sample_report_3_page_042_chunk_001_002",
+      "observation_type": "compliance",
+      "category": "Roofing",
+      "severity": "unknown",
+      "location": "Warehouse Area",
+      "description": "Underside of the composite roof covering generally appears to be in satisfactory condition",
+      "recommendation": "null",
+      "source_page": 42
+    },
+    {
+      "observation_id": "sample_report_3_page_043_chunk_001_001",
+      "observation_type": "finding",
+      "category": "cladding",
+      "severity": "low",
+      "location": "walls",
+      "description": "Internal face of external cladding in satisfactory condition",
+      "recommendation": null,
+      "source_page": 43
+    },
+    {
+      "observation_id": "sample_report_3_page_043_chunk_001_002",
+      "observation_type": "finding",
+      "category": "cladding",
+      "severity": "low",
+      "location": "right hand elevation",
+      "description": "Staining on cladding due to leaks from rainwater goods",
+      "recommendation": null,
+      "source_page": 43
+    },
+    {
+      "observation_id": "sample_report_3_page_043_chunk_001_003",
+      "observation_type": "risk",
+      "category": "rainwater goods",
+      "severity": "medium",
+      "location": "Unknown",
+      "description": "Leaks from rainwater goods causing staining on cladding",
+      "recommendation": null,
+      "source_page": 43
+    },
+    {
+      "observation_id": "sample_report_3_page_044_chunk_001_001",
+      "observation_type": "finding",
+      "category": "masonry",
+      "severity": "low",
+      "location": "internal face of external walls",
+      "description": "painted blockwork generally appears to be in satisfactory condition",
+      "recommendation": null,
+      "source_page": 44
+    },
+    {
+      "observation_id": "sample_report_3_page_044_chunk_001_002",
+      "observation_type": "finding",
+      "category": "masonry",
+      "severity": "medium",
+      "location": "internal face of front elevation",
+      "description": "areas of soiling and staining, deteriorated mortar pointing and very slight cracking",
+      "recommendation": null,
+      "source_page": 44
+    },
+    {
+      "observation_id": "sample_report_3_page_045_chunk_001_001",
+      "observation_type": "finding",
+      "category": "structural",
+      "severity": "medium",
+      "location": "brickwork locations",
+      "description": "slight structural movement has occurred",
+      "recommendation": "repair and repoint in the immediate term",
+      "source_page": 45
+    },
+    {
+      "observation_id": "sample_report_3_page_045_chunk_001_002",
+      "observation_type": "risk",
+      "category": "structural",
+      "severity": "medium",
+      "location": "brickwork locations",
+      "description": "movement may be ongoing",
+      "recommendation": null,
+      "source_page": 45
+    },
+    {
+      "observation_id": "sample_report_3_page_045_chunk_001_003",
+      "observation_type": "recommendation",
+      "category": "maintenance",
+      "severity": "low",
+      "location": "brickwork locations",
+      "description": "repoint areas of deteriorated mortar pointing and redecoration",
+      "recommendation": null,
+      "source_page": 45
+    },
+    {
+      "observation_id": "sample_report_3_page_045_chunk_001_004",
+      "observation_type": "finding",
+      "category": "condition",
+      "severity": "low",
+      "location": "warehouse painted concrete floor",
+      "description": "painted finishes are generally deteriorated",
+      "recommendation": null,
+      "source_page": 45
+    },
+    {
+      "observation_id": "sample_report_3_page_045_chunk_001_005",
+      "observation_type": "finding",
+      "category": "condition",
+      "severity": "low",
+      "location": "warehouse painted concrete floor",
+      "description": "areas of cracking are evident",
+      "recommendation": null,
+      "source_page": 45
+    },
+    {
+      "observation_id": "sample_report_3_page_046_chunk_001_001",
+      "observation_type": "recommendation",
+      "category": "floor maintenance",
+      "severity": "medium",
+      "location": "building",
+      "description": "floor would benefit from repair to areas of cracking and redecoration in the short term",
+      "recommendation": "repair and redecoration",
+      "source_page": 46
+    },
+    {
+      "observation_id": "sample_report_3_page_046_chunk_001_002",
+      "observation_type": "recommendation",
+      "category": "floor maintenance",
+      "severity": "medium",
+      "location": "warehouse",
+      "description": "repairs and making good will be required to the floor where fixing bolts have been installed",
+      "recommendation": "repair and making good",
+      "source_page": 46
+    },
+    {
+      "observation_id": "sample_report_3_page_047_chunk_001_001",
+      "observation_type": "finding",
+      "category": "condition",
+      "severity": "high",
+      "location": "WC/kitchen block",
+      "description": "The WC/kitchen block is generally tired and worn throughout.",
+      "recommendation": "Refurbishment and redecoration",
+      "source_page": 47
+    },
+    {
+      "observation_id": "sample_report_3_page_047_chunk_001_002",
+      "observation_type": "finding",
+      "category": "condition",
+      "severity": "high",
+      "location": "WC/kitchen block",
+      "description": "The floor covering needs to be replaced.",
+      "recommendation": "Replacement of the floor covering",
+      "source_page": 47
+    },
+    {
+      "observation_id": "sample_report_3_page_048_chunk_001_001",
+      "observation_type": "recommendation",
+      "category": "refurbishment",
+      "severity": "unknown",
+      "location": "office areas",
+      "description": "general refurbishment is required",
+      "recommendation": "general refurbishment",
+      "source_page": 48
+    },
+    {
+      "observation_id": "sample_report_3_page_048_chunk_001_002",
+      "observation_type": "recommendation",
+      "category": "refurbishment",
+      "severity": "unknown",
+      "location": "office areas",
+      "description": " redecoration is required",
+      "recommendation": " redecoration",
+      "source_page": 48
+    },
+    {
+      "observation_id": "sample_report_3_page_048_chunk_001_003",
+      "observation_type": "recommendation",
+      "category": "refurbishment",
+      "severity": "unknown",
+      "location": "office areas",
+      "description": "replacement of the floor covering is required",
+      "recommendation": "replacement of the floor covering",
+      "source_page": 48
+    },
+    {
+      "observation_id": "sample_report_3_page_049_chunk_001_001",
+      "observation_type": "finding",
+      "category": "Decorative Finishes",
+      "severity": "high",
+      "location": "Second floor office areas",
+      "description": "Water ingress on the above flat roof within the right hand office",
+      "recommendation": "Repair and redecoration of the ceiling",
+      "source_page": 49
+    },
+    {
+      "observation_id": "sample_report_3_page_049_chunk_001_002",
+      "observation_type": "finding",
+      "category": "Flooring",
+      "severity": "high",
+      "location": "Second floor office areas",
+      "description": "Replacement of floor coverings is required",
+      "recommendation": "Replace floor coverings",
+      "source_page": 49
+    },
+    {
+      "observation_id": "sample_report_3_page_049_chunk_001_003",
+      "observation_type": "risk",
+      "category": "Structural",
+      "severity": "high",
+      "location": "Flat roof",
+      "description": "Evidence of water ingress on the flat roof",
+      "recommendation": null,
+      "source_page": 49
+    },
+    {
+      "observation_id": "sample_report_3_page_049_chunk_001_004",
+      "observation_type": "recommendation",
+      "category": "Decorative Finishes",
+      "severity": "low",
+      "location": "Office areas",
+      "description": "Redecoration is required",
+      "recommendation": "Redecorate",
+      "source_page": 49
+    },
+    {
+      "observation_id": "sample_report_3_page_049_chunk_001_005",
+      "observation_type": "finding",
+      "category": "Flooring",
+      "severity": "low",
+      "location": "Office areas",
+      "description": "Floor coverings are in need of replacement",
+      "recommendation": "Replace floor coverings",
+      "source_page": 49
+    },
+    {
+      "observation_id": "sample_report_3_page_050_chunk_001_001",
+      "observation_type": "finding",
+      "category": "plaster finishes",
+      "severity": "high",
+      "location": "head of the fire escape door",
+      "description": "water ingress with cracking and deterioration of plaster finishes",
+      "recommendation": "repair and replace where affected and redecorate",
+      "source_page": 50
+    },
+    {
+      "observation_id": "sample_report_3_page_050_chunk_001_002",
+      "observation_type": "finding",
+      "category": "plaster finishes",
+      "severity": "medium",
+      "location": "front wall",
+      "description": "very slight cracking linked to structural movement",
+      "recommendation": "repair prior to redecoration",
+      "source_page": 50
+    },
+    {
+      "observation_id": "sample_report_3_page_050_chunk_001_003",
+      "observation_type": "finding",
+      "category": "plaster finishes",
+      "severity": "medium",
+      "location": "ceilings",
+      "description": "very slight cracking",
+      "recommendation": "repair prior to redecoration",
+      "source_page": 50
+    },
+    {
+      "observation_id": "sample_report_3_page_050_chunk_001_004",
+      "observation_type": "risk",
+      "category": "water ingress",
+      "severity": "high",
+      "location": "head of the fire escape door",
+      "description": "evidence of water ingress",
+      "recommendation": null,
+      "source_page": 50
+    },
+    {
+      "observation_id": "sample_report_3_page_050_chunk_001_005",
+      "observation_type": "recommendation",
+      "category": "plaster finishes",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "redecoration required",
+      "recommendation": null,
+      "source_page": 50
+    },
+    {
+      "observation_id": "sample_report_3_page_050_chunk_001_006",
+      "observation_type": "recommendation",
+      "category": "floor covering",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "replacement required",
+      "recommendation": null,
+      "source_page": 50
+    },
+    {
+      "observation_id": "sample_report_3_page_051_chunk_001_001",
+      "observation_type": "finding",
+      "category": "Fire Safety",
+      "severity": "high",
+      "location": "Fire exit door leading to external metal fire escape staircase",
+      "description": "Fire exit door is screw fixed closed and not in use",
+      "recommendation": "Replace door and install suitable ironmongery",
+      "source_page": 51
+    },
+    {
+      "observation_id": "sample_report_3_page_051_chunk_001_002",
+      "observation_type": "recommendation",
+      "category": "Decorative Finishes",
+      "severity": "low",
+      "location": "Bathroom",
+      "description": "Bathroom would benefit from redecoration",
+      "recommendation": "null",
+      "source_page": 51
+    },
+    {
+      "observation_id": "sample_report_3_page_051_chunk_001_003",
+      "observation_type": "recommendation",
+      "category": "Flooring",
+      "severity": "low",
+      "location": "Bathroom",
+      "description": "Floor covering should be replaced",
+      "recommendation": "null",
+      "source_page": 51
+    },
+    {
+      "observation_id": "sample_report_3_page_051_chunk_001_004",
+      "observation_type": "recommendation",
+      "category": "Bathroom Fittings",
+      "severity": "low",
+      "location": "Bathroom",
+      "description": "Bathroom fittings are dated and may need replacement",
+      "recommendation": "null",
+      "source_page": 51
+    },
+    {
+      "observation_id": "sample_report_3_page_052_chunk_001_001",
+      "observation_type": "finding",
+      "category": "ceiling",
+      "severity": "low",
+      "location": "ceiling",
+      "description": "very slight cracking is present to the surface of the ceiling",
+      "recommendation": "repair prior to redecoration",
+      "source_page": 52
+    },
+    {
+      "observation_id": "sample_report_3_page_052_chunk_001_002",
+      "observation_type": "finding",
+      "category": "ceiling",
+      "severity": "low",
+      "location": "ceiling",
+      "description": "water staining is present to the left hand side of the ceiling",
+      "recommendation": "repair where affected and decorations made good",
+      "source_page": 52
+    },
+    {
+      "observation_id": "sample_report_3_page_052_chunk_001_003",
+      "observation_type": "finding",
+      "category": "ceiling",
+      "severity": "low",
+      "location": "adjacent store room",
+      "description": "water staining is present to the ceiling within the adjacent store room",
+      "recommendation": "repair where affected and decorations made good",
+      "source_page": 52
+    },
+    {
+      "observation_id": "sample_report_3_page_052_chunk_001_004",
+      "observation_type": "risk",
+      "category": "flat roof",
+      "severity": "unknown",
+      "location": "flat roof",
+      "description": "refer to previous comments regarding the flat roof within the external condition section of the report",
+      "recommendation": null,
+      "source_page": 52
+    },
+    {
+      "observation_id": "sample_report_3_page_052_chunk_001_005",
+      "observation_type": "recommendation",
+      "category": "floor covering",
+      "severity": "unknown",
+      "location": "landing area",
+      "description": "replacement of the floor covering is required",
+      "recommendation": null,
+      "source_page": 52
+    },
+    {
+      "observation_id": "sample_report_3_page_052_chunk_001_006",
+      "observation_type": "recommendation",
+      "category": "decorations",
+      "severity": "unknown",
+      "location": "landing area",
+      "description": "redecorations are required",
+      "recommendation": null,
+      "source_page": 52
+    },
+    {
+      "observation_id": "sample_report_3_page_053_chunk_001_001",
+      "observation_type": "finding",
+      "category": "water ingress",
+      "severity": "high",
+      "location": "above flat roof to the ceiling",
+      "description": "water ingress with staining and deterioration of plaster finishes",
+      "recommendation": "repair ceiling and decoration after flat roof repairs",
+      "source_page": 53
+    },
+    {
+      "observation_id": "sample_report_3_page_053_chunk_001_002",
+      "observation_type": "recommendation",
+      "category": "staircase",
+      "severity": "low",
+      "location": "staircase",
+      "description": "repair ceiling and decoration after flat roof repairs",
+      "recommendation": null,
+      "source_page": 53
+    },
+    {
+      "observation_id": "sample_report_3_page_054_chunk_001_001",
+      "observation_type": "finding",
+      "category": "ceiling",
+      "severity": "low",
+      "location": "First Floor Landing",
+      "description": "Hairline to very slight cracking is present to the surface of the ceiling",
+      "recommendation": "Repair prior to redecoration",
+      "source_page": 54
+    },
+    {
+      "observation_id": "sample_report_3_page_054_chunk_001_002",
+      "observation_type": "finding",
+      "category": "floor",
+      "severity": "medium",
+      "location": "First Floor Landing",
+      "description": "The floor covering would benefit from replacement",
+      "recommendation": "Replace",
+      "source_page": 54
+    },
+    {
+      "observation_id": "sample_report_3_page_055_chunk_001_001",
+      "observation_type": "finding",
+      "category": "plaster finishes",
+      "severity": "medium",
+      "location": "ceiling",
+      "description": "Slight cracking present to the ceiling",
+      "recommendation": "Repair prior to redecoration",
+      "source_page": 55
+    },
+    {
+      "observation_id": "sample_report_3_page_055_chunk_001_002",
+      "observation_type": "finding",
+      "category": "plaster finishes",
+      "severity": "high",
+      "location": "front of the office area",
+      "description": "Cracking present to the plaster finishes linked to structural movement",
+      "recommendation": "Repair following external repairs",
+      "source_page": 55
+    },
+    {
+      "observation_id": "sample_report_3_page_055_chunk_001_003",
+      "observation_type": "risk",
+      "category": "moisture ingress",
+      "severity": "high",
+      "location": "head of the fire escape door",
+      "description": "Evidence of moisture ingress present",
+      "recommendation": "Following repairs",
+      "source_page": 55
+    },
+    {
+      "observation_id": "sample_report_3_page_055_chunk_001_004",
+      "observation_type": "recommendation",
+      "category": "plaster finishes",
+      "severity": "low",
+      "location": "internal plaster finishes",
+      "description": "Repair prior to redecoration",
+      "recommendation": "null",
+      "source_page": 55
+    },
+    {
+      "observation_id": "sample_report_3_page_055_chunk_001_005",
+      "observation_type": "recommendation",
+      "category": "floor covering",
+      "severity": "low",
+      "location": "office areas",
+      "description": "Replacement of the floor covering",
+      "recommendation": "null",
+      "source_page": 55
+    },
+    {
+      "observation_id": "sample_report_3_page_055_chunk_001_006",
+      "observation_type": "recommendation",
+      "category": "decorative",
+      "severity": "low",
+      "location": "office areas",
+      "description": "Redecoration",
+      "recommendation": "null",
+      "source_page": 55
+    },
+    {
+      "observation_id": "sample_report_3_page_056_chunk_001_001",
+      "observation_type": "recommendation",
+      "category": "plasterwork",
+      "severity": "unknown",
+      "location": "roof and external brickwork",
+      "description": "repair and replace plaster finishes where affected and redecorate",
+      "recommendation": "repair and replace plaster finishes where affected and redecorate",
+      "source_page": 56
+    },
+    {
+      "observation_id": "sample_report_3_page_056_chunk_001_002",
+      "observation_type": "finding",
+      "category": "staircase",
+      "severity": "unknown",
+      "location": "staircase",
+      "description": "timber staircase in satisfactory condition with no significant defects noted",
+      "recommendation": null,
+      "source_page": 56
+    },
+    {
+      "observation_id": "sample_report_3_page_056_chunk_001_003",
+      "observation_type": "finding",
+      "category": "entrance lobby",
+      "severity": "unknown",
+      "location": "entrance lobby",
+      "description": "entrance lobby in satisfactory condition with no defects noted",
+      "recommendation": null,
+      "source_page": 56
+    },
+    {
+      "observation_id": "sample_report_3_page_057_chunk_001_001",
+      "observation_type": "finding",
+      "category": "Flooring",
+      "severity": "high",
+      "location": "floor",
+      "description": "Damaged tiles present, deteriorated grouted joints.",
+      "recommendation": "Replace damaged tiles and regrout joints.",
+      "source_page": 57
+    },
+    {
+      "observation_id": "sample_report_3_page_057_chunk_001_002",
+      "observation_type": "finding",
+      "category": "Flooring",
+      "severity": "medium",
+      "location": "floor",
+      "description": "Floor slopes slightly towards the right hand side.",
+      "recommendation": "Level the floor.",
+      "source_page": 57
+    },
+    {
+      "observation_id": "sample_report_3_page_057_chunk_001_003",
+      "observation_type": "risk",
+      "category": "Dampness",
+      "severity": "high",
+      "location": "entrance hallway walls",
+      "description": "High levels of moisture and slight deterioration of finishes.",
+      "recommendation": "Undertake a specialist damp survey.",
+      "source_page": 57
+    },
+    {
+      "observation_id": "sample_report_3_page_058_chunk_001_001",
+      "observation_type": "finding",
+      "category": "Ceilings",
+      "severity": "medium",
+      "location": "ground floor office areas",
+      "description": "Very slight cracking present to the ceilings",
+      "recommendation": "Repair prior to redecoration",
+      "source_page": 58
+    },
+    {
+      "observation_id": "sample_report_3_page_058_chunk_001_002",
+      "observation_type": "finding",
+      "category": "Walls",
+      "severity": "medium",
+      "location": "front wall of the office area",
+      "description": "Cracking present, linked to structural movement to the front elevation",
+      "recommendation": "Refer to previous comments",
+      "source_page": 58
+    },
+    {
+      "observation_id": "sample_report_3_page_058_chunk_001_003",
+      "observation_type": "finding",
+      "category": "Plaster Finishes",
+      "severity": "high",
+      "location": "rear left hand corner of the left hand office",
+      "description": "Deteriorated plaster finishes and high levels of moisture present",
+      "recommendation": null,
+      "source_page": 58
+    },
+    {
+      "observation_id": "sample_report_3_page_058_chunk_001_004",
+      "observation_type": "finding",
+      "category": "Moisture",
+      "severity": "high",
+      "location": "rear of the office and walls within this area",
+      "description": "High levels of moisture at low level present",
+      "recommendation": null,
+      "source_page": 58
+    },
+    {
+      "observation_id": "sample_report_3_page_058_chunk_001_005",
+      "observation_type": "finding",
+      "category": "Floor Coverings",
+      "severity": "low",
+      "location": "office areas",
+      "description": "In need of replacement",
+      "recommendation": null,
+      "source_page": 58
+    },
+    {
+      "observation_id": "sample_report_3_page_058_chunk_001_006",
+      "observation_type": "risk",
+      "category": "Structural Movement",
+      "severity": "high",
+      "location": "front elevation",
+      "description": "Linked to cracking present to the front wall of the office area",
+      "recommendation": "Refer to previous comments",
+      "source_page": 58
+    },
+    {
+      "observation_id": "sample_report_3_page_059_chunk_001_001",
+      "observation_type": "risk",
+      "category": "dampness",
+      "severity": "medium",
+      "location": "property",
+      "description": "potential issue with penetrating dampness",
+      "recommendation": null,
+      "source_page": 59
+    },
+    {
+      "observation_id": "sample_report_3_page_059_chunk_001_002",
+      "observation_type": "recommendation",
+      "category": "decorative",
+      "severity": "low",
+      "location": "WC facilities",
+      "description": "would benefit from redecoration in the short term",
+      "recommendation": "redecoration",
+      "source_page": 59
+    },
+    {
+      "observation_id": "sample_report_3_page_060_chunk_001_001",
+      "observation_type": "finding",
+      "category": "Roofing",
+      "severity": "medium",
+      "location": "Warehouse area ceiling",
+      "description": "Damaged and displaced lining boards present",
+      "recommendation": "Replace damaged lining boards",
+      "source_page": 60
+    },
+    {
+      "observation_id": "sample_report_3_page_061_chunk_001_001",
+      "observation_type": "recommendation",
+      "category": "walls",
+      "severity": "low",
+      "location": "rear elevation",
+      "description": "damaged lining boards present",
+      "recommendation": "replacement",
+      "source_page": 61
+    },
+    {
+      "observation_id": "sample_report_3_page_062_chunk_001_001",
+      "observation_type": "compliance",
+      "category": "brickwork",
+      "severity": "unknown",
+      "location": "walls",
+      "description": "brickwork is in satisfactory condition",
+      "recommendation": "null",
+      "source_page": 62
+    },
+    {
+      "observation_id": "sample_report_3_page_062_chunk_001_002",
+      "observation_type": "finding",
+      "category": "paint finishes",
+      "severity": "unknown",
+      "location": "warehouse area",
+      "description": "painted finishes are deteriorated",
+      "recommendation": "redecoration",
+      "source_page": 62
+    },
+    {
+      "observation_id": "sample_report_3_page_063_chunk_001_001",
+      "observation_type": "recommendation",
+      "category": "Structural",
+      "severity": "low",
+      "location": "floor",
+      "description": "Areas of cracking present to the floor would benefit from repair",
+      "recommendation": "repair as part of redecoration works",
+      "source_page": 63
+    },
+    {
+      "observation_id": "sample_report_3_page_063_chunk_001_002",
+      "observation_type": "finding",
+      "category": "Structural",
+      "severity": "low",
+      "location": "steel portal frame structure",
+      "description": "Areas of cracking present to the floor would benefit from repair",
+      "recommendation": null,
+      "source_page": 63
+    },
+    {
+      "observation_id": "sample_report_3_page_063_chunk_001_003",
+      "observation_type": "finding",
+      "category": "Structural",
+      "severity": "low",
+      "location": "steel portal frame structure",
+      "description": "Steel portal frame structure generally appears to be in satisfactory condition",
+      "recommendation": null,
+      "source_page": 63
+    },
+    {
+      "observation_id": "sample_report_3_page_063_chunk_001_004",
+      "observation_type": "finding",
+      "category": "Structural",
+      "severity": "low",
+      "location": "steel portal frame structure",
+      "description": "No significant distortion noted in the steel portal frame structure",
+      "recommendation": null,
+      "source_page": 63
+    },
+    {
+      "observation_id": "sample_report_3_page_064_chunk_001_001",
+      "observation_type": "finding",
+      "category": "HVAC",
+      "severity": "high",
+      "location": "warehouse area",
+      "description": "Two gas fired warm air heaters appear to be redundant.",
+      "recommendation": null,
+      "source_page": 64
+    },
+    {
+      "observation_id": "sample_report_3_page_064_chunk_001_002",
+      "observation_type": "risk",
+      "category": "Structural",
+      "severity": "high",
+      "location": "front right hand corner of the warehouse",
+      "description": "Redundant flue present, may pose a risk if not removed.",
+      "recommendation": "Remove the redundant flue, cap and repair the ceiling and roof where the flue penetrates.",
+      "source_page": 64
+    },
+    {
+      "observation_id": "sample_report_3_page_064_chunk_001_003",
+      "observation_type": "recommendation",
+      "category": "Structural",
+      "severity": "low",
+      "location": "loading bay area",
+      "description": "Brickwork is damaged to the perimeter of the loading bay.",
+      "recommendation": "Repair the damaged brickwork.",
+      "source_page": 64
+    },
+    {
+      "observation_id": "sample_report_3_page_065_chunk_001_001",
+      "observation_type": "finding",
+      "category": "brickwork",
+      "severity": "unknown",
+      "location": "front left hand corner of the warehouse",
+      "description": "a two storey brickwork block is present",
+      "recommendation": null,
+      "source_page": 65
+    },
+    {
+      "observation_id": "sample_report_3_page_065_chunk_001_002",
+      "observation_type": "finding",
+      "category": "plastering",
+      "severity": "unknown",
+      "location": "internal areas of the block",
+      "description": "painted plastered ceilings and walls",
+      "recommendation": null,
+      "source_page": 65
+    },
+    {
+      "observation_id": "sample_report_3_page_065_chunk_001_003",
+      "observation_type": "finding",
+      "category": "tiling",
+      "severity": "unknown",
+      "location": "kitchen and WC area",
+      "description": "ceramic tiling",
+      "recommendation": null,
+      "source_page": 65
+    },
+    {
+      "observation_id": "sample_report_3_page_065_chunk_001_004",
+      "observation_type": "finding",
+      "category": "joinery",
+      "severity": "unknown",
+      "location": "internal joinery",
+      "description": "gloss painted",
+      "recommendation": null,
+      "source_page": 65
+    },
+    {
+      "observation_id": "sample_report_3_page_065_chunk_001_005",
+      "observation_type": "finding",
+      "category": "flooring",
+      "severity": "unknown",
+      "location": "internal areas of the block",
+      "description": "painted concrete and vinyl tile floor covering",
+      "recommendation": null,
+      "source_page": 65
+    },
+    {
+      "observation_id": "sample_report_3_page_065_chunk_001_006",
+      "observation_type": "finding",
+      "category": "condition",
+      "severity": "unknown",
+      "location": "internal areas of the block",
+      "description": "generally appear to be in satisfactory condition",
+      "recommendation": null,
+      "source_page": 65
+    },
+    {
+      "observation_id": "sample_report_3_page_065_chunk_001_007",
+      "observation_type": "finding",
+      "category": "condition",
+      "severity": "unknown",
+      "location": "internal areas of the block",
+      "description": "would benefit from refurbishment in the short term",
+      "recommendation": null,
+      "source_page": 65
+    },
+    {
+      "observation_id": "sample_report_3_page_065_chunk_001_008",
+      "observation_type": "risk",
+      "category": "mechanical",
+      "severity": "high",
+      "location": "WC area",
+      "description": "mechanical extractor fan has been removed and requires replacement",
+      "recommendation": "replace the mechanical extractor fan",
+      "source_page": 65
+    },
+    {
+      "observation_id": "sample_report_3_page_065_chunk_001_009",
+      "observation_type": "risk",
+      "category": "doors",
+      "severity": "high",
+      "location": "WC area",
+      "description": "entrance door is damaged and requires replacement",
+      "recommendation": "replace the entrance door",
+      "source_page": 65
+    },
+    {
+      "observation_id": "sample_report_3_page_066_chunk_001_001",
+      "observation_type": "finding",
+      "category": "plastic sealant",
+      "severity": "low",
+      "location": "kitchen",
+      "description": "damage is present to the plastic sealant",
+      "recommendation": "repair",
+      "source_page": 66
+    },
+    {
+      "observation_id": "sample_report_3_page_066_chunk_001_002",
+      "observation_type": "recommendation",
+      "category": "store room",
+      "severity": "unknown",
+      "location": "store room",
+      "description": "the area would benefit from redecoration",
+      "recommendation": "redecoration",
+      "source_page": 66
+    },
+    {
+      "observation_id": "sample_report_3_page_066_chunk_001_003",
+      "observation_type": "recommendation",
+      "category": "store room",
+      "severity": "unknown",
+      "location": "store room",
+      "description": "decoration of the floor in the short term",
+      "recommendation": "decoration of the floor",
+      "source_page": 66
+    },
+    {
+      "observation_id": "sample_report_3_page_067_chunk_001_001",
+      "observation_type": "finding",
+      "category": "Asbestos",
+      "severity": "unknown",
+      "location": "property",
+      "description": "Suspected presence of asbestos",
+      "recommendation": "Obtain Asbestos Register and Asbestos Management Plan",
+      "source_page": 67
+    },
+    {
+      "observation_id": "sample_report_3_page_068_chunk_001_001",
+      "observation_type": "finding",
+      "category": "Fire Safety",
+      "severity": "high",
+      "location": "Second floor fire escape to unit 4",
+      "description": "The fire escape to unit 4 requires reinstatement with the fire escape stair repaired and redecorated.",
+      "recommendation": null,
+      "source_page": 68
+    },
+    {
+      "observation_id": "sample_report_3_page_068_chunk_001_002",
+      "observation_type": "risk",
+      "category": "Asbestos",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Asbestos Register and Asbestos Management Plan for the property should be obtained.",
+      "recommendation": "Obtain a copy of the Asbestos Register and Asbestos Management Plan",
+      "source_page": 68
+    },
+    {
+      "observation_id": "sample_report_3_page_068_chunk_001_003",
+      "observation_type": "risk",
+      "category": "Gas Safety",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Up to date service certificates for the gas boilers should be obtained.",
+      "recommendation": "Obtain up to date service certificates for the gas boilers",
+      "source_page": 68
+    },
+    {
+      "observation_id": "sample_report_3_page_068_chunk_001_004",
+      "observation_type": "risk",
+      "category": "Electrical Safety",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Up to date service certificates for the electrical installation should be obtained.",
+      "recommendation": "Obtain up to date service certificates for the electrical installation",
+      "source_page": 68
+    },
+    {
+      "observation_id": "sample_report_3_page_068_chunk_001_005",
+      "observation_type": "risk",
+      "category": "Fire Safety",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Copies of the fire risk assessments for the property should be obtained.",
+      "recommendation": "Obtain copies of the fire risk assessments",
+      "source_page": 68
+    },
+    {
+      "observation_id": "sample_report_3_page_069_chunk_001_001",
+      "observation_type": "finding",
+      "category": "Environmental Hazards",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "No significant exposure to environmental hazards such as flooding, tree root proximity, radon, electromagnetic fields and microwave exposure, vermin, and invasive vegetation.",
+      "recommendation": null,
+      "source_page": 69
+    },
+    {
+      "observation_id": "sample_report_3_page_069_chunk_001_002",
+      "observation_type": "risk",
+      "category": "Environmental Hazards",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Land contamination issues may be present, but are outside the scope of this report.",
+      "recommendation": "Commission an environmental audit if land contamination issues are important.",
+      "source_page": 69
+    },
+    {
+      "observation_id": "sample_report_3_page_070_chunk_001_001",
+      "observation_type": "risk",
+      "category": "Energy Efficiency",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Properties with an EPC rating of 'F' or 'G' will be unlawful to let from April 2018.",
+      "recommendation": null,
+      "source_page": 70
+    },
+    {
+      "observation_id": "sample_report_3_page_070_chunk_001_002",
+      "observation_type": "risk",
+      "category": "Energy Efficiency",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Upgrading to meet minimum standards may have a substantial financial implication.",
+      "recommendation": null,
+      "source_page": 70
+    },
+    {
+      "observation_id": "sample_report_3_page_070_chunk_001_003",
+      "observation_type": "risk",
+      "category": "Energy Efficiency",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Landlords will be required to ensure compliance before granting a new lease from April 2018.",
+      "recommendation": null,
+      "source_page": 70
+    },
+    {
+      "observation_id": "sample_report_3_page_070_chunk_001_004",
+      "observation_type": "risk",
+      "category": "Energy Efficiency",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "The requirement to ensure compliance will cover all leases, including existing ones, from April 2023.",
+      "recommendation": null,
+      "source_page": 70
+    },
+    {
+      "observation_id": "sample_report_3_page_071_chunk_001_001",
+      "observation_type": "recommendation",
+      "category": "Boundary Maintenance",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Confirm location, maintenance responsibility and liability for all boundaries to the property",
+      "recommendation": "Enquiries with solicitors",
+      "source_page": 71
+    },
+    {
+      "observation_id": "sample_report_3_page_071_chunk_001_002",
+      "observation_type": "recommendation",
+      "category": "Electrical Maintenance",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Obtain electrical test certification or test and inspect electrical installations",
+      "recommendation": "Enquiries with solicitors or electrical inspection by NICEIC approved engineer",
+      "source_page": 71
+    },
+    {
+      "observation_id": "sample_report_3_page_071_chunk_001_003",
+      "observation_type": "recommendation",
+      "category": "Gas Maintenance",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Obtain current gas test certification or test and inspect gas installations",
+      "recommendation": "Enquiries with solicitors or gas inspection by Gas Safe Registered engineer",
+      "source_page": 71
+    },
+    {
+      "observation_id": "sample_report_3_page_071_chunk_001_004",
+      "observation_type": "finding",
+      "category": "Roof Maintenance",
+      "severity": "high",
+      "location": "Unit 3",
+      "description": "Treatment of cut edge corrosion to roof sheets, replacement of ridge flashings and reseal of gutters and downpipes",
+      "recommendation": "£20,000",
+      "source_page": 71
+    },
+    {
+      "observation_id": "sample_report_3_page_071_chunk_001_005",
+      "observation_type": "finding",
+      "category": "Roof Maintenance",
+      "severity": "high",
+      "location": "Unit 3",
+      "description": "Replacement of rooflights",
+      "recommendation": "£24,000",
+      "source_page": 71
+    },
+    {
+      "observation_id": "sample_report_3_page_071_chunk_001_006",
+      "observation_type": "finding",
+      "category": "Gutter Maintenance",
+      "severity": "high",
+      "location": "Unit 3",
+      "description": "Relining of gutter areas",
+      "recommendation": "£9,000",
+      "source_page": 71
+    },
+    {
+      "observation_id": "sample_report_3_page_071_chunk_001_007",
+      "observation_type": "finding",
+      "category": "Brickwork Maintenance",
+      "severity": "low",
+      "location": "Unit 3",
+      "description": "Repointing of brickwork",
+      "recommendation": "£750",
+      "source_page": 71
+    },
+    {
+      "observation_id": "sample_report_3_page_071_chunk_001_008",
+      "observation_type": "finding",
+      "category": "Cladding Maintenance",
+      "severity": "high",
+      "location": "Unit 3",
+      "description": "Repairs and redecorate cladding, including replacement of isolated damaged panels",
+      "recommendation": "null",
+      "source_page": 71
+    },
+    {
+      "observation_id": "sample_report_3_page_071_chunk_002_001",
+      "observation_type": "recommendation",
+      "category": "brickwork",
+      "severity": "unknown",
+      "location": "building",
+      "description": "Repointing of brickwork",
+      "recommendation": "£750",
+      "source_page": 71
+    },
+    {
+      "observation_id": "sample_report_3_page_071_chunk_002_002",
+      "observation_type": "recommendation",
+      "category": "cladding",
+      "severity": "unknown",
+      "location": "building",
+      "description": "Repairs and redecorate cladding",
+      "recommendation": "£30,000",
+      "source_page": 71
+    },
+    {
+      "observation_id": "sample_report_3_page_071_chunk_002_003",
+      "observation_type": "recommendation",
+      "category": "brickwork",
+      "severity": "unknown",
+      "location": "building",
+      "description": "Repairs, repointing and redecoration of internal brickwork",
+      "recommendation": "£3,000",
+      "source_page": 71
+    },
+    {
+      "observation_id": "sample_report_3_page_071_chunk_002_004",
+      "observation_type": "recommendation",
+      "category": "floor",
+      "severity": "unknown",
+      "location": "warehouse",
+      "description": "Repairs and redecoration of warehouse floor",
+      "recommendation": "£16,000",
+      "source_page": 71
+    },
+    {
+      "observation_id": "sample_report_3_page_072_chunk_001_001",
+      "observation_type": "recommendation",
+      "category": "Roofing",
+      "severity": "high",
+      "location": "Unit 4",
+      "description": "Re-cover the flat roof to the front of Unit 4 in the immediate term.",
+      "recommendation": "Re-cover the flat roof to the front of Unit 4 in the immediate term.",
+      "source_page": 72
+    },
+    {
+      "observation_id": "sample_report_3_page_072_chunk_001_002",
+      "observation_type": "recommendation",
+      "category": "Roofing",
+      "severity": "high",
+      "location": "Unit 4",
+      "description": "Replacement of rooflights in the short term.",
+      "recommendation": "Replacement of rooflights in the short term.",
+      "source_page": 72
+    },
+    {
+      "observation_id": "sample_report_3_page_072_chunk_001_003",
+      "observation_type": "recommendation",
+      "category": "Rainwater Goods",
+      "severity": "high",
+      "location": "Unit 4",
+      "description": "Repairs and maintenance to the rainwater goods in the immediate term.",
+      "recommendation": "Repairs and maintenance to the rainwater goods in the immediate term.",
+      "source_page": 72
+    },
+    {
+      "observation_id": "sample_report_3_page_072_chunk_001_004",
+      "observation_type": "recommendation",
+      "category": "Brickwork",
+      "severity": "high",
+      "location": "Unit 4",
+      "description": "Repairs and repointing to brickwork including the installation of expansion joints.",
+      "recommendation": "Repairs and repointing to brickwork including the installation of expansion joints.",
+      "source_page": 72
+    },
+    {
+      "observation_id": "sample_report_3_page_072_chunk_001_005",
+      "observation_type": "recommendation",
+      "category": "Drainage",
+      "severity": "high",
+      "location": "Unit 4",
+      "description": "Carry out CCTV survey of below ground drainage.",
+      "recommendation": "Carry out CCTV survey of below ground drainage.",
+      "source_page": 72
+    },
+    {
+      "observation_id": "sample_report_3_page_072_chunk_001_006",
+      "observation_type": "recommendation",
+      "category": "Lintels",
+      "severity": "high",
+      "location": "Unit 4",
+      "description": "Further investigation works to confirm that suitable lintels are present above window openings.",
+      "recommendation": "Further investigation works to confirm that suitable lintels are present above window openings.",
+      "source_page": 72
+    },
+    {
+      "observation_id": "sample_report_3_page_072_chunk_001_007",
+      "observation_type": "recommendation",
+      "category": "Windows",
+      "severity": "high",
+      "location": "Unit 4",
+      "description": "Replacement of timber framed windows in immediate term.",
+      "recommendation": "Replacement of timber framed windows in immediate term.",
+      "source_page": 72
+    },
+    {
+      "observation_id": "sample_report_3_page_072_chunk_001_008",
+      "observation_type": "recommendation",
+      "category": "Cladding",
+      "severity": "high",
+      "location": "Unit 4",
+      "description": "Repairs to damaged sections of cladding in the short term.",
+      "recommendation": "Repairs to damaged sections of cladding in the short term.",
+      "source_page": 72
+    },
+    {
+      "observation_id": "sample_report_3_page_072_chunk_001_009",
+      "observation_type": "recommendation",
+      "category": "Fire Escape",
+      "severity": "high",
+      "location": "Second floor",
+      "description": "Repair and redecoration of external fire escape staircase in immediate term.",
+      "recommendation": "Repair and redecoration of external fire escape staircase in immediate term.",
+      "source_page": 72
+    },
+    {
+      "observation_id": "sample_report_3_page_072_chunk_001_010",
+      "observation_type": "recommendation",
+      "category": "Ceiling",
+      "severity": "high",
+      "location": "Second floor",
+      "description": "Repairs and redecoration to second floor ceiling.",
+      "recommendation": "Repairs and redecoration to second floor ceiling.",
+      "source_page": 72
+    },
+    {
+      "observation_id": "sample_report_3_page_072_chunk_001_011",
+      "observation_type": "recommendation",
+      "category": "Floor",
+      "severity": "high",
+      "location": "Warehouse",
+      "description": "Repairs and redecoration of warehouse floor.",
+      "recommendation": "Repairs and redecoration of warehouse floor.",
+      "source_page": 72
+    },
+    {
+      "observation_id": "sample_report_3_page_072_chunk_001_012",
+      "observation_type": "risk",
+      "category": "Fire Escape",
+      "severity": "high",
+      "location": "Second floor",
+      "description": "We recommend that the fire escape to the second floor is repaired and redecorated in the immediate term.",
+      "recommendation": null,
+      "source_page": 72
+    },
+    {
+      "observation_id": "sample_report_3_page_072_chunk_002_001",
+      "observation_type": "recommendation",
+      "category": "Maintenance",
+      "severity": "unknown",
+      "location": "warehouse floor",
+      "description": "Repairs and redecoration of warehouse floor",
+      "recommendation": null,
+      "source_page": 72
+    },
+    {
+      "observation_id": "sample_report_3_page_072_chunk_002_002",
+      "observation_type": "recommendation",
+      "category": "Maintenance",
+      "severity": "unknown",
+      "location": "office areas",
+      "description": "Specialist damp survey is required",
+      "recommendation": "undertake a specialist damp survey",
+      "source_page": 72
+    },
+    {
+      "observation_id": "sample_report_3_page_072_chunk_002_003",
+      "observation_type": "recommendation",
+      "category": "Compliance",
+      "severity": "unknown",
+      "location": "second floor",
+      "description": "Fire escape to the second floor is not reinstated",
+      "recommendation": "reinstate the fire escape in the immediate term",
+      "source_page": 72
+    },
+    {
+      "observation_id": "sample_report_3_page_075_chunk_001_001",
+      "observation_type": "compliance",
+      "category": "Building Regulations",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Compliance with Building Regulations will be reviewed, but a detailed study and/or risk assessment may be required.",
+      "recommendation": null,
+      "source_page": 75
+    },
+    {
+      "observation_id": "sample_report_3_page_075_chunk_001_002",
+      "observation_type": "risk",
+      "category": "Disability Discrimination Act",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Requirements under the Disability Discrimination Act are based on reasonableness, and our advice represents our interpretation at this time.",
+      "recommendation": null,
+      "source_page": 75
+    },
+    {
+      "observation_id": "sample_report_3_page_075_chunk_001_003",
+      "observation_type": "risk",
+      "category": "Fire Regulations",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Compliance with Fire Regulations will be reviewed.",
+      "recommendation": null,
+      "source_page": 75
+    },
+    {
+      "observation_id": "sample_report_3_page_075_chunk_001_004",
+      "observation_type": "risk",
+      "category": "Workplace Regulations",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Compliance with Workplace Regulations will be reviewed.",
+      "recommendation": null,
+      "source_page": 75
+    },
+    {
+      "observation_id": "sample_report_3_page_075_chunk_002_001",
+      "observation_type": "compliance",
+      "category": "Design Analysis",
+      "severity": "unknown",
+      "location": "plant",
+      "description": "Design analysis of the systems will be undertaken using generally accepted design criteria.",
+      "recommendation": null,
+      "source_page": 75
+    },
+    {
+      "observation_id": "sample_report_3_page_075_chunk_002_002",
+      "observation_type": "risk",
+      "category": "White Goods & Data",
+      "severity": "high",
+      "location": "property",
+      "description": "We are unable to comment, advise or identify items that are reliant on day/date dependent embedded chips.",
+      "recommendation": null,
+      "source_page": 75
+    },
+    {
+      "observation_id": "sample_report_3_page_075_chunk_002_003",
+      "observation_type": "risk",
+      "category": "Deleterious & Hazardous Materials",
+      "severity": "high",
+      "location": "property",
+      "description": "We will advise you if we consider there is a significant possibility that deleterious or hazardous materials exist at the property.",
+      "recommendation": null,
+      "source_page": 75
+    },
+    {
+      "observation_id": "sample_report_3_page_076_chunk_001_001",
+      "observation_type": "finding",
+      "category": "Concrete",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "We are not able to confirm that the structure is free from structural defects to include but not exclusively the deleterious effect of HAC, chlorides and reinforcement corrosion durability.",
+      "recommendation": null,
+      "source_page": 76
+    },
+    {
+      "observation_id": "sample_report_3_page_076_chunk_001_002",
+      "observation_type": "risk",
+      "category": "Services Installations",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "We will not test any of the installations. Unless otherwise instructed, we will not commission the inspection and testing of any installations by specialist consulting engineers.",
+      "recommendation": null,
+      "source_page": 76
+    },
+    {
+      "observation_id": "sample_report_3_page_076_chunk_001_003",
+      "observation_type": "recommendation",
+      "category": "Concealed Parts",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "If we observe evidence to suggest that concealed parts of the structure and fabric might be defective, we will advise you accordingly and make recommendations for further investigations.",
+      "recommendation": "Further investigations",
+      "source_page": 76
+    },
+    {
+      "observation_id": "sample_report_3_page_077_chunk_001_001",
+      "observation_type": "finding",
+      "category": "Deleterious Materials",
+      "severity": "unknown",
+      "location": "Unknown",
+      "description": "Composite cladding panels to roofs and walls are considered deleterious and/or hazardous to health and safety.",
+      "recommendation": null,
+      "source_page": 77
+    },
+    {
+      "observation_id": "sample_report_3_page_078_chunk_001_001",
+      "observation_type": "finding",
+      "category": "Glazing",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Nickel sulphide inclusions in toughened glazing",
+      "recommendation": null,
+      "source_page": 78
+    },
+    {
+      "observation_id": "sample_report_3_page_078_chunk_001_002",
+      "observation_type": "risk",
+      "category": "Concrete",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "High Alumina Cement (HAC) when used in load-bearing concrete components and elements",
+      "recommendation": null,
+      "source_page": 78
+    },
+    {
+      "observation_id": "sample_report_3_page_078_chunk_001_003",
+      "observation_type": "risk",
+      "category": "Concrete",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Chloride additives when used in pre-cast or in situ cast concrete",
+      "recommendation": null,
+      "source_page": 78
+    },
+    {
+      "observation_id": "sample_report_3_page_078_chunk_001_004",
+      "observation_type": "finding",
+      "category": "Bricks",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Calcium silicate bricks or tiles (also known as sand/lime or flint/lime bricks)",
+      "recommendation": null,
+      "source_page": 78
+    },
+    {
+      "observation_id": "sample_report_3_page_078_chunk_001_005",
+      "observation_type": "finding",
+      "category": "Blocks",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Mundic blocks and Mundic concrete",
+      "recommendation": null,
+      "source_page": 78
+    },
+    {
+      "observation_id": "sample_report_3_page_078_chunk_001_006",
+      "observation_type": "finding",
+      "category": "Insulation",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Woodwool slabs when used as permanent shuttering to in situ cast structural concrete",
+      "recommendation": null,
+      "source_page": 78
+    },
+    {
+      "observation_id": "sample_report_3_page_078_chunk_001_007",
+      "observation_type": "risk",
+      "category": "Paint",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Lead-based paint used in locations that could result in the ingestion, inhalation or absorption of the material",
+      "recommendation": null,
+      "source_page": 78
+    },
+    {
+      "observation_id": "sample_report_3_page_078_chunk_001_008",
+      "observation_type": "risk",
+      "category": "Pipework",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Lead used for drinking water pipework except when used as solder to pipe fittings",
+      "recommendation": null,
+      "source_page": 78
+    },
+    {
+      "observation_id": "sample_report_3_page_078_chunk_001_009",
+      "observation_type": "risk",
+      "category": "Aggregates",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Sea dredged aggregates or other aggregates for use in reinforced concrete which do not comply with British Standard 882: 1992 and aggregates for use in concrete which do not comply with the provisions of British Standard Specification 8110: 1985",
+      "recommendation": null,
+      "source_page": 78
+    },
+    {
+      "observation_id": "sample_report_3_page_078_chunk_001_010",
+      "observation_type": "finding",
+      "category": "Asbestos",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Asbestos in any raw form or asbestos-based products",
+      "recommendation": null,
+      "source_page": 78
+    },
+    {
+      "observation_id": "sample_report_3_page_078_chunk_001_011",
+      "observation_type": "finding",
+      "category": "Fibres",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Manmade mineral fibres in materials when these fibres are loose and have a diameter of 3 microns or less and a length of between 5 and 100 microns",
+      "recommendation": null,
+      "source_page": 78
+    },
+    {
+      "observation_id": "sample_report_3_page_078_chunk_001_012",
+      "observation_type": "finding",
+      "category": "Insulation",
+      "severity": "high",
+      "location": "Unknown",
+      "description": "Urea Formaldehyde Foam in large quantities used, in particular, as cavity insulation (due to vapours released from the foam)",
+      "recommendation": null,
+      "source_page": 78
+    }
+  ]
+}

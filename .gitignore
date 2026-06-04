@@ -5,5 +5,8 @@ __pycache__/
 
 .DS_Store
 
-data/extracted/
+data/extracted/*
+!data/extracted/
+!data/extracted/*_text.json
+!data/extracted/*_observations.json
 data/vector_store/
