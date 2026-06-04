@@ -28,18 +28,12 @@ SECO works with technical inspection, construction risk, compliance, and enginee
 
 ## Main Features
 
-- PDF report ingestion
-- page-level text extraction
-- text cleaning and chunking
-- LLM-based structured observation extraction
-- local JSON storage
-- local embeddings with `BAAI/bge-small-en-v1.5`
-- Qdrant vector search
-- Streamlit search interface
-- filters by type, severity, category, and source report
-- in-app preview of cited source report pages
-- automatic extraction quality checks
-- Docker support for easier setup
+- Converts inspection PDFs into structured observations
+- Enables semantic search across historical findings, risks, and recommendations
+- Provides filters by severity, category, observation type, and source report
+- Shows the cited report page directly in the app for traceability
+- Includes automated quality checks for extracted observations
+- Runs locally with Docker
 
 ## Quick Start With Docker
 
