@@ -14,10 +14,10 @@ data/raw/
 
 | File | Pages | Document title | Source URL | Notes |
 | --- | ---: | --- | --- | --- |
-| `sample_report_1.pdf` | 15 | Building Inspection Report | To document | Public/sample inspection report used for pipeline testing. |
-| `sample_report_2.pdf` | 21 | Building inspection document | To document | Public/sample inspection report used for multi-report testing. |
-| `sample_report_3.pdf` | 79 | Building Inspection Report | To document | Public/sample inspection report used for larger-report testing. |
-| `sample_report_4.pdf` | 30 | Building Inspection Report | To document | Public/sample inspection report used for retrieval and UI testing. |
+| `sample_report_1.pdf` | 15 | Building Inspection Report | https://www.inspectmyhome.com.au/assets/pdf/SAMPLE-BUILDING-REPORT.pdf | Public sample residential building inspection report. |
+| `sample_report_2.pdf` | 21 | Sample Building Report July 2023 | https://compassqld.com.au/wp-content/uploads/2023/02/Sample-Building-Report-July-2023.pdf | Public sample residential building inspection report. |
+| `sample_report_3.pdf` | 79 | Example Commercial Building Survey Report | https://allcottcommercial.co.uk/wp-content/uploads/2020/11/Example-commercial-building-survey-report.pdf | Public sample commercial building survey report. |
+| `sample_report_4.pdf` | 30 | Sample Home Inspection Report | https://www.inspectionsbykeystone.com/pdf/sample-home-inspection.pdf | Public sample home inspection report. |
 
 ## Why These Sources Were Used
 
@@ -32,5 +32,4 @@ The goal of the take-home challenge is to demonstrate a reproducible data and AI
 
 ## Submission Note
 
-Before final submission, each PDF should have its original source URL documented in the table above. Any report whose public provenance cannot be confirmed should be removed or replaced with a clearly documented public sample.
-
+The source URLs above document the public provenance of the sample reports used in the MVP. If additional PDFs are added to `data/raw/`, their source URLs should also be added to this table.
