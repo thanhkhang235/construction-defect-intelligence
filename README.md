@@ -141,6 +141,7 @@ src/
 ## Documentation
 
 - [Product framing](docs/PRODUCT.md)
+- [Data sources](docs/DATA_SOURCES.md)
 - [Architecture](docs/ARCHITECTURE.md)
 - [Data pipeline](docs/PIPELINE.md)
 - [Evaluation](docs/EVALUATION.md)
