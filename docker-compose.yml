@@ -1,0 +1,27 @@
+services:
+  app:
+    build:
+      context: .
+    env_file:
+      - .env
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./data:/app/data
+      - huggingface_cache:/app/.cache/huggingface
+    command: uv run streamlit run src/app/streamlit_app.py
+
+  pipeline:
+    build:
+      context: .
+    profiles:
+      - pipeline
+    env_file:
+      - .env
+    volumes:
+      - ./data:/app/data
+      - huggingface_cache:/app/.cache/huggingface
+    command: uv run python -m src.pipeline.run_pipeline --run-llm --rebuild-index
+
+volumes:
+  huggingface_cache:

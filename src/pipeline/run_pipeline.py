@@ -4,7 +4,10 @@ from pathlib import Path
 from src.embeddings.index_builder import build_qdrant_index_from_directory
 from src.extraction.chunker import chunk_pages
 from src.extraction.pdf_loader import extract_pdf_text
-from src.extraction.run_llm_extraction import run_all_chunks_extraction
+from src.extraction.run_llm_extraction import (
+    get_observations_output_path,
+    run_all_chunks_extraction,
+)
 from src.models.report import ExtractedReport
 from src.utils.config import EXTRACTED_DATA_DIR, RAW_DATA_DIR
 from src.utils.file_utils import save_json
@@ -41,11 +44,17 @@ def run_data_pipeline(
     run_llm: bool = False,
     rebuild_index: bool = False,
     max_chunks_per_report: int | None = None,
+    overwrite_observations: bool = False,
 ) -> None:
     text_paths = extract_all_pdfs_to_text_json()
 
     if run_llm:
         for text_path in text_paths:
+            observations_path = get_observations_output_path(text_path)
+            if observations_path.exists() and not overwrite_observations:
+                print(f"Skipping existing observations: {observations_path.name}")
+                continue
+
             run_all_chunks_extraction(
                 input_path=text_path,
                 max_chunks=max_chunks_per_report,
@@ -73,6 +82,11 @@ def parse_args() -> argparse.Namespace:
         default=None,
         help="Limit LLM extraction cost while testing.",
     )
+    parser.add_argument(
+        "--overwrite-observations",
+        action="store_true",
+        help="Re-run LLM extraction even when an observation JSON already exists.",
+    )
     return parser.parse_args()
 
 
@@ -82,4 +96,5 @@ if __name__ == "__main__":
         run_llm=args.run_llm,
         rebuild_index=args.rebuild_index,
         max_chunks_per_report=args.max_chunks_per_report,
+        overwrite_observations=args.overwrite_observations,
     )

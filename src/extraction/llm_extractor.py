@@ -1,8 +1,9 @@
 import json
 import os
+import time
 from typing import Any
 
-from groq import Groq
+from groq import Groq, RateLimitError
 from pydantic import BaseModel, Field, ValidationError
 
 from src.models.observation import Observation
@@ -43,6 +44,9 @@ Only extract observations that are clearly supported by the provided text.
 If the text contains no technical observations, return {"observations": []}.
 """.strip()
 
+MAX_RETRIES = 5
+INITIAL_RETRY_DELAY_SECONDS = 2.0
+
 
 def _get_groq_client() -> Groq:
     load_environment()
@@ -81,15 +85,33 @@ def extract_observations_from_chunk(
     client = _get_groq_client()
     model = _get_groq_model()
 
-    response = client.chat.completions.create(
-        model=model,
-        messages=[
-            {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user", "content": chunk["text"]},
-        ],
-        temperature=0,
-        response_format={"type": "json_object"},
-    )
+    response = None
+    retry_delay = INITIAL_RETRY_DELAY_SECONDS
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            response = client.chat.completions.create(
+                model=model,
+                messages=[
+                    {"role": "system", "content": SYSTEM_PROMPT},
+                    {"role": "user", "content": chunk["text"]},
+                ],
+                temperature=0,
+                response_format={"type": "json_object"},
+            )
+            break
+        except RateLimitError:
+            if attempt == MAX_RETRIES:
+                raise
+
+            print(
+                f"Rate limit reached for {chunk['chunk_id']}. "
+                f"Retrying in {retry_delay:.0f}s..."
+            )
+            time.sleep(retry_delay)
+            retry_delay *= 2
+
+    if response is None:
+        raise RuntimeError(f"No LLM response received for {chunk['chunk_id']}.")
 
     content = response.choices[0].message.content or "{}"
     parsed_response = _parse_json_response(content)

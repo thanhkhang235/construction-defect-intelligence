@@ -227,6 +227,42 @@ The app supports:
 - source report and source page traceability
 - in-app preview of cited PDF pages
 
+## Run With Docker
+
+Docker is provided so a non-technical reviewer can run the app without installing Python dependencies locally.
+
+First, create `.env` from the example file:
+
+```bash
+cp .env.example .env
+```
+
+Add your Groq API key to `.env`, then put PDF reports in:
+
+```text
+data/raw/
+```
+
+Run the data pipeline inside Docker:
+
+```bash
+docker compose --profile pipeline run --rm pipeline
+```
+
+Start the app:
+
+```bash
+docker compose up --build app
+```
+
+Open:
+
+```text
+http://localhost:8501
+```
+
+The `data/` folder is mounted into the container, so extracted files and the local vector store persist between runs.
+
 ## Trade-Offs
 
 What is production-like:

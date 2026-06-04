@@ -1,3 +1,4 @@
+import time
 from pathlib import Path
 from typing import Any
 
@@ -9,6 +10,7 @@ from src.utils.file_utils import load_json, save_json
 
 DEFAULT_INPUT_PATH = EXTRACTED_DATA_DIR / "sample_report_text.json"
 DEFAULT_OUTPUT_PATH = EXTRACTED_DATA_DIR / "sample_report_observations.json"
+DEFAULT_CHUNK_DELAY_SECONDS = 1.0
 
 
 def get_observations_output_path(input_path: str | Path) -> Path:
@@ -83,19 +85,24 @@ def run_all_chunks_extraction(
     input_path: str | Path = DEFAULT_INPUT_PATH,
     output_path: str | Path | None = None,
     max_chunks: int | None = None,
+    delay_seconds: float = DEFAULT_CHUNK_DELAY_SECONDS,
 ) -> list[Observation]:
     report = load_json(input_path)
     output_path = output_path or get_observations_output_path(input_path)
     observations: list[Observation] = []
 
     chunks = report["chunks"][:max_chunks]
-    for chunk in chunks:
+    for chunk_index, chunk in enumerate(chunks, start=1):
         observations.extend(
             extract_observations_from_chunk(
                 chunk=chunk,
                 report_id=report["report_id"],
             )
         )
+        print(f"Processed chunk {chunk_index}/{len(chunks)}: {chunk['chunk_id']}")
+
+        if delay_seconds > 0 and chunk_index < len(chunks):
+            time.sleep(delay_seconds)
 
     _save_observations(report, observations, output_path)
 
