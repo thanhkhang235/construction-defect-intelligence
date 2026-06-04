@@ -30,6 +30,7 @@ The quality script reports:
 - invalid observation type rate
 - invalid severity rate
 - unique category count
+- normalized category count
 - category casing duplicate groups
 
 ## Interpretation
@@ -41,6 +42,7 @@ Useful signals:
 - Duplicate rate detects stale files or repeated observations.
 - Unknown severity and location rates reveal extraction uncertainty.
 - Category inconsistency reveals where taxonomy normalization is needed.
+- Normalized category count shows how noisy LLM labels are mapped into a smaller inspection taxonomy.
 
 ## Current Limitation
 
@@ -61,4 +63,3 @@ notes
 ```
 
 This would allow an estimated extraction precision score.
-

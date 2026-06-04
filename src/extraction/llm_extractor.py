@@ -7,6 +7,7 @@ from groq import Groq, RateLimitError
 from pydantic import BaseModel, Field, ValidationError
 
 from src.models.observation import Observation
+from src.utils.category_normalizer import get_canonical_categories
 from src.utils.config import load_environment
 
 
@@ -23,25 +24,33 @@ class ObservationExtractionResponse(BaseModel):
     observations: list[ExtractedObservationFields] = Field(default_factory=list)
 
 
-SYSTEM_PROMPT = """
+CANONICAL_CATEGORY_LIST = "\n".join(
+    f"- {category}" for category in get_canonical_categories()
+)
+
+SYSTEM_PROMPT = f"""
 You extract structured technical observations from building inspection report text.
 
+Choose category from this controlled taxonomy only:
+{CANONICAL_CATEGORY_LIST}
+
 Return only valid JSON with this exact shape:
-{
+{{
   "observations": [
-    {
+    {{
       "observation_type": "finding | risk | recommendation | compliance | maintenance",
-      "category": "short technical category",
+      "category": "one controlled taxonomy category from the list above",
       "severity": "low | medium | high | unknown",
       "location": "building location or Unknown",
       "description": "specific observation from the text",
       "recommendation": "recommended action or null"
-    }
+    }}
   ]
-}
+}}
 
 Only extract observations that are clearly supported by the provided text.
-If the text contains no technical observations, return {"observations": []}.
+If the text contains no technical observations, return {{"observations": []}}.
+Do not invent new category names. If no category fits, use "Other".
 """.strip()
 
 MAX_RETRIES = 5

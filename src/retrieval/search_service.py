@@ -17,7 +17,7 @@ def is_search_index_ready(collection_name: str = QDRANT_COLLECTION_NAME) -> bool
 def build_metadata_filter(
     observation_types: list[str] | None = None,
     severities: list[str] | None = None,
-    categories: list[str] | None = None,
+    normalized_categories: list[str] | None = None,
     source_files: list[str] | None = None,
 ) -> Filter | None:
     conditions = []
@@ -25,7 +25,7 @@ def build_metadata_filter(
     filter_fields = {
         "observation_type": observation_types,
         "severity": severities,
-        "category": categories,
+        "normalized_category": normalized_categories,
         "source_file": source_files,
     }
 
@@ -82,7 +82,11 @@ def get_filter_options(
             {payload.get("severity") for payload in payloads if payload.get("severity")}
         ),
         "categories": sorted(
-            {payload.get("category") for payload in payloads if payload.get("category")}
+            {
+                payload.get("normalized_category")
+                for payload in payloads
+                if payload.get("normalized_category")
+            }
         ),
         "source_files": sorted(
             {payload.get("source_file") for payload in payloads if payload.get("source_file")}
@@ -96,7 +100,7 @@ def search_similar_observations(
     collection_name: str = QDRANT_COLLECTION_NAME,
     observation_types: list[str] | None = None,
     severities: list[str] | None = None,
-    categories: list[str] | None = None,
+    normalized_categories: list[str] | None = None,
     source_files: list[str] | None = None,
 ) -> list[dict[str, Any]]:
     client = get_qdrant_client()
@@ -114,7 +118,7 @@ def search_similar_observations(
         query_filter=build_metadata_filter(
             observation_types=observation_types,
             severities=severities,
-            categories=categories,
+            normalized_categories=normalized_categories,
             source_files=source_files,
         ),
         limit=limit,

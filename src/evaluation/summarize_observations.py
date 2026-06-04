@@ -1,6 +1,7 @@
 from collections import Counter, defaultdict
 from pathlib import Path
 
+from src.utils.category_normalizer import normalize_category
 from src.utils.config import EXTRACTED_DATA_DIR
 from src.utils.file_utils import load_json
 
@@ -77,6 +78,9 @@ def summarize_observations(extracted_dir: Path = EXTRACTED_DATA_DIR) -> None:
     )
     category_counts = Counter(
         observation.get("category", "Unknown") for observation in all_observations
+    )
+    normalized_category_counts = Counter(
+        normalize_category(observation.get("category")) for observation in all_observations
     )
 
     descriptions_by_text = defaultdict(list)
@@ -180,6 +184,7 @@ def summarize_observations(extracted_dir: Path = EXTRACTED_DATA_DIR) -> None:
         f"{format_rate(invalid_severity_count, len(all_observations))}"
     )
     print(f"Unique categories: {len(unique_categories)}")
+    print(f"Normalized categories: {len(normalized_category_counts)}")
     print(f"Category casing duplicate groups: {len(category_casing_duplicates)}")
     print(f"Average observations per report: {average_observations_per_report:.1f}")
 
@@ -201,6 +206,11 @@ def summarize_observations(extracted_dir: Path = EXTRACTED_DATA_DIR) -> None:
     print("\nTop categories")
     print("--------------")
     for category, count in category_counts.most_common(15):
+        print(f"{category}: {count}")
+
+    print("\nNormalized categories")
+    print("---------------------")
+    for category, count in normalized_category_counts.most_common():
         print(f"{category}: {count}")
 
     if empty_reports:

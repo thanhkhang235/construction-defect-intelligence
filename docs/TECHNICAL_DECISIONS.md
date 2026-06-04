@@ -12,6 +12,12 @@ PyMuPDF handles PDF text extraction and source page rendering. It supports page-
 
 Pydantic models define the schema for structured observations. This keeps LLM output constrained and validates important fields before data enters the retrieval layer.
 
+## Category Normalization
+
+The LLM can produce noisy category labels such as `Roof`, `Roofing`, `roofing`, or `Roof Covering`. The project keeps the original extracted category for transparency, but also maps it to a smaller canonical taxonomy for filtering and evaluation.
+
+The taxonomy is also included in the LLM extraction prompt so new observations are encouraged to use canonical categories from the start. The rule-based normalizer remains as a safety net for legacy outputs and unexpected model responses.
+
 ## Groq
 
 Groq is used for LLM extraction because it is fast and practical for a demo. The API key is stored in `.env` and excluded from Git.
@@ -55,4 +61,3 @@ MVP limitations:
 - no OCR for scanned PDFs
 - no authentication
 - limited document set
-

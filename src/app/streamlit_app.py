@@ -36,6 +36,7 @@ def render_pdf_page(source_file: str, source_page: int) -> bytes:
 def render_result(result: dict, rank: int) -> None:
     severity = result.get("severity", "unknown")
     category = result.get("category", "Unknown")
+    normalized_category = result.get("normalized_category", "Other")
     observation_type = result.get("observation_type", "unknown")
     source_file = result.get("source_file", "Unknown file")
     source_page = result.get("source_page", "Unknown")
@@ -51,8 +52,10 @@ def render_result(result: dict, rank: int) -> None:
 
         meta_cols = st.columns(3)
         meta_cols[0].caption(f"Type: {observation_type}")
-        meta_cols[1].caption(f"Category: {category}")
+        meta_cols[1].caption(f"Category: {normalized_category}")
         meta_cols[2].caption(f"Location: {result.get('location', 'Unknown')}")
+        if category != normalized_category:
+            st.caption(f"Original extracted category: {category}")
 
         recommendation = result.get("recommendation")
         if recommendation:
@@ -125,7 +128,7 @@ if submitted and query.strip():
             limit=limit,
             observation_types=selected_types,
             severities=selected_severities,
-            categories=selected_categories,
+            normalized_categories=selected_categories,
             source_files=selected_source_files,
         )
 

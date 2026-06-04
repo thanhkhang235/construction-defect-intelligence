@@ -9,6 +9,7 @@ from src.utils.config import (
     QDRANT_COLLECTION_NAME,
     QDRANT_LOCAL_PATH,
 )
+from src.utils.category_normalizer import normalize_category
 from src.utils.file_utils import load_json
 
 
@@ -38,10 +39,12 @@ def build_qdrant_index_from_files(
     for observations_path in observations_paths:
         report = load_json(observations_path)
         for observation in report["observations"]:
+            raw_category = observation.get("category")
             indexed_observations.append(
                 {
                     "report_id": report["report_id"],
                     "source_file": report["source_file"],
+                    "normalized_category": normalize_category(raw_category),
                     **observation,
                 }
             )

@@ -3,6 +3,7 @@ from functools import lru_cache
 from sentence_transformers import SentenceTransformer
 
 from src.utils.config import EMBEDDING_MODEL_NAME
+from src.utils.category_normalizer import normalize_category
 
 
 @lru_cache(maxsize=1)
@@ -22,6 +23,8 @@ def embed_texts(texts: list[str]) -> list[list[float]]:
 def build_observation_text(observation: dict) -> str:
     fields = [
         observation.get("observation_type", ""),
+        observation.get("normalized_category")
+        or normalize_category(observation.get("category")),
         observation.get("category", ""),
         observation.get("severity", ""),
         observation.get("location", ""),
