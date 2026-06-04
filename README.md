@@ -145,6 +145,7 @@ src/
 - [Architecture](docs/ARCHITECTURE.md)
 - [Data pipeline](docs/PIPELINE.md)
 - [Evaluation](docs/EVALUATION.md)
+- [Manual review](docs/MANUAL_REVIEW.md)
 - [Technical decisions](docs/TECHNICAL_DECISIONS.md)
 - [Roadmap](docs/ROADMAP.md)
 

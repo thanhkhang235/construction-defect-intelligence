@@ -63,3 +63,5 @@ notes
 ```
 
 This would allow an estimated extraction precision score.
+
+This repository includes a lightweight manual review workflow in [Manual review](MANUAL_REVIEW.md).
