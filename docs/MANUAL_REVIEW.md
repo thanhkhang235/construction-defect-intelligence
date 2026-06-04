@@ -60,7 +60,49 @@ severity reasonableness = severity_reasonable yes / reviewed observations
 recommendation support = recommendation_supported yes / rows with recommendations
 ```
 
+## Current Assisted Review Sample
+
+A 20-row assisted review sample was created at:
+
+```text
+data/evaluation/manual_review_sample.csv
+```
+
+Current review summary:
+
+```text
+Source support:
+- yes: 13
+- partial: 5
+- no: 2
+
+Category correctness:
+- yes: 14
+- partial: 4
+- no: 2
+
+Severity reasonableness:
+- yes: 14
+- partial: 3
+- no: 3
+
+Recommendation support:
+- yes: 4
+- partial: 1
+- not_applicable: 15
+```
+
+Interpretation:
+
+```text
+Fully supported observations: 65.0%
+Fully or partially supported observations: 90.0%
+Fully or partially correct categories: 90.0%
+Fully or partially reasonable severities: 85.0%
+```
+
+This is an assisted review and should be treated as a lightweight MVP evaluation, not a statistically representative accuracy study.
+
 ## Why This Matters
 
 This makes the evaluation more credible because it acknowledges that LLM quality cannot be fully assessed with automatic schema checks alone.
-
