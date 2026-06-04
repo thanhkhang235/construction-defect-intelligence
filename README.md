@@ -8,6 +8,10 @@ Inspection reports contain valuable engineering knowledge, but the information i
 
 The goal is to make previous inspection knowledge reusable instead of leaving it locked inside documents.
 
+## Demo
+
+Demo video: [Watch on Loom](https://www.loom.com/share/6f4b601aec784274b49cb587c57adb16)
+
 ## Target User
 
 Primary user:
