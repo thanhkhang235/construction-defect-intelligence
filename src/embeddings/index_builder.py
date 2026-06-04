@@ -13,7 +13,7 @@ from src.utils.category_normalizer import normalize_category
 from src.utils.file_utils import load_json
 
 
-DEFAULT_OBSERVATIONS_PATH = EXTRACTED_DATA_DIR / "sample_report_observations.json"
+DEFAULT_OBSERVATIONS_PATH = EXTRACTED_DATA_DIR / "sample_report_1_observations.json"
 VECTOR_SIZE = 384
 
 
@@ -109,4 +109,4 @@ def build_qdrant_index_from_directory(
 
 
 if __name__ == "__main__":
-    build_qdrant_index()
+    build_qdrant_index_from_directory()

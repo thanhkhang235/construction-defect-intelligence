@@ -8,8 +8,8 @@ from src.utils.config import EXTRACTED_DATA_DIR
 from src.utils.file_utils import load_json, save_json
 
 
-DEFAULT_INPUT_PATH = EXTRACTED_DATA_DIR / "sample_report_text.json"
-DEFAULT_OUTPUT_PATH = EXTRACTED_DATA_DIR / "sample_report_observations.json"
+DEFAULT_INPUT_PATH = EXTRACTED_DATA_DIR / "sample_report_1_text.json"
+DEFAULT_OUTPUT_PATH = EXTRACTED_DATA_DIR / "sample_report_1_observations.json"
 DEFAULT_CHUNK_DELAY_SECONDS = 1.0
 
 

@@ -1,7 +1,7 @@
 [project]
 name = "construction-defect-intelligence"
 version = "0.1.0"
-description = "Add your description here"
+description = "AI-powered inspection report intelligence for structured extraction and semantic search"
 requires-python = ">=3.11,<3.12"
 dependencies = [
     "groq>=1.4.0",
