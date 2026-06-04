@@ -82,7 +82,12 @@ st.title("Building Inspection Intelligence")
 st.caption(f"Semantic search over extracted building inspection observations. Collection: {QDRANT_COLLECTION_NAME}")
 
 if not is_search_index_ready():
-    st.warning("Search index not found. Run `uv run python -m src.embeddings.index_builder` first.")
+    st.warning("Search index not found. Build it before searching.")
+    st.code("docker compose --profile pipeline run --rm pipeline", language="bash")
+    st.caption(
+        "Local alternative: "
+        "`uv run python -m src.pipeline.run_pipeline --rebuild-index`"
+    )
     st.stop()
 
 filter_options = get_filter_options()

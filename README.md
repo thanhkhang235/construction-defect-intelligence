@@ -58,7 +58,7 @@ The repository already includes sample public inspection PDFs in:
 data/raw/
 ```
 
-To test with additional reports, add more PDF files to that same folder.
+The original report source URLs are documented in [Data sources](docs/DATA_SOURCES.md). To test with additional reports, add more PDF files to `data/raw/`. 
 
 Run the data pipeline:
 
