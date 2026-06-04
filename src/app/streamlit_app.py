@@ -83,7 +83,7 @@ st.caption(f"Semantic search over extracted building inspection observations. Co
 
 if not is_search_index_ready():
     st.warning("Search index not found. Build it before searching.")
-    st.code("docker compose --profile pipeline run --rm pipeline", language="bash")
+    st.code("docker compose --profile index run --rm index", language="bash")
     st.caption(
         "Local alternative: "
         "`uv run python -m src.pipeline.run_pipeline --rebuild-index`"
